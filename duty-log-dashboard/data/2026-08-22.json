@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-23T13:55:44+08:00",
+  "synced_at": "2026-08-23T15:17:29+08:00",
   "business_date": "2026-08-22",
   "template": "值班管理日志3.0-测试",
   "expected_store_count": 34,
@@ -12,12 +12,7 @@
     "suspected_anomalies": [],
     "duplicate_images": [],
     "date_rule": "按值班日志内选择的业务日期归属，不按日志提交时间归属",
-    "duplicate_rule": "仅与其他业务日期的历史效期图片按SHA-256比对；同一业务日期内部相同图片不计入重复图片",
-    "duplicate_check": {
-      "current_image_count": 75,
-      "historical_image_count": 200,
-      "cross_business_date_match_count": 0
-    }
+    "duplicate_rule": "仅与其他业务日期的历史效期图片按SHA-256比对；同一业务日期内部相同图片不计入重复图片"
   },
   "records": [
     {
@@ -37,7 +32,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lADPM2GaR4pcFpPNBQDNAk8_591_1280.jpg"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a029e9caa62dfb51dd69c549179fd3b",
@@ -57,7 +53,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lADPD1-zJAXaFzPNBQDNAlA_592_1280.jpg"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a029f9b09d7b04f5b2b08444f189ebb",
@@ -73,7 +70,8 @@
       "daily_report_images": [
         "https://static.dingtalk.com/media/lADPD1hpxDyMgvPNBQDNAk4_590_1280.jpg",
         "https://static.dingtalk.com/media/lALPM19vfMq8U_PM980Eew_1147_247.png"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a02a154ae58c0c61723042484d91cf5",
@@ -89,7 +87,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lADPM3Fgb52XeAPNAuLNAsY_710_738.jpg"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a02a099ffb1672634e78db46239285a",
@@ -106,7 +105,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lALPD1tcpd6iH2PNAlbNAqg_680_598.png"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a029d673d6348d093661654a3b9b37f",
@@ -122,7 +122,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lADPM27_EwDwRVPNBQDNAkA_576_1280.jpg"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a029ffe68f7367090104ba4a2ea6e0c",
@@ -137,7 +138,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lADPD0h2IrFBZNPNBGfNBJQ_1172_1127.jpg"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a02a1435afbd6fab4fc9634ec993102",
@@ -152,7 +154,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lADPM2LPgd55qIPNBQDNAlA_592_1280.jpg"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a02a16de467c51ec55d91d4018aceeb",
@@ -167,7 +170,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lADPM20dCshN7MPNBQDNAk8_591_1280.jpg"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a02a005358cc67ffac77c54d37851a7",
@@ -182,7 +186,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lADPD2QjGY76QhPNBQDNAk4_590_1280.jpg"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a02ae3e625430f01c65365453e857fc",
@@ -198,7 +203,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lADPM2DkYVTwBnPNBQDNAk8_591_1280.jpg"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a02a2879a029859defc93d40c9a1d73",
@@ -217,7 +223,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lALPD0QXdSBGAOPNAoPNAjs_571_643.png"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a02a0e0dd60f93c52bf15941ff86874",
@@ -232,7 +239,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lADPM3gXYXQf2yPNBhHNBaA_1440_1553.jpg"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a02a0d85659a889c74a8514f4ba4b44",
@@ -247,7 +255,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lADPM3FXVyT_WqPNA7zNBFE_1105_956.jpg"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a02a0453fb984558d3a6d04ba799c51",
@@ -262,7 +271,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lALPD139rInakMPNAyTNBeg_1512_804.png_810x10000.jpg"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a029e90cbdd83d899b3def4519b6c04",
@@ -278,7 +288,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lADPM2sNiOeNv5PNBQDNAk8_591_1280.jpg"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a029eb69ef668e725ab2f5403080388",
@@ -296,7 +307,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lALPD16qejcaBNPNAvjNAvQ_756_760.png"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a029dcb3a2b28c85e3414245eab53d9",
@@ -315,7 +327,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lALPD2MbWJm_avPNA7TNAzU_821_948.png"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a029fe03509fe8521507834a23bd63a",
@@ -331,7 +344,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lALPD1IzD6Bp6sPNAuLNBGU_1125_738.png"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a029f3bf987edc902cbf014076a2540",
@@ -346,7 +360,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lALPM2NqHyJSFQPNA5PNAvw_764_915.png_810x10000.jpg"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a029f32cd21645edbb2194452aa2763",
@@ -361,7 +376,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lADPM22KLmI6VFPNA17NAvw_764_862.jpg"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a02a0046409c375b555dcf49babe375",
@@ -376,7 +392,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lALPM2BJxC9ywAPNAgPNAdM_467_515.png"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a029cfe2f0dd343b681333417784a31",
@@ -392,7 +409,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lALPM1tHYNhhpNPNArLNAvQ_756_690.png"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a02a16c56fc94b1cd1b10b447da71c8",
@@ -407,7 +425,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lADPD1s4RHSRh4PNAtvNBMQ_1220_731.jpg"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a02a00fceb049c76d5e98b4bc5a7a3b",
@@ -422,7 +441,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lADPM1p2Mf98mePNA6XNAv8_767_933.jpg"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a029f51c23637d5e9f92d6449382194",
@@ -437,7 +457,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lADPD0xnrMR0DdPNA5PNAvw_764_915.jpg"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a02a02fef4eb7153b7cec84d17aba37",
@@ -452,7 +473,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lALPM10XOKt87yPNAdrNAvQ_756_474.png"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a02a019824e4c0a5e7135a4ccd8514e",
@@ -467,7 +489,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lALPD2ZN5D8rq6PNAjLNAp8_671_562.png"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a029ef72fe23b28fa5bd9447d6ac690",
@@ -482,7 +505,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lADPD0ki8HuY0JPNAmrNBJI_1170_618.jpg"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a029723f529badbce4aba0405f9f375",
@@ -497,7 +521,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lADPM3mDLcyfyNPNBJPNBLA_1200_1171.jpg"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a02a0335428af534bcee1f4873ad36e",
@@ -514,7 +539,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lALPM3Tt7irvvSPNAsLNAmw_620_706.png"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a02a209bea3ff4809736f94831966c8",
@@ -529,7 +555,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lALPM27RmXhCYiPNAfHNAf0_509_497.png"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a02a413f30be9ea7f22b35495b997e9",
@@ -549,7 +576,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lADPM2JrdpMct8PNBQDNA8E_961_1280.jpg"
-      ]
+      ],
+      "weekly_operation_images": []
     },
     {
       "report_id": "1a02a1bf15ab278228c2f864d9dadb45",
@@ -570,7 +598,8 @@
       ],
       "daily_report_images": [
         "https://static.dingtalk.com/media/lALPM2NX7oVdksPNBmzNBxg_1816_1644.png_810x10000.jpg"
-      ]
+      ],
+      "weekly_operation_images": []
     }
   ]
 }
