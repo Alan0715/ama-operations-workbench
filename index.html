@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#6f2f25">
+  <title>阿嬷手作 · 营运机器人工作台</title>
+  <style>
+    :root{--bg:#f5efe4;--paper:#fffdf8;--ink:#332823;--muted:#84766c;--line:#e5d8c7;--brand:#78372c;--brand2:#aa6047;--gold:#c8a568;--green:#657643;--shadow:0 14px 42px rgba(91,61,40,.12)}
+    *{box-sizing:border-box}html,body{margin:0;min-height:100%;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;color:var(--ink);background:var(--bg)}
+    button,a{font:inherit}.shell{min-height:100vh;display:grid;grid-template-columns:196px minmax(0,1fr)}
+    aside{position:sticky;top:0;height:100vh;padding:16px 12px;background:linear-gradient(165deg,#4a241f 0%,#78372c 60%,#8f4b38 100%);color:#fff;display:flex;flex-direction:column;box-shadow:8px 0 28px rgba(60,30,20,.12);z-index:3}
+    .logo{display:flex;align-items:center;gap:9px;margin:0 4px 16px}.seal{width:34px;height:34px;border:1px solid rgba(255,255,255,.5);border-radius:10px;display:grid;place-items:center;font-family:"Songti SC",serif;font-size:17px;background:rgba(255,255,255,.09)}
+    .logo strong{font-family:"Songti SC",serif;font-size:16px;letter-spacing:1px}.logo small{display:block;margin-top:2px;color:#ead8cd;font-size:8px;letter-spacing:.5px}
+    .nav{display:grid;gap:6px}.nav button{border:1px solid transparent;border-radius:10px;background:transparent;color:#f3e8df;text-align:left;padding:9px 9px;cursor:pointer;display:grid;grid-template-columns:26px 1fr;gap:7px;align-items:center;transition:.2s}
+    .nav button:hover{background:rgba(255,255,255,.08)}.nav button.active{background:#fffaf1;color:var(--brand);box-shadow:0 8px 24px rgba(41,20,14,.18)}.nav .ico{font-size:16px}.nav b{font-size:12px}.nav small,.arrow{display:none}
+    .aside-foot{margin-top:auto;padding:10px 7px 0;border-top:1px solid rgba(255,255,255,.16);font-size:9px;color:#e4cec2;line-height:1.5}
+    main{min-width:0;padding:14px}.topbar{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:10px}.eyebrow{color:var(--brand2);font-weight:700;font-size:9px;letter-spacing:1.4px}.topbar h1{font-family:"Songti SC",serif;margin:3px 0 2px;font-size:21px;letter-spacing:.5px}.topbar p{margin:0;color:var(--muted);font-size:11px}.date{color:var(--muted);font-size:10px;white-space:nowrap}
+    .workspace{background:var(--paper);border:1px solid var(--line);border-radius:13px;box-shadow:var(--shadow);overflow:hidden}.work-head{min-height:45px;padding:7px 12px;border-bottom:1px solid var(--line);display:flex;align-items:center}.work-title{display:flex;align-items:center;gap:8px}.work-icon{width:29px;height:29px;border-radius:9px;background:#f1e6d8;display:grid;place-items:center;font-size:15px}.work-title b{display:block;font-size:13px}.work-title small{color:var(--muted);font-size:9px}.stage{height:calc(100vh - 108px);min-height:620px;background:#eee7dc;position:relative}.stage iframe{width:100%;height:100%;border:0;background:#fff}
+    @media(max-width:1050px){.stage{height:calc(100vh - 108px)}}
+    @media(max-width:760px){.shell{display:block}aside{position:relative;height:auto;padding:16px}.logo{margin-bottom:14px}.nav{grid-template-columns:repeat(3,1fr)}.nav button{grid-template-columns:1fr;text-align:center;padding:10px 5px}.nav .ico{font-size:20px}.nav small,.arrow,.aside-foot{display:none}main{padding:12px}.topbar{display:block}.date{display:none}.stage{height:75vh;min-height:500px}.work-head{align-items:flex-start}.topbar h1{font-size:23px}}
+  </style>
+</head>
+<body>
+<div class="shell">
+  <aside>
+    <div class="logo"><div class="seal">嬷</div><div><strong>营运工作台</strong><small>ROBOT OPERATIONS HUB</small></div></div>
+    <nav class="nav" id="nav"></nav>
+    <div class="aside-foot">统一入口 · 三项业务串联<br>采集 → 核验 → 看板 → 钉钉推送</div>
+  </aside>
+  <main>
+    <header class="topbar"><div><div class="eyebrow">AMA HANDCRAFTED · SOUTH CHINA</div><h1>营运机器人工作台</h1><p>集中查看品控稽核、值班日志与原料效期。</p></div><div class="date" id="today"></div></header>
+    <section class="workspace">
+      <div class="work-head"><div class="work-title"><span class="work-icon" id="workIcon"></span><div><b id="workName"></b><small id="workDesc"></small></div></div></div>
+      <div class="stage"><iframe id="frame" title="业务看板"></iframe></div>
+    </section>
+  </main>
+</div>
+<script>
+const modules=[
+ {id:'qc',icon:'✓',name:'品控稽核看板',short:'巡店品控',desc:'品控模板报告、问题点与红线',state:'明细看板已接入',accent:'#8e3b32',local:'qc-dashboard/index.html',public:'https://alan0715.github.io/ama-qc-dashboard/'},
+ {id:'duty',icon:'▦',name:'值班日志校验',short:'值班日志',desc:'门店详细数据与照片自动校验',state:'最新业务日自动同步',accent:'#647442',local:'duty-log-dashboard/index.html?v=20260822-6',public:'https://220f74a8701041b3a26356808ac59771.bj5.agentos-app.net'},
+ {id:'expiry',icon:'◷',name:'原料效期核对',short:'效期核对',desc:'订单支付与制作完成双时间判断',state:'双时间口径已接入',accent:'#9b6a2e',local:'expiry-web-dashboard/index.html',public:'https://alan0715.github.io/ama-mango-expiry-dashboard/'}
+];
+const nav=document.getElementById('nav');
+const workIconEl=document.getElementById('workIcon'),workNameEl=document.getElementById('workName'),workDescEl=document.getElementById('workDesc');
+const frameEl=document.getElementById('frame'),todayEl=document.getElementById('today');
+nav.innerHTML=modules.map(m=>`<button data-id="${m.id}"><span class="ico">${m.icon}</span><span><b>${m.short}</b><small>${m.desc}</small></span><span class="arrow">›</span></button>`).join('');
+function select(id){const m=modules.find(x=>x.id===id)||modules[0];document.querySelectorAll('[data-id]').forEach(x=>x.classList.toggle('active',x.dataset.id===m.id));workIconEl.textContent=m.icon;workNameEl.textContent=m.name;workDescEl.textContent=m.desc;if(frameEl.getAttribute('src')!==m.local)frameEl.src=m.local;history.replaceState(null,'','#'+m.id);}
+document.querySelectorAll('[data-id]').forEach(el=>el.addEventListener('click',()=>select(el.dataset.id)));
+todayEl.textContent=new Intl.DateTimeFormat('zh-CN',{dateStyle:'full'}).format(new Date());
+select(location.hash.slice(1)||'qc');
+</script>
+</body>
+</html>
