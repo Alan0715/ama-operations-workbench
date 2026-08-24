@@ -29,7 +29,7 @@
     <div class="aside-foot">统一入口 · 三项业务串联<br>采集 → 核验 → 看板 → 钉钉推送</div>
   </aside>
   <main>
-    <header class="topbar"><div><div class="eyebrow">AMA HANDCRAFTED · SOUTH CHINA</div><h1>营运工作台</h1><p>集中查看品控稽核、值班日志与原料效期。</p></div><div class="date" id="today"></div></header>
+    <header class="topbar"><div><div class="eyebrow">AMA HANDCRAFTED · SOUTH CHINA</div><h1>营运工作台</h1><p>集中查看品控稽核、值班日志与效期看板。</p></div><div class="date" id="today"></div></header>
     <section class="workspace">
       <div class="work-head"><div class="work-title"><span class="work-icon" id="workIcon"></span><div><b id="workName"></b><small id="workDesc"></small></div></div></div>
       <div class="stage"><iframe id="frame" title="业务看板"></iframe></div>
@@ -40,7 +40,7 @@
 const modules=[
  {id:'qc',icon:'✓',name:'品控稽核看板',short:'品控稽核',desc:'品控模板报告、问题点与红线',state:'共性问题随报告自动重算',accent:'#8e3b32',local:'qc-dashboard/index.html?v=20260824-1',public:'https://alan0715.github.io/ama-qc-dashboard/'},
  {id:'duty',icon:'▦',name:'值班日志校验',short:'值班日志',desc:'门店详细数据与照片自动校验',state:'历史数据已覆盖 2026-08-13 至最新业务日',accent:'#647442',local:'duty-log-dashboard/index.html?v=20260824-2',public:'https://220f74a8701041b3a26356808ac59771.bj5.agentos-app.net'},
- {id:'expiry',icon:'◷',name:'原料效期核对',short:'效期核对',desc:'订单支付与制作完成双时间判断',state:'默认显示前一业务日数据',accent:'#9b6a2e',local:'expiry-web-dashboard/index.html?v=20260824-2',public:'https://alan0715.github.io/ama-mango-expiry-dashboard/'}
+ {id:'expiry',icon:'◷',name:'效期看板',short:'效期看板',desc:'订单支付与制作完成双时间判断',state:'默认显示前一业务日数据',accent:'#9b6a2e',local:'expiry-web-dashboard/index.html?v=20260824-2',public:'https://alan0715.github.io/ama-mango-expiry-dashboard/'}
 ];
 const nav=document.getElementById('nav');
 const workIconEl=document.getElementById('workIcon'),workNameEl=document.getElementById('workName'),workDescEl=document.getElementById('workDesc');
