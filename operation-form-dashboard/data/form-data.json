@@ -1,6 +1,6 @@
 {
   "business_date": "2026-08-24",
-  "updated_at": "2026-08-26T00:31:07+08:00",
+  "updated_at": "2026-08-26T00:38:21+08:00",
   "data_status": "ready",
   "region_order": [
     "华南一区",
@@ -36,12 +36,12 @@
     }
   ],
   "stats": {
-    "stores": 36,
+    "stores": 34,
     "complete_stores": 16,
-    "incomplete_stores": 20,
+    "incomplete_stores": 18,
     "completed_forms": 114,
-    "expected_forms": 144,
-    "completion_rate": 79.2
+    "expected_forms": 136,
+    "completion_rate": 83.8
   },
   "region_summary": [
     {
@@ -82,12 +82,12 @@
     },
     {
       "region": "华南五区",
-      "stores": 5,
+      "stores": 4,
       "complete_stores": 1,
-      "incomplete_stores": 4,
+      "incomplete_stores": 3,
       "completed_forms": 12,
-      "expected_forms": 20,
-      "completion_rate": 60
+      "expected_forms": 16,
+      "completion_rate": 75
     },
     {
       "region": "华南六区",
@@ -118,12 +118,12 @@
     },
     {
       "region": "华南九区",
-      "stores": 4,
+      "stores": 3,
       "complete_stores": 2,
-      "incomplete_stores": 2,
+      "incomplete_stores": 1,
       "completed_forms": 11,
-      "expected_forms": 16,
-      "completion_rate": 68.8
+      "expected_forms": 12,
+      "completion_rate": 91.7
     }
   ],
   "stores": [
@@ -955,42 +955,6 @@
       "missing_forms": []
     },
     {
-      "region": "华南五区",
-      "city": "广州",
-      "store": "广州万象城店·集",
-      "statuses": {
-        "morning_duty": {
-          "status": "missing",
-          "report_count": 0,
-          "report_ids": []
-        },
-        "morning_quality": {
-          "status": "missing",
-          "report_count": 0,
-          "report_ids": []
-        },
-        "evening_duty": {
-          "status": "missing",
-          "report_count": 0,
-          "report_ids": []
-        },
-        "handover_quality": {
-          "status": "missing",
-          "report_count": 0,
-          "report_ids": []
-        }
-      },
-      "completed_count": 0,
-      "expected_count": 4,
-      "completion_rate": 0,
-      "missing_forms": [
-        "【营运】值班检查表-早班",
-        "【营运】金牌阿嬷品质自检表（早班）",
-        "【营运】值班检查表-晚班",
-        "【营运】金牌阿嬷品质自检表（交接班）"
-      ]
-    },
-    {
       "region": "华南六区",
       "city": "东莞",
       "store": "东莞汇一城店",
@@ -1384,42 +1348,6 @@
       "expected_count": 4,
       "completion_rate": 100,
       "missing_forms": []
-    },
-    {
-      "region": "华南九区",
-      "city": "佛山",
-      "store": "佛山万象天地店",
-      "statuses": {
-        "morning_duty": {
-          "status": "missing",
-          "report_count": 0,
-          "report_ids": []
-        },
-        "morning_quality": {
-          "status": "missing",
-          "report_count": 0,
-          "report_ids": []
-        },
-        "evening_duty": {
-          "status": "missing",
-          "report_count": 0,
-          "report_ids": []
-        },
-        "handover_quality": {
-          "status": "missing",
-          "report_count": 0,
-          "report_ids": []
-        }
-      },
-      "completed_count": 0,
-      "expected_count": 4,
-      "completion_rate": 0,
-      "missing_forms": [
-        "【营运】值班检查表-早班",
-        "【营运】金牌阿嬷品质自检表（早班）",
-        "【营运】值班检查表-晚班",
-        "【营运】金牌阿嬷品质自检表（交接班）"
-      ]
     },
     {
       "region": "华南九区",
@@ -3021,7 +2949,7 @@
   "history": [
     {
       "business_date": "2026-08-24",
-      "updated_at": "2026-08-26T00:31:07+08:00",
+      "updated_at": "2026-08-26T00:38:21+08:00",
       "data_status": "ready",
       "region_order": [
         "华南一区",
@@ -3057,12 +2985,12 @@
         }
       ],
       "stats": {
-        "stores": 36,
+        "stores": 34,
         "complete_stores": 16,
-        "incomplete_stores": 20,
+        "incomplete_stores": 18,
         "completed_forms": 114,
-        "expected_forms": 144,
-        "completion_rate": 79.2
+        "expected_forms": 136,
+        "completion_rate": 83.8
       },
       "region_summary": [
         {
@@ -3103,12 +3031,12 @@
         },
         {
           "region": "华南五区",
-          "stores": 5,
+          "stores": 4,
           "complete_stores": 1,
-          "incomplete_stores": 4,
+          "incomplete_stores": 3,
           "completed_forms": 12,
-          "expected_forms": 20,
-          "completion_rate": 60
+          "expected_forms": 16,
+          "completion_rate": 75
         },
         {
           "region": "华南六区",
@@ -3139,12 +3067,12 @@
         },
         {
           "region": "华南九区",
-          "stores": 4,
+          "stores": 3,
           "complete_stores": 2,
-          "incomplete_stores": 2,
+          "incomplete_stores": 1,
           "completed_forms": 11,
-          "expected_forms": 16,
-          "completion_rate": 68.8
+          "expected_forms": 12,
+          "completion_rate": 91.7
         }
       ],
       "stores": [
@@ -3976,42 +3904,6 @@
           "missing_forms": []
         },
         {
-          "region": "华南五区",
-          "city": "广州",
-          "store": "广州万象城店·集",
-          "statuses": {
-            "morning_duty": {
-              "status": "missing",
-              "report_count": 0,
-              "report_ids": []
-            },
-            "morning_quality": {
-              "status": "missing",
-              "report_count": 0,
-              "report_ids": []
-            },
-            "evening_duty": {
-              "status": "missing",
-              "report_count": 0,
-              "report_ids": []
-            },
-            "handover_quality": {
-              "status": "missing",
-              "report_count": 0,
-              "report_ids": []
-            }
-          },
-          "completed_count": 0,
-          "expected_count": 4,
-          "completion_rate": 0,
-          "missing_forms": [
-            "【营运】值班检查表-早班",
-            "【营运】金牌阿嬷品质自检表（早班）",
-            "【营运】值班检查表-晚班",
-            "【营运】金牌阿嬷品质自检表（交接班）"
-          ]
-        },
-        {
           "region": "华南六区",
           "city": "东莞",
           "store": "东莞汇一城店",
@@ -4405,42 +4297,6 @@
           "expected_count": 4,
           "completion_rate": 100,
           "missing_forms": []
-        },
-        {
-          "region": "华南九区",
-          "city": "佛山",
-          "store": "佛山万象天地店",
-          "statuses": {
-            "morning_duty": {
-              "status": "missing",
-              "report_count": 0,
-              "report_ids": []
-            },
-            "morning_quality": {
-              "status": "missing",
-              "report_count": 0,
-              "report_ids": []
-            },
-            "evening_duty": {
-              "status": "missing",
-              "report_count": 0,
-              "report_ids": []
-            },
-            "handover_quality": {
-              "status": "missing",
-              "report_count": 0,
-              "report_ids": []
-            }
-          },
-          "completed_count": 0,
-          "expected_count": 4,
-          "completion_rate": 0,
-          "missing_forms": [
-            "【营运】值班检查表-早班",
-            "【营运】金牌阿嬷品质自检表（早班）",
-            "【营运】值班检查表-晚班",
-            "【营运】金牌阿嬷品质自检表（交接班）"
-          ]
         },
         {
           "region": "华南九区",
@@ -6042,7 +5898,7 @@
     },
     {
       "business_date": "2026-08-23",
-      "updated_at": "2026-08-26T00:31:07+08:00",
+      "updated_at": "2026-08-26T00:38:21+08:00",
       "data_status": "ready",
       "region_order": [
         "华南一区",
@@ -6078,12 +5934,12 @@
         }
       ],
       "stats": {
-        "stores": 36,
+        "stores": 34,
         "complete_stores": 32,
-        "incomplete_stores": 4,
+        "incomplete_stores": 2,
         "completed_forms": 134,
-        "expected_forms": 144,
-        "completion_rate": 93.1
+        "expected_forms": 136,
+        "completion_rate": 98.5
       },
       "region_summary": [
         {
@@ -6124,12 +5980,12 @@
         },
         {
           "region": "华南五区",
-          "stores": 5,
+          "stores": 4,
           "complete_stores": 4,
-          "incomplete_stores": 1,
+          "incomplete_stores": 0,
           "completed_forms": 16,
-          "expected_forms": 20,
-          "completion_rate": 80
+          "expected_forms": 16,
+          "completion_rate": 100
         },
         {
           "region": "华南六区",
@@ -6160,12 +6016,12 @@
         },
         {
           "region": "华南九区",
-          "stores": 4,
+          "stores": 3,
           "complete_stores": 3,
-          "incomplete_stores": 1,
+          "incomplete_stores": 0,
           "completed_forms": 12,
-          "expected_forms": 16,
-          "completion_rate": 75
+          "expected_forms": 12,
+          "completion_rate": 100
         }
       ],
       "stores": [
@@ -6989,42 +6845,6 @@
           "missing_forms": []
         },
         {
-          "region": "华南五区",
-          "city": "广州",
-          "store": "广州万象城店·集",
-          "statuses": {
-            "morning_duty": {
-              "status": "missing",
-              "report_count": 0,
-              "report_ids": []
-            },
-            "morning_quality": {
-              "status": "missing",
-              "report_count": 0,
-              "report_ids": []
-            },
-            "evening_duty": {
-              "status": "missing",
-              "report_count": 0,
-              "report_ids": []
-            },
-            "handover_quality": {
-              "status": "missing",
-              "report_count": 0,
-              "report_ids": []
-            }
-          },
-          "completed_count": 0,
-          "expected_count": 4,
-          "completion_rate": 0,
-          "missing_forms": [
-            "【营运】值班检查表-早班",
-            "【营运】金牌阿嬷品质自检表（早班）",
-            "【营运】值班检查表-晚班",
-            "【营运】金牌阿嬷品质自检表（交接班）"
-          ]
-        },
-        {
           "region": "华南六区",
           "city": "东莞",
           "store": "东莞汇一城店",
@@ -7413,42 +7233,6 @@
           "expected_count": 4,
           "completion_rate": 100,
           "missing_forms": []
-        },
-        {
-          "region": "华南九区",
-          "city": "佛山",
-          "store": "佛山万象天地店",
-          "statuses": {
-            "morning_duty": {
-              "status": "missing",
-              "report_count": 0,
-              "report_ids": []
-            },
-            "morning_quality": {
-              "status": "missing",
-              "report_count": 0,
-              "report_ids": []
-            },
-            "evening_duty": {
-              "status": "missing",
-              "report_count": 0,
-              "report_ids": []
-            },
-            "handover_quality": {
-              "status": "missing",
-              "report_count": 0,
-              "report_ids": []
-            }
-          },
-          "completed_count": 0,
-          "expected_count": 4,
-          "completion_rate": 0,
-          "missing_forms": [
-            "【营运】值班检查表-早班",
-            "【营运】金牌阿嬷品质自检表（早班）",
-            "【营运】值班检查表-晚班",
-            "【营运】金牌阿嬷品质自检表（交接班）"
-          ]
         },
         {
           "region": "华南九区",
