@@ -100,21 +100,21 @@
     },
     {
       "region": "华南七区",
-      "stores": 1,
-      "complete_stores": 0,
+      "stores": 2,
+      "complete_stores": 1,
       "incomplete_stores": 1,
-      "completed_forms": 3,
-      "expected_forms": 4,
-      "completion_rate": 75
+      "completed_forms": 7,
+      "expected_forms": 8,
+      "completion_rate": 87.5
     },
     {
       "region": "华南八区",
-      "stores": 4,
-      "complete_stores": 3,
+      "stores": 3,
+      "complete_stores": 2,
       "incomplete_stores": 1,
-      "completed_forms": 14,
-      "expected_forms": 16,
-      "completion_rate": 87.5
+      "completed_forms": 10,
+      "expected_forms": 12,
+      "completion_rate": 83.3
     },
     {
       "region": "华南九区",
@@ -1178,7 +1178,7 @@
       ]
     },
     {
-      "region": "华南八区",
+      "region": "华南七区",
       "city": "厦门",
       "store": "厦门SM新生活广场店·集",
       "statuses": {
@@ -2923,21 +2923,21 @@
         },
         {
           "region": "华南七区",
-          "stores": 1,
-          "complete_stores": 0,
+          "stores": 2,
+          "complete_stores": 1,
           "incomplete_stores": 1,
-          "completed_forms": 3,
-          "expected_forms": 4,
-          "completion_rate": 75
+          "completed_forms": 7,
+          "expected_forms": 8,
+          "completion_rate": 87.5
         },
         {
           "region": "华南八区",
-          "stores": 4,
-          "complete_stores": 3,
+          "stores": 3,
+          "complete_stores": 2,
           "incomplete_stores": 1,
-          "completed_forms": 14,
-          "expected_forms": 16,
-          "completion_rate": 87.5
+          "completed_forms": 10,
+          "expected_forms": 12,
+          "completion_rate": 83.3
         },
         {
           "region": "华南九区",
@@ -4001,7 +4001,7 @@
           ]
         },
         {
-          "region": "华南八区",
+          "region": "华南七区",
           "city": "厦门",
           "store": "厦门SM新生活广场店·集",
           "statuses": {
@@ -5746,20 +5746,20 @@
         },
         {
           "region": "华南七区",
-          "stores": 1,
-          "complete_stores": 0,
+          "stores": 2,
+          "complete_stores": 1,
           "incomplete_stores": 1,
-          "completed_forms": 3,
-          "expected_forms": 4,
-          "completion_rate": 75
+          "completed_forms": 7,
+          "expected_forms": 8,
+          "completion_rate": 87.5
         },
         {
           "region": "华南八区",
-          "stores": 4,
-          "complete_stores": 4,
+          "stores": 3,
+          "complete_stores": 3,
           "incomplete_stores": 0,
-          "completed_forms": 16,
-          "expected_forms": 16,
+          "completed_forms": 12,
+          "expected_forms": 12,
           "completion_rate": 100
         },
         {
@@ -6827,7 +6827,7 @@
           ]
         },
         {
-          "region": "华南八区",
+          "region": "华南七区",
           "city": "厦门",
           "store": "厦门SM新生活广场店·集",
           "statuses": {
