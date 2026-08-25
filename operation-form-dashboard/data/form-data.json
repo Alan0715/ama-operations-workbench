@@ -1,0 +1,39 @@
+{
+  "business_date": null,
+  "updated_at": null,
+  "data_status": "awaiting_first_sync",
+  "region_order": [],
+  "templates": [
+    {
+      "key": "morning_duty",
+      "name": "【营运】值班检查表-早班",
+      "short": "早班值班"
+    },
+    {
+      "key": "morning_quality",
+      "name": "【营运】金牌阿嬷品质自检表（早班）",
+      "short": "早班品质"
+    },
+    {
+      "key": "evening_duty",
+      "name": "【营运】值班检查表-晚班",
+      "short": "晚班值班"
+    },
+    {
+      "key": "handover_quality",
+      "name": "【营运】金牌阿嬷品质自检表（交接班）",
+      "short": "交接班品质"
+    }
+  ],
+  "stats": {
+    "stores": 0,
+    "complete_stores": 0,
+    "incomplete_stores": 0,
+    "completed_forms": 0,
+    "expected_forms": 0,
+    "completion_rate": 0
+  },
+  "region_summary": [],
+  "stores": [],
+  "report_details": []
+}
