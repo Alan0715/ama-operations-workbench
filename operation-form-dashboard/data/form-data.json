@@ -1,6 +1,6 @@
 {
   "business_date": "2026-08-24",
-  "updated_at": "2026-08-26T01:02:08+08:00",
+  "updated_at": "2026-08-26T01:12:18+08:00",
   "data_status": "ready",
   "region_order": [
     "华南一区",
@@ -226,9 +226,8 @@
         },
         "evening_duty": {
           "status": "completed",
-          "report_count": 2,
+          "report_count": 1,
           "report_ids": [
-            "6a8c513890cb52d7100dd981",
             "6a8c513890cb52d7100dd981"
           ]
         },
@@ -310,9 +309,8 @@
         },
         "handover_quality": {
           "status": "completed",
-          "report_count": 2,
+          "report_count": 1,
           "report_ids": [
-            "6a8c4341c4eaa4ef26a4472c",
             "6a8c4341c4eaa4ef26a4472c"
           ]
         }
@@ -384,9 +382,8 @@
         },
         "evening_duty": {
           "status": "completed",
-          "report_count": 2,
+          "report_count": 1,
           "report_ids": [
-            "6a8c5c552cc5de2873eaeaaf",
             "6a8c5c552cc5de2873eaeaaf"
           ]
         },
@@ -462,17 +459,15 @@
         },
         "evening_duty": {
           "status": "completed",
-          "report_count": 2,
+          "report_count": 1,
           "report_ids": [
-            "6a8c576c8708f013231e929a",
             "6a8c576c8708f013231e929a"
           ]
         },
         "handover_quality": {
           "status": "completed",
-          "report_count": 2,
+          "report_count": 1,
           "report_ids": [
-            "6a8c026cbb13a83b5aab0795",
             "6a8c026cbb13a83b5aab0795"
           ]
         }
@@ -658,17 +653,15 @@
         },
         "evening_duty": {
           "status": "completed",
-          "report_count": 2,
+          "report_count": 1,
           "report_ids": [
-            "6a8c4a4f6caa631c7c67ddfa",
             "6a8c4a4f6caa631c7c67ddfa"
           ]
         },
         "handover_quality": {
           "status": "completed",
-          "report_count": 2,
+          "report_count": 1,
           "report_ids": [
-            "6a8c00346caa631c7c67b728",
             "6a8c00346caa631c7c67b728"
           ]
         }
@@ -699,17 +692,15 @@
         },
         "evening_duty": {
           "status": "completed",
-          "report_count": 2,
+          "report_count": 1,
           "report_ids": [
-            "6a8c5c51b2359aa2941147b8",
             "6a8c5c51b2359aa2941147b8"
           ]
         },
         "handover_quality": {
           "status": "completed",
-          "report_count": 2,
+          "report_count": 1,
           "report_ids": [
-            "6a8c1303b2359aa2941107a4",
             "6a8c1303b2359aa2941107a4"
           ]
         }
@@ -900,9 +891,8 @@
         },
         "handover_quality": {
           "status": "completed",
-          "report_count": 2,
+          "report_count": 1,
           "report_ids": [
-            "6a8c0aa1d6e999ad25801eaa",
             "6a8c0aa1d6e999ad25801eaa"
           ]
         }
@@ -942,9 +932,8 @@
         },
         "handover_quality": {
           "status": "completed",
-          "report_count": 2,
+          "report_count": 1,
           "report_ids": [
-            "6a8c167f09ac3ecb38b62020",
             "6a8c167f09ac3ecb38b62020"
           ]
         }
@@ -975,9 +964,8 @@
         },
         "evening_duty": {
           "status": "completed",
-          "report_count": 2,
+          "report_count": 1,
           "report_ids": [
-            "6a8c59f5a7c5c87bb0775ffc",
             "6a8c59f5a7c5c87bb0775ffc"
           ]
         },
@@ -1015,17 +1003,15 @@
         },
         "evening_duty": {
           "status": "completed",
-          "report_count": 2,
+          "report_count": 1,
           "report_ids": [
-            "6a8c59abd6e999ad25805557",
             "6a8c59abd6e999ad25805557"
           ]
         },
         "handover_quality": {
           "status": "completed",
-          "report_count": 2,
+          "report_count": 1,
           "report_ids": [
-            "6a8c072dd6e999ad25801bc9",
             "6a8c072dd6e999ad25801bc9"
           ]
         }
@@ -1134,17 +1120,15 @@
         },
         "evening_duty": {
           "status": "completed",
-          "report_count": 2,
+          "report_count": 1,
           "report_ids": [
-            "6a8c5adc0efd8aa3aff8808c",
             "6a8c5adc0efd8aa3aff8808c"
           ]
         },
         "handover_quality": {
           "status": "completed",
-          "report_count": 2,
+          "report_count": 1,
           "report_ids": [
-            "6a8c5adc0efd8aa3aff8808d",
             "6a8c5adc0efd8aa3aff8808d"
           ]
         }
@@ -1291,9 +1275,8 @@
         },
         "evening_duty": {
           "status": "completed",
-          "report_count": 2,
+          "report_count": 1,
           "report_ids": [
-            "6a8c4c258708f013231e89bf",
             "6a8c4c258708f013231e89bf"
           ]
         },
@@ -1409,9 +1392,8 @@
         },
         "evening_duty": {
           "status": "completed",
-          "report_count": 2,
+          "report_count": 1,
           "report_ids": [
-            "6a8c67216caa631c7c67f067",
             "6a8c67216caa631c7c67f067"
           ]
         },
@@ -1447,17 +1429,15 @@
         },
         "evening_duty": {
           "status": "completed",
-          "report_count": 2,
+          "report_count": 1,
           "report_ids": [
-            "6a8c5d2e09ac3ecb38b650e5",
             "6a8c5d2e09ac3ecb38b650e5"
           ]
         },
         "handover_quality": {
           "status": "completed",
-          "report_count": 2,
+          "report_count": 1,
           "report_ids": [
-            "6a8c565f09ac3ecb38b64c79",
             "6a8c565f09ac3ecb38b64c79"
           ]
         }
@@ -1471,246 +1451,6 @@
     }
   ],
   "report_details": [
-    {
-      "store": "珠海万象汇店",
-      "store_code": "1031011",
-      "template": "【营运】值班检查表-晚班",
-      "template_key": "evening_duty",
-      "business_date": "2026-08-24",
-      "inspection_date": "2026-08-24",
-      "inspector": "珠海万象汇店",
-      "report_status": "已公开",
-      "report_url": "https://xundian.alphabets.cn/v2/report/6a8c5d2e09ac3ecb38b650e5",
-      "report_id": "6a8c5d2e09ac3ecb38b650e5"
-    },
-    {
-      "store": "珠海万象汇店",
-      "store_code": "1031011",
-      "template": "【营运】金牌阿嬷品质自检表（交接班）",
-      "template_key": "handover_quality",
-      "business_date": "2026-08-24",
-      "inspection_date": "2026-08-24",
-      "inspector": "珠海万象汇店",
-      "report_status": "已公开",
-      "report_url": "https://xundian.alphabets.cn/v2/report/6a8c565f09ac3ecb38b64c79",
-      "report_id": "6a8c565f09ac3ecb38b64c79"
-    },
-    {
-      "store": "东莞记忆店·茶肆",
-      "store_code": "1031010",
-      "template": "【营运】值班检查表-晚班",
-      "template_key": "evening_duty",
-      "business_date": "2026-08-24",
-      "inspection_date": "2026-08-24",
-      "inspector": "东莞记忆店",
-      "report_status": "已公开",
-      "report_url": "https://xundian.alphabets.cn/v2/report/6a8c59abd6e999ad25805557",
-      "report_id": "6a8c59abd6e999ad25805557"
-    },
-    {
-      "store": "深圳天安云谷店",
-      "store_code": "1011015",
-      "template": "【营运】值班检查表-晚班",
-      "template_key": "evening_duty",
-      "business_date": "2026-08-24",
-      "inspection_date": "2026-08-24",
-      "inspector": "深圳天安云谷店",
-      "report_status": "已公开",
-      "report_url": "https://xundian.alphabets.cn/v2/report/6a8c513890cb52d7100dd981",
-      "report_id": "6a8c513890cb52d7100dd981"
-    },
-    {
-      "store": "深圳科兴科学园店",
-      "store_code": "1011012",
-      "template": "【营运】值班检查表-晚班",
-      "template_key": "evening_duty",
-      "business_date": "2026-08-24",
-      "inspection_date": "2026-08-24",
-      "inspector": "深圳科兴科学园店",
-      "report_status": "已公开",
-      "report_url": "https://xundian.alphabets.cn/v2/report/6a8c4a4f6caa631c7c67ddfa",
-      "report_id": "6a8c4a4f6caa631c7c67ddfa"
-    },
-    {
-      "store": "东莞汇一城店",
-      "store_code": "1031004",
-      "template": "【营运】值班检查表-晚班",
-      "template_key": "evening_duty",
-      "business_date": "2026-08-24",
-      "inspection_date": "2026-08-24",
-      "inspector": "东莞汇一城店",
-      "report_status": "已公开",
-      "report_url": "https://xundian.alphabets.cn/v2/report/6a8c59f5a7c5c87bb0775ffc",
-      "report_id": "6a8c59f5a7c5c87bb0775ffc"
-    },
-    {
-      "store": "深圳梅林卓悦汇店",
-      "store_code": "1011007",
-      "template": "【营运】值班检查表-晚班",
-      "template_key": "evening_duty",
-      "business_date": "2026-08-24",
-      "inspection_date": "2026-08-24",
-      "inspector": "深圳梅林卓悦汇店",
-      "report_status": "已公开",
-      "report_url": "https://xundian.alphabets.cn/v2/report/6a8c5c552cc5de2873eaeaaf",
-      "report_id": "6a8c5c552cc5de2873eaeaaf"
-    },
-    {
-      "store": "深圳kkone店",
-      "store_code": "1011006",
-      "template": "【营运】值班检查表-晚班",
-      "template_key": "evening_duty",
-      "business_date": "2026-08-24",
-      "inspection_date": "2026-08-24",
-      "inspector": "深圳KKONE店",
-      "report_status": "已公开",
-      "report_url": "https://xundian.alphabets.cn/v2/report/6a8c576c8708f013231e929a",
-      "report_id": "6a8c576c8708f013231e929a"
-    },
-    {
-      "store": "深圳怀德万象汇店",
-      "store_code": "1011019",
-      "template": "【营运】值班检查表-晚班",
-      "template_key": "evening_duty",
-      "business_date": "2026-08-24",
-      "inspection_date": "2026-08-24",
-      "inspector": "深圳怀德万象汇店",
-      "report_status": "已公开",
-      "report_url": "https://xundian.alphabets.cn/v2/report/6a8c4c258708f013231e89bf",
-      "report_id": "6a8c4c258708f013231e89bf"
-    },
-    {
-      "store": "深圳ONE AVENUE卓悦中心店",
-      "store_code": "1011001",
-      "template": "【营运】金牌阿嬷品质自检表（交接班）",
-      "template_key": "handover_quality",
-      "business_date": "2026-08-24",
-      "inspection_date": "2026-08-24",
-      "inspector": "深圳ONE AVENUE卓悦中心店",
-      "report_status": "已公开",
-      "report_url": "https://xundian.alphabets.cn/v2/report/6a8c4341c4eaa4ef26a4472c",
-      "report_id": "6a8c4341c4eaa4ef26a4472c"
-    },
-    {
-      "store": "广州天汇广场店",
-      "store_code": "1031012",
-      "template": "【营运】金牌阿嬷品质自检表（交接班）",
-      "template_key": "handover_quality",
-      "business_date": "2026-08-24",
-      "inspection_date": "2026-08-24",
-      "inspector": "广州天汇广场店",
-      "report_status": "已公开",
-      "report_url": "https://xundian.alphabets.cn/v2/report/6a8c167f09ac3ecb38b62020",
-      "report_id": "6a8c167f09ac3ecb38b62020"
-    },
-    {
-      "store": "广州天环广场店",
-      "store_code": "1031003",
-      "template": "【营运】金牌阿嬷品质自检表（交接班）",
-      "template_key": "handover_quality",
-      "business_date": "2026-08-24",
-      "inspection_date": "2026-08-24",
-      "inspector": "广州天环广场店",
-      "report_status": "已公开",
-      "report_url": "https://xundian.alphabets.cn/v2/report/6a8c0aa1d6e999ad25801eaa",
-      "report_id": "6a8c0aa1d6e999ad25801eaa"
-    },
-    {
-      "store": "深圳来福士广场店",
-      "store_code": "1011013",
-      "template": "【营运】金牌阿嬷品质自检表（交接班）",
-      "template_key": "handover_quality",
-      "business_date": "2026-08-24",
-      "inspection_date": "2026-08-24",
-      "inspector": "深圳来福士店",
-      "report_status": "已公开",
-      "report_url": "https://xundian.alphabets.cn/v2/report/6a8c1303b2359aa2941107a4",
-      "report_id": "6a8c1303b2359aa2941107a4"
-    },
-    {
-      "store": "珠海富华里店",
-      "store_code": "1031007",
-      "template": "【营运】值班检查表-晚班",
-      "template_key": "evening_duty",
-      "business_date": "2026-08-24",
-      "inspection_date": "2026-08-24",
-      "inspector": "珠海富华里店",
-      "report_status": "已公开",
-      "report_url": "https://xundian.alphabets.cn/v2/report/6a8c67216caa631c7c67f067",
-      "report_id": "6a8c67216caa631c7c67f067"
-    },
-    {
-      "store": "东莞记忆店·茶肆",
-      "store_code": "1031010",
-      "template": "【营运】金牌阿嬷品质自检表（交接班）",
-      "template_key": "handover_quality",
-      "business_date": "2026-08-24",
-      "inspection_date": "2026-08-24",
-      "inspector": "东莞记忆店",
-      "report_status": "已公开",
-      "report_url": "https://xundian.alphabets.cn/v2/report/6a8c072dd6e999ad25801bc9",
-      "report_id": "6a8c072dd6e999ad25801bc9"
-    },
-    {
-      "store": "深圳来福士广场店",
-      "store_code": "1011013",
-      "template": "【营运】值班检查表-晚班",
-      "template_key": "evening_duty",
-      "business_date": "2026-08-24",
-      "inspection_date": "2026-08-24",
-      "inspector": "深圳来福士店",
-      "report_status": "已公开",
-      "report_url": "https://xundian.alphabets.cn/v2/report/6a8c5c51b2359aa2941147b8",
-      "report_id": "6a8c5c51b2359aa2941147b8"
-    },
-    {
-      "store": "深圳kkone店",
-      "store_code": "1011006",
-      "template": "【营运】金牌阿嬷品质自检表（交接班）",
-      "template_key": "handover_quality",
-      "business_date": "2026-08-24",
-      "inspection_date": "2026-08-24",
-      "inspector": "深圳KKONE店",
-      "report_status": "已公开",
-      "report_url": "https://xundian.alphabets.cn/v2/report/6a8c026cbb13a83b5aab0795",
-      "report_id": "6a8c026cbb13a83b5aab0795"
-    },
-    {
-      "store": "广州永庆坊店·茶肆",
-      "store_code": "1031005",
-      "template": "【营运】金牌阿嬷品质自检表（交接班）",
-      "template_key": "handover_quality",
-      "business_date": "2026-08-24",
-      "inspection_date": "2026-08-24",
-      "inspector": "阿嬷手作·茶肆（广州永庆坊店）",
-      "report_status": "已公开",
-      "report_url": "https://xundian.alphabets.cn/v2/report/6a8c5adc0efd8aa3aff8808d",
-      "report_id": "6a8c5adc0efd8aa3aff8808d"
-    },
-    {
-      "store": "广州永庆坊店·茶肆",
-      "store_code": "1031005",
-      "template": "【营运】值班检查表-晚班",
-      "template_key": "evening_duty",
-      "business_date": "2026-08-24",
-      "inspection_date": "2026-08-24",
-      "inspector": "阿嬷手作·茶肆（广州永庆坊店）",
-      "report_status": "已公开",
-      "report_url": "https://xundian.alphabets.cn/v2/report/6a8c5adc0efd8aa3aff8808c",
-      "report_id": "6a8c5adc0efd8aa3aff8808c"
-    },
-    {
-      "store": "深圳科兴科学园店",
-      "store_code": "1011012",
-      "template": "【营运】金牌阿嬷品质自检表（交接班）",
-      "template_key": "handover_quality",
-      "business_date": "2026-08-24",
-      "inspection_date": "2026-08-24",
-      "inspector": "深圳科兴科学园店",
-      "report_status": "已公开",
-      "report_url": "https://xundian.alphabets.cn/v2/report/6a8c00346caa631c7c67b728",
-      "report_id": "6a8c00346caa631c7c67b728"
-    },
     {
       "store": "珠海万象汇店",
       "store_code": "1031011",
@@ -3083,7 +2823,7 @@
   "history": [
     {
       "business_date": "2026-08-24",
-      "updated_at": "2026-08-26T01:02:08+08:00",
+      "updated_at": "2026-08-26T01:12:18+08:00",
       "data_status": "ready",
       "region_order": [
         "华南一区",
@@ -3309,9 +3049,8 @@
             },
             "evening_duty": {
               "status": "completed",
-              "report_count": 2,
+              "report_count": 1,
               "report_ids": [
-                "6a8c513890cb52d7100dd981",
                 "6a8c513890cb52d7100dd981"
               ]
             },
@@ -3393,9 +3132,8 @@
             },
             "handover_quality": {
               "status": "completed",
-              "report_count": 2,
+              "report_count": 1,
               "report_ids": [
-                "6a8c4341c4eaa4ef26a4472c",
                 "6a8c4341c4eaa4ef26a4472c"
               ]
             }
@@ -3467,9 +3205,8 @@
             },
             "evening_duty": {
               "status": "completed",
-              "report_count": 2,
+              "report_count": 1,
               "report_ids": [
-                "6a8c5c552cc5de2873eaeaaf",
                 "6a8c5c552cc5de2873eaeaaf"
               ]
             },
@@ -3545,17 +3282,15 @@
             },
             "evening_duty": {
               "status": "completed",
-              "report_count": 2,
+              "report_count": 1,
               "report_ids": [
-                "6a8c576c8708f013231e929a",
                 "6a8c576c8708f013231e929a"
               ]
             },
             "handover_quality": {
               "status": "completed",
-              "report_count": 2,
+              "report_count": 1,
               "report_ids": [
-                "6a8c026cbb13a83b5aab0795",
                 "6a8c026cbb13a83b5aab0795"
               ]
             }
@@ -3741,17 +3476,15 @@
             },
             "evening_duty": {
               "status": "completed",
-              "report_count": 2,
+              "report_count": 1,
               "report_ids": [
-                "6a8c4a4f6caa631c7c67ddfa",
                 "6a8c4a4f6caa631c7c67ddfa"
               ]
             },
             "handover_quality": {
               "status": "completed",
-              "report_count": 2,
+              "report_count": 1,
               "report_ids": [
-                "6a8c00346caa631c7c67b728",
                 "6a8c00346caa631c7c67b728"
               ]
             }
@@ -3782,17 +3515,15 @@
             },
             "evening_duty": {
               "status": "completed",
-              "report_count": 2,
+              "report_count": 1,
               "report_ids": [
-                "6a8c5c51b2359aa2941147b8",
                 "6a8c5c51b2359aa2941147b8"
               ]
             },
             "handover_quality": {
               "status": "completed",
-              "report_count": 2,
+              "report_count": 1,
               "report_ids": [
-                "6a8c1303b2359aa2941107a4",
                 "6a8c1303b2359aa2941107a4"
               ]
             }
@@ -3983,9 +3714,8 @@
             },
             "handover_quality": {
               "status": "completed",
-              "report_count": 2,
+              "report_count": 1,
               "report_ids": [
-                "6a8c0aa1d6e999ad25801eaa",
                 "6a8c0aa1d6e999ad25801eaa"
               ]
             }
@@ -4025,9 +3755,8 @@
             },
             "handover_quality": {
               "status": "completed",
-              "report_count": 2,
+              "report_count": 1,
               "report_ids": [
-                "6a8c167f09ac3ecb38b62020",
                 "6a8c167f09ac3ecb38b62020"
               ]
             }
@@ -4058,9 +3787,8 @@
             },
             "evening_duty": {
               "status": "completed",
-              "report_count": 2,
+              "report_count": 1,
               "report_ids": [
-                "6a8c59f5a7c5c87bb0775ffc",
                 "6a8c59f5a7c5c87bb0775ffc"
               ]
             },
@@ -4098,17 +3826,15 @@
             },
             "evening_duty": {
               "status": "completed",
-              "report_count": 2,
+              "report_count": 1,
               "report_ids": [
-                "6a8c59abd6e999ad25805557",
                 "6a8c59abd6e999ad25805557"
               ]
             },
             "handover_quality": {
               "status": "completed",
-              "report_count": 2,
+              "report_count": 1,
               "report_ids": [
-                "6a8c072dd6e999ad25801bc9",
                 "6a8c072dd6e999ad25801bc9"
               ]
             }
@@ -4217,17 +3943,15 @@
             },
             "evening_duty": {
               "status": "completed",
-              "report_count": 2,
+              "report_count": 1,
               "report_ids": [
-                "6a8c5adc0efd8aa3aff8808c",
                 "6a8c5adc0efd8aa3aff8808c"
               ]
             },
             "handover_quality": {
               "status": "completed",
-              "report_count": 2,
+              "report_count": 1,
               "report_ids": [
-                "6a8c5adc0efd8aa3aff8808d",
                 "6a8c5adc0efd8aa3aff8808d"
               ]
             }
@@ -4374,9 +4098,8 @@
             },
             "evening_duty": {
               "status": "completed",
-              "report_count": 2,
+              "report_count": 1,
               "report_ids": [
-                "6a8c4c258708f013231e89bf",
                 "6a8c4c258708f013231e89bf"
               ]
             },
@@ -4492,9 +4215,8 @@
             },
             "evening_duty": {
               "status": "completed",
-              "report_count": 2,
+              "report_count": 1,
               "report_ids": [
-                "6a8c67216caa631c7c67f067",
                 "6a8c67216caa631c7c67f067"
               ]
             },
@@ -4530,17 +4252,15 @@
             },
             "evening_duty": {
               "status": "completed",
-              "report_count": 2,
+              "report_count": 1,
               "report_ids": [
-                "6a8c5d2e09ac3ecb38b650e5",
                 "6a8c5d2e09ac3ecb38b650e5"
               ]
             },
             "handover_quality": {
               "status": "completed",
-              "report_count": 2,
+              "report_count": 1,
               "report_ids": [
-                "6a8c565f09ac3ecb38b64c79",
                 "6a8c565f09ac3ecb38b64c79"
               ]
             }
@@ -4554,246 +4274,6 @@
         }
       ],
       "report_details": [
-        {
-          "store": "珠海万象汇店",
-          "store_code": "1031011",
-          "template": "【营运】值班检查表-晚班",
-          "template_key": "evening_duty",
-          "business_date": "2026-08-24",
-          "inspection_date": "2026-08-24",
-          "inspector": "珠海万象汇店",
-          "report_status": "已公开",
-          "report_url": "https://xundian.alphabets.cn/v2/report/6a8c5d2e09ac3ecb38b650e5",
-          "report_id": "6a8c5d2e09ac3ecb38b650e5"
-        },
-        {
-          "store": "珠海万象汇店",
-          "store_code": "1031011",
-          "template": "【营运】金牌阿嬷品质自检表（交接班）",
-          "template_key": "handover_quality",
-          "business_date": "2026-08-24",
-          "inspection_date": "2026-08-24",
-          "inspector": "珠海万象汇店",
-          "report_status": "已公开",
-          "report_url": "https://xundian.alphabets.cn/v2/report/6a8c565f09ac3ecb38b64c79",
-          "report_id": "6a8c565f09ac3ecb38b64c79"
-        },
-        {
-          "store": "东莞记忆店·茶肆",
-          "store_code": "1031010",
-          "template": "【营运】值班检查表-晚班",
-          "template_key": "evening_duty",
-          "business_date": "2026-08-24",
-          "inspection_date": "2026-08-24",
-          "inspector": "东莞记忆店",
-          "report_status": "已公开",
-          "report_url": "https://xundian.alphabets.cn/v2/report/6a8c59abd6e999ad25805557",
-          "report_id": "6a8c59abd6e999ad25805557"
-        },
-        {
-          "store": "深圳天安云谷店",
-          "store_code": "1011015",
-          "template": "【营运】值班检查表-晚班",
-          "template_key": "evening_duty",
-          "business_date": "2026-08-24",
-          "inspection_date": "2026-08-24",
-          "inspector": "深圳天安云谷店",
-          "report_status": "已公开",
-          "report_url": "https://xundian.alphabets.cn/v2/report/6a8c513890cb52d7100dd981",
-          "report_id": "6a8c513890cb52d7100dd981"
-        },
-        {
-          "store": "深圳科兴科学园店",
-          "store_code": "1011012",
-          "template": "【营运】值班检查表-晚班",
-          "template_key": "evening_duty",
-          "business_date": "2026-08-24",
-          "inspection_date": "2026-08-24",
-          "inspector": "深圳科兴科学园店",
-          "report_status": "已公开",
-          "report_url": "https://xundian.alphabets.cn/v2/report/6a8c4a4f6caa631c7c67ddfa",
-          "report_id": "6a8c4a4f6caa631c7c67ddfa"
-        },
-        {
-          "store": "东莞汇一城店",
-          "store_code": "1031004",
-          "template": "【营运】值班检查表-晚班",
-          "template_key": "evening_duty",
-          "business_date": "2026-08-24",
-          "inspection_date": "2026-08-24",
-          "inspector": "东莞汇一城店",
-          "report_status": "已公开",
-          "report_url": "https://xundian.alphabets.cn/v2/report/6a8c59f5a7c5c87bb0775ffc",
-          "report_id": "6a8c59f5a7c5c87bb0775ffc"
-        },
-        {
-          "store": "深圳梅林卓悦汇店",
-          "store_code": "1011007",
-          "template": "【营运】值班检查表-晚班",
-          "template_key": "evening_duty",
-          "business_date": "2026-08-24",
-          "inspection_date": "2026-08-24",
-          "inspector": "深圳梅林卓悦汇店",
-          "report_status": "已公开",
-          "report_url": "https://xundian.alphabets.cn/v2/report/6a8c5c552cc5de2873eaeaaf",
-          "report_id": "6a8c5c552cc5de2873eaeaaf"
-        },
-        {
-          "store": "深圳kkone店",
-          "store_code": "1011006",
-          "template": "【营运】值班检查表-晚班",
-          "template_key": "evening_duty",
-          "business_date": "2026-08-24",
-          "inspection_date": "2026-08-24",
-          "inspector": "深圳KKONE店",
-          "report_status": "已公开",
-          "report_url": "https://xundian.alphabets.cn/v2/report/6a8c576c8708f013231e929a",
-          "report_id": "6a8c576c8708f013231e929a"
-        },
-        {
-          "store": "深圳怀德万象汇店",
-          "store_code": "1011019",
-          "template": "【营运】值班检查表-晚班",
-          "template_key": "evening_duty",
-          "business_date": "2026-08-24",
-          "inspection_date": "2026-08-24",
-          "inspector": "深圳怀德万象汇店",
-          "report_status": "已公开",
-          "report_url": "https://xundian.alphabets.cn/v2/report/6a8c4c258708f013231e89bf",
-          "report_id": "6a8c4c258708f013231e89bf"
-        },
-        {
-          "store": "深圳ONE AVENUE卓悦中心店",
-          "store_code": "1011001",
-          "template": "【营运】金牌阿嬷品质自检表（交接班）",
-          "template_key": "handover_quality",
-          "business_date": "2026-08-24",
-          "inspection_date": "2026-08-24",
-          "inspector": "深圳ONE AVENUE卓悦中心店",
-          "report_status": "已公开",
-          "report_url": "https://xundian.alphabets.cn/v2/report/6a8c4341c4eaa4ef26a4472c",
-          "report_id": "6a8c4341c4eaa4ef26a4472c"
-        },
-        {
-          "store": "广州天汇广场店",
-          "store_code": "1031012",
-          "template": "【营运】金牌阿嬷品质自检表（交接班）",
-          "template_key": "handover_quality",
-          "business_date": "2026-08-24",
-          "inspection_date": "2026-08-24",
-          "inspector": "广州天汇广场店",
-          "report_status": "已公开",
-          "report_url": "https://xundian.alphabets.cn/v2/report/6a8c167f09ac3ecb38b62020",
-          "report_id": "6a8c167f09ac3ecb38b62020"
-        },
-        {
-          "store": "广州天环广场店",
-          "store_code": "1031003",
-          "template": "【营运】金牌阿嬷品质自检表（交接班）",
-          "template_key": "handover_quality",
-          "business_date": "2026-08-24",
-          "inspection_date": "2026-08-24",
-          "inspector": "广州天环广场店",
-          "report_status": "已公开",
-          "report_url": "https://xundian.alphabets.cn/v2/report/6a8c0aa1d6e999ad25801eaa",
-          "report_id": "6a8c0aa1d6e999ad25801eaa"
-        },
-        {
-          "store": "深圳来福士广场店",
-          "store_code": "1011013",
-          "template": "【营运】金牌阿嬷品质自检表（交接班）",
-          "template_key": "handover_quality",
-          "business_date": "2026-08-24",
-          "inspection_date": "2026-08-24",
-          "inspector": "深圳来福士店",
-          "report_status": "已公开",
-          "report_url": "https://xundian.alphabets.cn/v2/report/6a8c1303b2359aa2941107a4",
-          "report_id": "6a8c1303b2359aa2941107a4"
-        },
-        {
-          "store": "珠海富华里店",
-          "store_code": "1031007",
-          "template": "【营运】值班检查表-晚班",
-          "template_key": "evening_duty",
-          "business_date": "2026-08-24",
-          "inspection_date": "2026-08-24",
-          "inspector": "珠海富华里店",
-          "report_status": "已公开",
-          "report_url": "https://xundian.alphabets.cn/v2/report/6a8c67216caa631c7c67f067",
-          "report_id": "6a8c67216caa631c7c67f067"
-        },
-        {
-          "store": "东莞记忆店·茶肆",
-          "store_code": "1031010",
-          "template": "【营运】金牌阿嬷品质自检表（交接班）",
-          "template_key": "handover_quality",
-          "business_date": "2026-08-24",
-          "inspection_date": "2026-08-24",
-          "inspector": "东莞记忆店",
-          "report_status": "已公开",
-          "report_url": "https://xundian.alphabets.cn/v2/report/6a8c072dd6e999ad25801bc9",
-          "report_id": "6a8c072dd6e999ad25801bc9"
-        },
-        {
-          "store": "深圳来福士广场店",
-          "store_code": "1011013",
-          "template": "【营运】值班检查表-晚班",
-          "template_key": "evening_duty",
-          "business_date": "2026-08-24",
-          "inspection_date": "2026-08-24",
-          "inspector": "深圳来福士店",
-          "report_status": "已公开",
-          "report_url": "https://xundian.alphabets.cn/v2/report/6a8c5c51b2359aa2941147b8",
-          "report_id": "6a8c5c51b2359aa2941147b8"
-        },
-        {
-          "store": "深圳kkone店",
-          "store_code": "1011006",
-          "template": "【营运】金牌阿嬷品质自检表（交接班）",
-          "template_key": "handover_quality",
-          "business_date": "2026-08-24",
-          "inspection_date": "2026-08-24",
-          "inspector": "深圳KKONE店",
-          "report_status": "已公开",
-          "report_url": "https://xundian.alphabets.cn/v2/report/6a8c026cbb13a83b5aab0795",
-          "report_id": "6a8c026cbb13a83b5aab0795"
-        },
-        {
-          "store": "广州永庆坊店·茶肆",
-          "store_code": "1031005",
-          "template": "【营运】金牌阿嬷品质自检表（交接班）",
-          "template_key": "handover_quality",
-          "business_date": "2026-08-24",
-          "inspection_date": "2026-08-24",
-          "inspector": "阿嬷手作·茶肆（广州永庆坊店）",
-          "report_status": "已公开",
-          "report_url": "https://xundian.alphabets.cn/v2/report/6a8c5adc0efd8aa3aff8808d",
-          "report_id": "6a8c5adc0efd8aa3aff8808d"
-        },
-        {
-          "store": "广州永庆坊店·茶肆",
-          "store_code": "1031005",
-          "template": "【营运】值班检查表-晚班",
-          "template_key": "evening_duty",
-          "business_date": "2026-08-24",
-          "inspection_date": "2026-08-24",
-          "inspector": "阿嬷手作·茶肆（广州永庆坊店）",
-          "report_status": "已公开",
-          "report_url": "https://xundian.alphabets.cn/v2/report/6a8c5adc0efd8aa3aff8808c",
-          "report_id": "6a8c5adc0efd8aa3aff8808c"
-        },
-        {
-          "store": "深圳科兴科学园店",
-          "store_code": "1011012",
-          "template": "【营运】金牌阿嬷品质自检表（交接班）",
-          "template_key": "handover_quality",
-          "business_date": "2026-08-24",
-          "inspection_date": "2026-08-24",
-          "inspector": "深圳科兴科学园店",
-          "report_status": "已公开",
-          "report_url": "https://xundian.alphabets.cn/v2/report/6a8c00346caa631c7c67b728",
-          "report_id": "6a8c00346caa631c7c67b728"
-        },
         {
           "store": "珠海万象汇店",
           "store_code": "1031011",
@@ -6166,7 +5646,7 @@
     },
     {
       "business_date": "2026-08-23",
-      "updated_at": "2026-08-26T01:02:08+08:00",
+      "updated_at": "2026-08-26T01:12:18+08:00",
       "data_status": "ready",
       "region_order": [
         "华南一区",
