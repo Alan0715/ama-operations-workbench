@@ -130,6 +130,45 @@
     {
       "region": "华南一区",
       "city": "深圳",
+      "store": "深圳ONE AVENUE卓悦中心店",
+      "statuses": {
+        "morning_duty": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8e4f3db2359aa29411ed34"
+          ]
+        },
+        "morning_quality": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8e507eb2359aa29411ee69"
+          ]
+        },
+        "evening_duty": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8f032fa214f22263d12e09"
+          ]
+        },
+        "handover_quality": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8eabe0b2359aa294121745"
+          ]
+        }
+      },
+      "completed_count": 4,
+      "expected_count": 4,
+      "completion_rate": 100,
+      "missing_forms": []
+    },
+    {
+      "region": "华南一区",
+      "city": "深圳",
       "store": "深圳金光华店",
       "statuses": {
         "morning_duty": {
@@ -158,84 +197,6 @@
           "report_count": 1,
           "report_ids": [
             "6a8eade8c361f7798e72c748"
-          ]
-        }
-      },
-      "completed_count": 4,
-      "expected_count": 4,
-      "completion_rate": 100,
-      "missing_forms": []
-    },
-    {
-      "region": "华南一区",
-      "city": "深圳",
-      "store": "深圳仁恒梦中心店",
-      "statuses": {
-        "morning_duty": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8e48c9a7c5c87bb077f41c"
-          ]
-        },
-        "morning_quality": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8e5334a7c5c87bb077fca3"
-          ]
-        },
-        "evening_duty": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8eefa31c8af8bc935b0b2e"
-          ]
-        },
-        "handover_quality": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8e8672a7c5c87bb0781036"
-          ]
-        }
-      },
-      "completed_count": 4,
-      "expected_count": 4,
-      "completion_rate": 100,
-      "missing_forms": []
-    },
-    {
-      "region": "华南一区",
-      "city": "深圳",
-      "store": "深圳天安云谷店",
-      "statuses": {
-        "morning_duty": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8e47cc90cb52d710100bd0"
-          ]
-        },
-        "morning_quality": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8e476e90cb52d710100bb2"
-          ]
-        },
-        "evening_duty": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8ef5ac68b79b0f7c2bae1a"
-          ]
-        },
-        "handover_quality": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8ebe1d68b79b0f7c2b930f"
           ]
         }
       },
@@ -286,34 +247,73 @@
     {
       "region": "华南一区",
       "city": "深圳",
-      "store": "深圳ONE AVENUE卓悦中心店",
+      "store": "深圳天安云谷店",
       "statuses": {
         "morning_duty": {
           "status": "completed",
           "report_count": 1,
           "report_ids": [
-            "6a8e4f3db2359aa29411ed34"
+            "6a8e47cc90cb52d710100bd0"
           ]
         },
         "morning_quality": {
           "status": "completed",
           "report_count": 1,
           "report_ids": [
-            "6a8e507eb2359aa29411ee69"
+            "6a8e476e90cb52d710100bb2"
           ]
         },
         "evening_duty": {
           "status": "completed",
           "report_count": 1,
           "report_ids": [
-            "6a8f032fa214f22263d12e09"
+            "6a8ef5ac68b79b0f7c2bae1a"
           ]
         },
         "handover_quality": {
           "status": "completed",
           "report_count": 1,
           "report_ids": [
-            "6a8eabe0b2359aa294121745"
+            "6a8ebe1d68b79b0f7c2b930f"
+          ]
+        }
+      },
+      "completed_count": 4,
+      "expected_count": 4,
+      "completion_rate": 100,
+      "missing_forms": []
+    },
+    {
+      "region": "华南一区",
+      "city": "深圳",
+      "store": "深圳仁恒梦中心店",
+      "statuses": {
+        "morning_duty": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8e48c9a7c5c87bb077f41c"
+          ]
+        },
+        "morning_quality": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8e5334a7c5c87bb077fca3"
+          ]
+        },
+        "evening_duty": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8eefa31c8af8bc935b0b2e"
+          ]
+        },
+        "handover_quality": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8e8672a7c5c87bb0781036"
           ]
         }
       },
@@ -403,45 +403,6 @@
     {
       "region": "华南二区",
       "city": "深圳",
-      "store": "深圳平安金融中心店",
-      "statuses": {
-        "morning_duty": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8e4975ee4a599c6d5cbc0c"
-          ]
-        },
-        "morning_quality": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8e4982ee4a599c6d5cbc0d"
-          ]
-        },
-        "evening_duty": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8ef1aa55b386aaa6b7ae39"
-          ]
-        },
-        "handover_quality": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8e9768ee4a599c6d5ce3cf"
-          ]
-        }
-      },
-      "completed_count": 4,
-      "expected_count": 4,
-      "completion_rate": 100,
-      "missing_forms": []
-    },
-    {
-      "region": "华南二区",
-      "city": "深圳",
       "store": "深圳kkone店",
       "statuses": {
         "morning_duty": {
@@ -479,36 +440,75 @@
       "missing_forms": []
     },
     {
-      "region": "华南三区",
+      "region": "华南二区",
       "city": "深圳",
-      "store": "深圳宝安大仟里店",
+      "store": "深圳平安金融中心店",
       "statuses": {
         "morning_duty": {
           "status": "completed",
           "report_count": 1,
           "report_ids": [
-            "6a8e491dc4eaa4ef26a4fa37"
+            "6a8e4975ee4a599c6d5cbc0c"
           ]
         },
         "morning_quality": {
           "status": "completed",
           "report_count": 1,
           "report_ids": [
-            "6a8e7c9ac4eaa4ef26a51806"
+            "6a8e4982ee4a599c6d5cbc0d"
           ]
         },
         "evening_duty": {
           "status": "completed",
           "report_count": 1,
           "report_ids": [
-            "6a8ef499f8aa00ab63313621"
+            "6a8ef1aa55b386aaa6b7ae39"
           ]
         },
         "handover_quality": {
           "status": "completed",
           "report_count": 1,
           "report_ids": [
-            "6a8e7cf5c4eaa4ef26a51810"
+            "6a8e9768ee4a599c6d5ce3cf"
+          ]
+        }
+      },
+      "completed_count": 4,
+      "expected_count": 4,
+      "completion_rate": 100,
+      "missing_forms": []
+    },
+    {
+      "region": "华南三区",
+      "city": "深圳",
+      "store": "深圳万象前海店",
+      "statuses": {
+        "morning_duty": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8e519e09ac3ecb38b700d5"
+          ]
+        },
+        "morning_quality": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8e83520bb0bf4503fdfbf0"
+          ]
+        },
+        "evening_duty": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8ef3643d9e2e9269aff0a1"
+          ]
+        },
+        "handover_quality": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8e84100bb0bf4503fdfc32"
           ]
         }
       },
@@ -559,73 +559,34 @@
     {
       "region": "华南三区",
       "city": "深圳",
-      "store": "深圳万象前海店",
+      "store": "深圳宝安大仟里店",
       "statuses": {
         "morning_duty": {
           "status": "completed",
           "report_count": 1,
           "report_ids": [
-            "6a8e519e09ac3ecb38b700d5"
+            "6a8e491dc4eaa4ef26a4fa37"
           ]
         },
         "morning_quality": {
           "status": "completed",
           "report_count": 1,
           "report_ids": [
-            "6a8e83520bb0bf4503fdfbf0"
+            "6a8e7c9ac4eaa4ef26a51806"
           ]
         },
         "evening_duty": {
           "status": "completed",
           "report_count": 1,
           "report_ids": [
-            "6a8ef3643d9e2e9269aff0a1"
+            "6a8ef499f8aa00ab63313621"
           ]
         },
         "handover_quality": {
           "status": "completed",
           "report_count": 1,
           "report_ids": [
-            "6a8e84100bb0bf4503fdfc32"
-          ]
-        }
-      },
-      "completed_count": 4,
-      "expected_count": 4,
-      "completion_rate": 100,
-      "missing_forms": []
-    },
-    {
-      "region": "华南四区",
-      "city": "深圳",
-      "store": "深圳海上世界店",
-      "statuses": {
-        "morning_duty": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8e49c48708f01323202b9d"
-          ]
-        },
-        "morning_quality": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8e88108708f013232068b1"
-          ]
-        },
-        "evening_duty": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8ef65af8aa00ab633137cd"
-          ]
-        },
-        "handover_quality": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8e88108708f013232068b3"
+            "6a8e7cf5c4eaa4ef26a51810"
           ]
         }
       },
@@ -715,34 +676,34 @@
     {
       "region": "华南四区",
       "city": "深圳",
-      "store": "深圳湾万象城店",
+      "store": "深圳海上世界店",
       "statuses": {
         "morning_duty": {
           "status": "completed",
           "report_count": 1,
           "report_ids": [
-            "6a8e49a290cb52d710100de9"
+            "6a8e49c48708f01323202b9d"
           ]
         },
         "morning_quality": {
           "status": "completed",
           "report_count": 1,
           "report_ids": [
-            "6a8e48d090cb52d710100cef"
+            "6a8e88108708f013232068b1"
           ]
         },
         "evening_duty": {
           "status": "completed",
           "report_count": 1,
           "report_ids": [
-            "6a8efa003d9e2e9269aff692"
+            "6a8ef65af8aa00ab633137cd"
           ]
         },
         "handover_quality": {
           "status": "completed",
           "report_count": 1,
           "report_ids": [
-            "6a8e95b790cb52d7101036c8"
+            "6a8e88108708f013232068b3"
           ]
         }
       },
@@ -791,36 +752,36 @@
       "missing_forms": []
     },
     {
-      "region": "华南五区",
-      "city": "广州",
-      "store": "广州塔广场店",
+      "region": "华南四区",
+      "city": "深圳",
+      "store": "深圳湾万象城店",
       "statuses": {
         "morning_duty": {
           "status": "completed",
           "report_count": 1,
           "report_ids": [
-            "6a8e51ccd6e999ad2581255a"
+            "6a8e49a290cb52d710100de9"
           ]
         },
         "morning_quality": {
           "status": "completed",
           "report_count": 1,
           "report_ids": [
-            "6a8e559fd6e999ad25812989"
+            "6a8e48d090cb52d710100cef"
           ]
         },
         "evening_duty": {
           "status": "completed",
           "report_count": 1,
           "report_ids": [
-            "6a8efde6038463220ca0b8c4"
+            "6a8efa003d9e2e9269aff692"
           ]
         },
         "handover_quality": {
           "status": "completed",
           "report_count": 1,
           "report_ids": [
-            "6a8e959f6caa631c7c68a305"
+            "6a8e95b790cb52d7101036c8"
           ]
         }
       },
@@ -910,6 +871,45 @@
     {
       "region": "华南五区",
       "city": "广州",
+      "store": "广州塔广场店",
+      "statuses": {
+        "morning_duty": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8e51ccd6e999ad2581255a"
+          ]
+        },
+        "morning_quality": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8e559fd6e999ad25812989"
+          ]
+        },
+        "evening_duty": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8efde6038463220ca0b8c4"
+          ]
+        },
+        "handover_quality": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8e959f6caa631c7c68a305"
+          ]
+        }
+      },
+      "completed_count": 4,
+      "expected_count": 4,
+      "completion_rate": 100,
+      "missing_forms": []
+    },
+    {
+      "region": "华南五区",
+      "city": "广州",
       "store": "广州天汇广场店",
       "statuses": {
         "morning_duty": {
@@ -938,6 +938,84 @@
           "report_count": 1,
           "report_ids": [
             "6a8e908ac361f7798e72bbec"
+          ]
+        }
+      },
+      "completed_count": 4,
+      "expected_count": 4,
+      "completion_rate": 100,
+      "missing_forms": []
+    },
+    {
+      "region": "华南六区",
+      "city": "佛山",
+      "store": "佛山岭南天地店",
+      "statuses": {
+        "morning_duty": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8e4157c4eaa4ef26a4f4cd"
+          ]
+        },
+        "morning_quality": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8e8d3aee4a599c6d5cddd1"
+          ]
+        },
+        "evening_duty": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8efbbc04051078301f21c8"
+          ]
+        },
+        "handover_quality": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8e8d43ee4a599c6d5cddd2"
+          ]
+        }
+      },
+      "completed_count": 4,
+      "expected_count": 4,
+      "completion_rate": 100,
+      "missing_forms": []
+    },
+    {
+      "region": "华南六区",
+      "city": "广州",
+      "store": "广州永庆坊店·茶肆",
+      "statuses": {
+        "morning_duty": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8e5a8909ac3ecb38b70951"
+          ]
+        },
+        "morning_quality": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8e5a8909ac3ecb38b70952"
+          ]
+        },
+        "evening_duty": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8efdce68b79b0f7c2bb301"
+          ]
+        },
+        "handover_quality": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8efdce68b79b0f7c2bb302"
           ]
         }
       },
@@ -1026,45 +1104,6 @@
     },
     {
       "region": "华南六区",
-      "city": "佛山",
-      "store": "佛山岭南天地店",
-      "statuses": {
-        "morning_duty": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8e4157c4eaa4ef26a4f4cd"
-          ]
-        },
-        "morning_quality": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8e8d3aee4a599c6d5cddd1"
-          ]
-        },
-        "evening_duty": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8efbbc04051078301f21c8"
-          ]
-        },
-        "handover_quality": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8e8d43ee4a599c6d5cddd2"
-          ]
-        }
-      },
-      "completed_count": 4,
-      "expected_count": 4,
-      "completion_rate": 100,
-      "missing_forms": []
-    },
-    {
-      "region": "华南六区",
       "city": "广州",
       "store": "广州乐峰广场店",
       "statuses": {
@@ -1094,45 +1133,6 @@
           "report_count": 1,
           "report_ids": [
             "6a8e80030bb0bf4503fdf982"
-          ]
-        }
-      },
-      "completed_count": 4,
-      "expected_count": 4,
-      "completion_rate": 100,
-      "missing_forms": []
-    },
-    {
-      "region": "华南六区",
-      "city": "广州",
-      "store": "广州永庆坊店·茶肆",
-      "statuses": {
-        "morning_duty": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8e5a8909ac3ecb38b70951"
-          ]
-        },
-        "morning_quality": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8e5a8909ac3ecb38b70952"
-          ]
-        },
-        "evening_duty": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8efdce68b79b0f7c2bb301"
-          ]
-        },
-        "handover_quality": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8efdce68b79b0f7c2bb302"
           ]
         }
       },
@@ -1338,45 +1338,6 @@
     },
     {
       "region": "华南九区",
-      "city": "顺德",
-      "store": "顺德万象汇店",
-      "statuses": {
-        "morning_duty": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8e4c7aee4a599c6d5cbed8"
-          ]
-        },
-        "morning_quality": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8e4d6bee4a599c6d5cbf4c"
-          ]
-        },
-        "evening_duty": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8ef6e5b2976dff5a43a757"
-          ]
-        },
-        "handover_quality": {
-          "status": "completed",
-          "report_count": 1,
-          "report_ids": [
-            "6a8e7bc6ee4a599c6d5cd606"
-          ]
-        }
-      },
-      "completed_count": 4,
-      "expected_count": 4,
-      "completion_rate": 100,
-      "missing_forms": []
-    },
-    {
-      "region": "华南九区",
       "city": "珠海",
       "store": "珠海富华里店",
       "statuses": {
@@ -1406,6 +1367,45 @@
           "report_count": 1,
           "report_ids": [
             "6a8e878cd6e999ad2581472e"
+          ]
+        }
+      },
+      "completed_count": 4,
+      "expected_count": 4,
+      "completion_rate": 100,
+      "missing_forms": []
+    },
+    {
+      "region": "华南九区",
+      "city": "顺德",
+      "store": "顺德万象汇店",
+      "statuses": {
+        "morning_duty": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8e4c7aee4a599c6d5cbed8"
+          ]
+        },
+        "morning_quality": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8e4d6bee4a599c6d5cbf4c"
+          ]
+        },
+        "evening_duty": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8ef6e5b2976dff5a43a757"
+          ]
+        },
+        "handover_quality": {
+          "status": "completed",
+          "report_count": 1,
+          "report_ids": [
+            "6a8e7bc6ee4a599c6d5cd606"
           ]
         }
       },
@@ -3088,6 +3088,42 @@
       "report_id": "6a8e4c696caa631c7c687e2e"
     }
   ],
+  "store_order": [
+    "深圳ONE AVENUE卓悦中心店",
+    "深圳金光华店",
+    "深圳万象食家店",
+    "深圳天安云谷店",
+    "深圳仁恒梦中心店",
+    "深圳布吉万象汇店",
+    "深圳梅林卓悦汇店",
+    "深圳kkone店",
+    "深圳平安金融中心店",
+    "深圳万象前海店",
+    "深圳欢乐港湾店",
+    "深圳宝安大仟里店",
+    "深圳科兴科学园店",
+    "深圳来福士广场店",
+    "深圳海上世界店",
+    "深圳万象天地店·茶歇",
+    "深圳湾万象城店",
+    "广州太古汇店",
+    "广州天环广场店",
+    "广州塔广场店",
+    "广州天汇广场店",
+    "佛山岭南天地店",
+    "广州永庆坊店·茶肆",
+    "东莞汇一城店",
+    "东莞记忆店·茶肆",
+    "广州乐峰广场店",
+    "厦门万象城店",
+    "厦门SM新生活广场店·集",
+    "深圳宝安壹方城店",
+    "深圳怀德万象汇店",
+    "深圳腾讯总部园区店",
+    "珠海富华里店",
+    "顺德万象汇店",
+    "珠海万象汇店"
+  ],
   "history": [
     {
       "business_date": "2026-08-26",
@@ -3221,6 +3257,45 @@
         {
           "region": "华南一区",
           "city": "深圳",
+          "store": "深圳ONE AVENUE卓悦中心店",
+          "statuses": {
+            "morning_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8e4f3db2359aa29411ed34"
+              ]
+            },
+            "morning_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8e507eb2359aa29411ee69"
+              ]
+            },
+            "evening_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8f032fa214f22263d12e09"
+              ]
+            },
+            "handover_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8eabe0b2359aa294121745"
+              ]
+            }
+          },
+          "completed_count": 4,
+          "expected_count": 4,
+          "completion_rate": 100,
+          "missing_forms": []
+        },
+        {
+          "region": "华南一区",
+          "city": "深圳",
           "store": "深圳金光华店",
           "statuses": {
             "morning_duty": {
@@ -3249,84 +3324,6 @@
               "report_count": 1,
               "report_ids": [
                 "6a8eade8c361f7798e72c748"
-              ]
-            }
-          },
-          "completed_count": 4,
-          "expected_count": 4,
-          "completion_rate": 100,
-          "missing_forms": []
-        },
-        {
-          "region": "华南一区",
-          "city": "深圳",
-          "store": "深圳仁恒梦中心店",
-          "statuses": {
-            "morning_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8e48c9a7c5c87bb077f41c"
-              ]
-            },
-            "morning_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8e5334a7c5c87bb077fca3"
-              ]
-            },
-            "evening_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8eefa31c8af8bc935b0b2e"
-              ]
-            },
-            "handover_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8e8672a7c5c87bb0781036"
-              ]
-            }
-          },
-          "completed_count": 4,
-          "expected_count": 4,
-          "completion_rate": 100,
-          "missing_forms": []
-        },
-        {
-          "region": "华南一区",
-          "city": "深圳",
-          "store": "深圳天安云谷店",
-          "statuses": {
-            "morning_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8e47cc90cb52d710100bd0"
-              ]
-            },
-            "morning_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8e476e90cb52d710100bb2"
-              ]
-            },
-            "evening_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8ef5ac68b79b0f7c2bae1a"
-              ]
-            },
-            "handover_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8ebe1d68b79b0f7c2b930f"
               ]
             }
           },
@@ -3377,34 +3374,73 @@
         {
           "region": "华南一区",
           "city": "深圳",
-          "store": "深圳ONE AVENUE卓悦中心店",
+          "store": "深圳天安云谷店",
           "statuses": {
             "morning_duty": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8e4f3db2359aa29411ed34"
+                "6a8e47cc90cb52d710100bd0"
               ]
             },
             "morning_quality": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8e507eb2359aa29411ee69"
+                "6a8e476e90cb52d710100bb2"
               ]
             },
             "evening_duty": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8f032fa214f22263d12e09"
+                "6a8ef5ac68b79b0f7c2bae1a"
               ]
             },
             "handover_quality": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8eabe0b2359aa294121745"
+                "6a8ebe1d68b79b0f7c2b930f"
+              ]
+            }
+          },
+          "completed_count": 4,
+          "expected_count": 4,
+          "completion_rate": 100,
+          "missing_forms": []
+        },
+        {
+          "region": "华南一区",
+          "city": "深圳",
+          "store": "深圳仁恒梦中心店",
+          "statuses": {
+            "morning_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8e48c9a7c5c87bb077f41c"
+              ]
+            },
+            "morning_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8e5334a7c5c87bb077fca3"
+              ]
+            },
+            "evening_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8eefa31c8af8bc935b0b2e"
+              ]
+            },
+            "handover_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8e8672a7c5c87bb0781036"
               ]
             }
           },
@@ -3494,45 +3530,6 @@
         {
           "region": "华南二区",
           "city": "深圳",
-          "store": "深圳平安金融中心店",
-          "statuses": {
-            "morning_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8e4975ee4a599c6d5cbc0c"
-              ]
-            },
-            "morning_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8e4982ee4a599c6d5cbc0d"
-              ]
-            },
-            "evening_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8ef1aa55b386aaa6b7ae39"
-              ]
-            },
-            "handover_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8e9768ee4a599c6d5ce3cf"
-              ]
-            }
-          },
-          "completed_count": 4,
-          "expected_count": 4,
-          "completion_rate": 100,
-          "missing_forms": []
-        },
-        {
-          "region": "华南二区",
-          "city": "深圳",
           "store": "深圳kkone店",
           "statuses": {
             "morning_duty": {
@@ -3570,36 +3567,75 @@
           "missing_forms": []
         },
         {
-          "region": "华南三区",
+          "region": "华南二区",
           "city": "深圳",
-          "store": "深圳宝安大仟里店",
+          "store": "深圳平安金融中心店",
           "statuses": {
             "morning_duty": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8e491dc4eaa4ef26a4fa37"
+                "6a8e4975ee4a599c6d5cbc0c"
               ]
             },
             "morning_quality": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8e7c9ac4eaa4ef26a51806"
+                "6a8e4982ee4a599c6d5cbc0d"
               ]
             },
             "evening_duty": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8ef499f8aa00ab63313621"
+                "6a8ef1aa55b386aaa6b7ae39"
               ]
             },
             "handover_quality": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8e7cf5c4eaa4ef26a51810"
+                "6a8e9768ee4a599c6d5ce3cf"
+              ]
+            }
+          },
+          "completed_count": 4,
+          "expected_count": 4,
+          "completion_rate": 100,
+          "missing_forms": []
+        },
+        {
+          "region": "华南三区",
+          "city": "深圳",
+          "store": "深圳万象前海店",
+          "statuses": {
+            "morning_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8e519e09ac3ecb38b700d5"
+              ]
+            },
+            "morning_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8e83520bb0bf4503fdfbf0"
+              ]
+            },
+            "evening_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8ef3643d9e2e9269aff0a1"
+              ]
+            },
+            "handover_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8e84100bb0bf4503fdfc32"
               ]
             }
           },
@@ -3650,73 +3686,34 @@
         {
           "region": "华南三区",
           "city": "深圳",
-          "store": "深圳万象前海店",
+          "store": "深圳宝安大仟里店",
           "statuses": {
             "morning_duty": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8e519e09ac3ecb38b700d5"
+                "6a8e491dc4eaa4ef26a4fa37"
               ]
             },
             "morning_quality": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8e83520bb0bf4503fdfbf0"
+                "6a8e7c9ac4eaa4ef26a51806"
               ]
             },
             "evening_duty": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8ef3643d9e2e9269aff0a1"
+                "6a8ef499f8aa00ab63313621"
               ]
             },
             "handover_quality": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8e84100bb0bf4503fdfc32"
-              ]
-            }
-          },
-          "completed_count": 4,
-          "expected_count": 4,
-          "completion_rate": 100,
-          "missing_forms": []
-        },
-        {
-          "region": "华南四区",
-          "city": "深圳",
-          "store": "深圳海上世界店",
-          "statuses": {
-            "morning_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8e49c48708f01323202b9d"
-              ]
-            },
-            "morning_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8e88108708f013232068b1"
-              ]
-            },
-            "evening_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8ef65af8aa00ab633137cd"
-              ]
-            },
-            "handover_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8e88108708f013232068b3"
+                "6a8e7cf5c4eaa4ef26a51810"
               ]
             }
           },
@@ -3806,34 +3803,34 @@
         {
           "region": "华南四区",
           "city": "深圳",
-          "store": "深圳湾万象城店",
+          "store": "深圳海上世界店",
           "statuses": {
             "morning_duty": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8e49a290cb52d710100de9"
+                "6a8e49c48708f01323202b9d"
               ]
             },
             "morning_quality": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8e48d090cb52d710100cef"
+                "6a8e88108708f013232068b1"
               ]
             },
             "evening_duty": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8efa003d9e2e9269aff692"
+                "6a8ef65af8aa00ab633137cd"
               ]
             },
             "handover_quality": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8e95b790cb52d7101036c8"
+                "6a8e88108708f013232068b3"
               ]
             }
           },
@@ -3882,36 +3879,36 @@
           "missing_forms": []
         },
         {
-          "region": "华南五区",
-          "city": "广州",
-          "store": "广州塔广场店",
+          "region": "华南四区",
+          "city": "深圳",
+          "store": "深圳湾万象城店",
           "statuses": {
             "morning_duty": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8e51ccd6e999ad2581255a"
+                "6a8e49a290cb52d710100de9"
               ]
             },
             "morning_quality": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8e559fd6e999ad25812989"
+                "6a8e48d090cb52d710100cef"
               ]
             },
             "evening_duty": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8efde6038463220ca0b8c4"
+                "6a8efa003d9e2e9269aff692"
               ]
             },
             "handover_quality": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8e959f6caa631c7c68a305"
+                "6a8e95b790cb52d7101036c8"
               ]
             }
           },
@@ -4001,6 +3998,45 @@
         {
           "region": "华南五区",
           "city": "广州",
+          "store": "广州塔广场店",
+          "statuses": {
+            "morning_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8e51ccd6e999ad2581255a"
+              ]
+            },
+            "morning_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8e559fd6e999ad25812989"
+              ]
+            },
+            "evening_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8efde6038463220ca0b8c4"
+              ]
+            },
+            "handover_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8e959f6caa631c7c68a305"
+              ]
+            }
+          },
+          "completed_count": 4,
+          "expected_count": 4,
+          "completion_rate": 100,
+          "missing_forms": []
+        },
+        {
+          "region": "华南五区",
+          "city": "广州",
           "store": "广州天汇广场店",
           "statuses": {
             "morning_duty": {
@@ -4029,6 +4065,84 @@
               "report_count": 1,
               "report_ids": [
                 "6a8e908ac361f7798e72bbec"
+              ]
+            }
+          },
+          "completed_count": 4,
+          "expected_count": 4,
+          "completion_rate": 100,
+          "missing_forms": []
+        },
+        {
+          "region": "华南六区",
+          "city": "佛山",
+          "store": "佛山岭南天地店",
+          "statuses": {
+            "morning_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8e4157c4eaa4ef26a4f4cd"
+              ]
+            },
+            "morning_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8e8d3aee4a599c6d5cddd1"
+              ]
+            },
+            "evening_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8efbbc04051078301f21c8"
+              ]
+            },
+            "handover_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8e8d43ee4a599c6d5cddd2"
+              ]
+            }
+          },
+          "completed_count": 4,
+          "expected_count": 4,
+          "completion_rate": 100,
+          "missing_forms": []
+        },
+        {
+          "region": "华南六区",
+          "city": "广州",
+          "store": "广州永庆坊店·茶肆",
+          "statuses": {
+            "morning_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8e5a8909ac3ecb38b70951"
+              ]
+            },
+            "morning_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8e5a8909ac3ecb38b70952"
+              ]
+            },
+            "evening_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8efdce68b79b0f7c2bb301"
+              ]
+            },
+            "handover_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8efdce68b79b0f7c2bb302"
               ]
             }
           },
@@ -4117,45 +4231,6 @@
         },
         {
           "region": "华南六区",
-          "city": "佛山",
-          "store": "佛山岭南天地店",
-          "statuses": {
-            "morning_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8e4157c4eaa4ef26a4f4cd"
-              ]
-            },
-            "morning_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8e8d3aee4a599c6d5cddd1"
-              ]
-            },
-            "evening_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8efbbc04051078301f21c8"
-              ]
-            },
-            "handover_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8e8d43ee4a599c6d5cddd2"
-              ]
-            }
-          },
-          "completed_count": 4,
-          "expected_count": 4,
-          "completion_rate": 100,
-          "missing_forms": []
-        },
-        {
-          "region": "华南六区",
           "city": "广州",
           "store": "广州乐峰广场店",
           "statuses": {
@@ -4185,45 +4260,6 @@
               "report_count": 1,
               "report_ids": [
                 "6a8e80030bb0bf4503fdf982"
-              ]
-            }
-          },
-          "completed_count": 4,
-          "expected_count": 4,
-          "completion_rate": 100,
-          "missing_forms": []
-        },
-        {
-          "region": "华南六区",
-          "city": "广州",
-          "store": "广州永庆坊店·茶肆",
-          "statuses": {
-            "morning_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8e5a8909ac3ecb38b70951"
-              ]
-            },
-            "morning_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8e5a8909ac3ecb38b70952"
-              ]
-            },
-            "evening_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8efdce68b79b0f7c2bb301"
-              ]
-            },
-            "handover_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8efdce68b79b0f7c2bb302"
               ]
             }
           },
@@ -4429,45 +4465,6 @@
         },
         {
           "region": "华南九区",
-          "city": "顺德",
-          "store": "顺德万象汇店",
-          "statuses": {
-            "morning_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8e4c7aee4a599c6d5cbed8"
-              ]
-            },
-            "morning_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8e4d6bee4a599c6d5cbf4c"
-              ]
-            },
-            "evening_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8ef6e5b2976dff5a43a757"
-              ]
-            },
-            "handover_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8e7bc6ee4a599c6d5cd606"
-              ]
-            }
-          },
-          "completed_count": 4,
-          "expected_count": 4,
-          "completion_rate": 100,
-          "missing_forms": []
-        },
-        {
-          "region": "华南九区",
           "city": "珠海",
           "store": "珠海富华里店",
           "statuses": {
@@ -4497,6 +4494,45 @@
               "report_count": 1,
               "report_ids": [
                 "6a8e878cd6e999ad2581472e"
+              ]
+            }
+          },
+          "completed_count": 4,
+          "expected_count": 4,
+          "completion_rate": 100,
+          "missing_forms": []
+        },
+        {
+          "region": "华南九区",
+          "city": "顺德",
+          "store": "顺德万象汇店",
+          "statuses": {
+            "morning_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8e4c7aee4a599c6d5cbed8"
+              ]
+            },
+            "morning_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8e4d6bee4a599c6d5cbf4c"
+              ]
+            },
+            "evening_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8ef6e5b2976dff5a43a757"
+              ]
+            },
+            "handover_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8e7bc6ee4a599c6d5cd606"
               ]
             }
           },
@@ -6178,6 +6214,42 @@
           "report_url": "https://xundian.alphabets.cn/v2/report/6a8e4c696caa631c7c687e2e",
           "report_id": "6a8e4c696caa631c7c687e2e"
         }
+      ],
+      "store_order": [
+        "深圳ONE AVENUE卓悦中心店",
+        "深圳金光华店",
+        "深圳万象食家店",
+        "深圳天安云谷店",
+        "深圳仁恒梦中心店",
+        "深圳布吉万象汇店",
+        "深圳梅林卓悦汇店",
+        "深圳kkone店",
+        "深圳平安金融中心店",
+        "深圳万象前海店",
+        "深圳欢乐港湾店",
+        "深圳宝安大仟里店",
+        "深圳科兴科学园店",
+        "深圳来福士广场店",
+        "深圳海上世界店",
+        "深圳万象天地店·茶歇",
+        "深圳湾万象城店",
+        "广州太古汇店",
+        "广州天环广场店",
+        "广州塔广场店",
+        "广州天汇广场店",
+        "佛山岭南天地店",
+        "广州永庆坊店·茶肆",
+        "东莞汇一城店",
+        "东莞记忆店·茶肆",
+        "广州乐峰广场店",
+        "厦门万象城店",
+        "厦门SM新生活广场店·集",
+        "深圳宝安壹方城店",
+        "深圳怀德万象汇店",
+        "深圳腾讯总部园区店",
+        "珠海富华里店",
+        "顺德万象汇店",
+        "珠海万象汇店"
       ]
     },
     {
@@ -6312,6 +6384,45 @@
         {
           "region": "华南一区",
           "city": "深圳",
+          "store": "深圳ONE AVENUE卓悦中心店",
+          "statuses": {
+            "morning_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8cfeb8b2359aa29411640f"
+              ]
+            },
+            "morning_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8cffc3b2359aa2941164db"
+              ]
+            },
+            "evening_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8daa69b2359aa29411d0ff"
+              ]
+            },
+            "handover_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8d5bd1b2359aa29411947d"
+              ]
+            }
+          },
+          "completed_count": 4,
+          "expected_count": 4,
+          "completion_rate": 100,
+          "missing_forms": []
+        },
+        {
+          "region": "华南一区",
+          "city": "深圳",
           "store": "深圳金光华店",
           "statuses": {
             "morning_duty": {
@@ -6340,84 +6451,6 @@
               "report_count": 1,
               "report_ids": [
                 "6a8d3e1a6caa631c7c6827ad"
-              ]
-            }
-          },
-          "completed_count": 4,
-          "expected_count": 4,
-          "completion_rate": 100,
-          "missing_forms": []
-        },
-        {
-          "region": "华南一区",
-          "city": "深圳",
-          "store": "深圳仁恒梦中心店",
-          "statuses": {
-            "morning_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8cf713c9f1f983dc173a03"
-              ]
-            },
-            "morning_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8cfcf2a7c5c87bb0777a3a"
-              ]
-            },
-            "evening_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8da3dea7c5c87bb077d8a4"
-              ]
-            },
-            "handover_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8d34c1a7c5c87bb0779be3"
-              ]
-            }
-          },
-          "completed_count": 4,
-          "expected_count": 4,
-          "completion_rate": 100,
-          "missing_forms": []
-        },
-        {
-          "region": "华南一区",
-          "city": "深圳",
-          "store": "深圳天安云谷店",
-          "statuses": {
-            "morning_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8cf718bb13a83b5aab5b23"
-              ]
-            },
-            "morning_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8cf6d5bb13a83b5aab5af4"
-              ]
-            },
-            "evening_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8da721c4eaa4ef26a4ddc0"
-              ]
-            },
-            "handover_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8d6037bb13a83b5aab952e"
               ]
             }
           },
@@ -6468,34 +6501,73 @@
         {
           "region": "华南一区",
           "city": "深圳",
-          "store": "深圳ONE AVENUE卓悦中心店",
+          "store": "深圳天安云谷店",
           "statuses": {
             "morning_duty": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8cfeb8b2359aa29411640f"
+                "6a8cf718bb13a83b5aab5b23"
               ]
             },
             "morning_quality": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8cffc3b2359aa2941164db"
+                "6a8cf6d5bb13a83b5aab5af4"
               ]
             },
             "evening_duty": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8daa69b2359aa29411d0ff"
+                "6a8da721c4eaa4ef26a4ddc0"
               ]
             },
             "handover_quality": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8d5bd1b2359aa29411947d"
+                "6a8d6037bb13a83b5aab952e"
+              ]
+            }
+          },
+          "completed_count": 4,
+          "expected_count": 4,
+          "completion_rate": 100,
+          "missing_forms": []
+        },
+        {
+          "region": "华南一区",
+          "city": "深圳",
+          "store": "深圳仁恒梦中心店",
+          "statuses": {
+            "morning_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8cf713c9f1f983dc173a03"
+              ]
+            },
+            "morning_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8cfcf2a7c5c87bb0777a3a"
+              ]
+            },
+            "evening_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8da3dea7c5c87bb077d8a4"
+              ]
+            },
+            "handover_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8d34c1a7c5c87bb0779be3"
               ]
             }
           },
@@ -6585,45 +6657,6 @@
         {
           "region": "华南二区",
           "city": "深圳",
-          "store": "深圳平安金融中心店",
-          "statuses": {
-            "morning_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8cf8df1b14fa6621629d36"
-              ]
-            },
-            "morning_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8d079a1b14fa662162abe9"
-              ]
-            },
-            "evening_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8da2c21b14fa662162f605"
-              ]
-            },
-            "handover_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8d3cfe1b14fa662162c018"
-              ]
-            }
-          },
-          "completed_count": 4,
-          "expected_count": 4,
-          "completion_rate": 100,
-          "missing_forms": []
-        },
-        {
-          "region": "华南二区",
-          "city": "深圳",
           "store": "深圳kkone店",
           "statuses": {
             "morning_duty": {
@@ -6661,36 +6694,75 @@
           "missing_forms": []
         },
         {
-          "region": "华南三区",
+          "region": "华南二区",
           "city": "深圳",
-          "store": "深圳宝安大仟里店",
+          "store": "深圳平安金融中心店",
           "statuses": {
             "morning_duty": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8cf96ec4eaa4ef26a47525"
+                "6a8cf8df1b14fa6621629d36"
               ]
             },
             "morning_quality": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8d45a1c4eaa4ef26a49de6"
+                "6a8d079a1b14fa662162abe9"
               ]
             },
             "evening_duty": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8da07dc4eaa4ef26a4d8a7"
+                "6a8da2c21b14fa662162f605"
               ]
             },
             "handover_quality": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8d462dc4eaa4ef26a49e1d"
+                "6a8d3cfe1b14fa662162c018"
+              ]
+            }
+          },
+          "completed_count": 4,
+          "expected_count": 4,
+          "completion_rate": 100,
+          "missing_forms": []
+        },
+        {
+          "region": "华南三区",
+          "city": "深圳",
+          "store": "深圳万象前海店",
+          "statuses": {
+            "morning_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8d01c81b14fa662162a712"
+              ]
+            },
+            "morning_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8cffd71b14fa662162a519"
+              ]
+            },
+            "evening_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8d99ab0465cbfb4167e294"
+              ]
+            },
+            "handover_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8d998a0465cbfb4167e25c"
               ]
             }
           },
@@ -6741,73 +6813,34 @@
         {
           "region": "华南三区",
           "city": "深圳",
-          "store": "深圳万象前海店",
+          "store": "深圳宝安大仟里店",
           "statuses": {
             "morning_duty": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8d01c81b14fa662162a712"
+                "6a8cf96ec4eaa4ef26a47525"
               ]
             },
             "morning_quality": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8cffd71b14fa662162a519"
+                "6a8d45a1c4eaa4ef26a49de6"
               ]
             },
             "evening_duty": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8d99ab0465cbfb4167e294"
+                "6a8da07dc4eaa4ef26a4d8a7"
               ]
             },
             "handover_quality": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8d998a0465cbfb4167e25c"
-              ]
-            }
-          },
-          "completed_count": 4,
-          "expected_count": 4,
-          "completion_rate": 100,
-          "missing_forms": []
-        },
-        {
-          "region": "华南四区",
-          "city": "深圳",
-          "store": "深圳海上世界店",
-          "statuses": {
-            "morning_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8cfc4dc9f1f983dc173e0f"
-              ]
-            },
-            "morning_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8d376d0465cbfb4167b483"
-              ]
-            },
-            "evening_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8da64cc9f1f983dc17fa1e"
-              ]
-            },
-            "handover_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8d376d0465cbfb4167b484"
+                "6a8d462dc4eaa4ef26a49e1d"
               ]
             }
           },
@@ -6897,34 +6930,34 @@
         {
           "region": "华南四区",
           "city": "深圳",
-          "store": "深圳湾万象城店",
+          "store": "深圳海上世界店",
           "statuses": {
             "morning_duty": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8d053a90cb52d7100ec523"
+                "6a8cfc4dc9f1f983dc173e0f"
               ]
             },
             "morning_quality": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8d07eb90cb52d7100ec818"
+                "6a8d376d0465cbfb4167b483"
               ]
             },
             "evening_duty": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8da6ebc361f7798e726e08"
+                "6a8da64cc9f1f983dc17fa1e"
               ]
             },
             "handover_quality": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8d39ad90cb52d7100ef3ad"
+                "6a8d376d0465cbfb4167b484"
               ]
             }
           },
@@ -6973,36 +7006,36 @@
           "missing_forms": []
         },
         {
-          "region": "华南五区",
-          "city": "广州",
-          "store": "广州塔广场店",
+          "region": "华南四区",
+          "city": "深圳",
+          "store": "深圳湾万象城店",
           "statuses": {
             "morning_duty": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8cfbb290cb52d7100ebbc3"
+                "6a8d053a90cb52d7100ec523"
               ]
             },
             "morning_quality": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8cfd7f90cb52d7100ebd22"
+                "6a8d07eb90cb52d7100ec818"
               ]
             },
             "evening_duty": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8daafec9f1f983dc17fc45"
+                "6a8da6ebc361f7798e726e08"
               ]
             },
             "handover_quality": {
               "status": "completed",
               "report_count": 1,
               "report_ids": [
-                "6a8d4b406caa631c7c682eab"
+                "6a8d39ad90cb52d7100ef3ad"
               ]
             }
           },
@@ -7092,6 +7125,45 @@
         {
           "region": "华南五区",
           "city": "广州",
+          "store": "广州塔广场店",
+          "statuses": {
+            "morning_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8cfbb290cb52d7100ebbc3"
+              ]
+            },
+            "morning_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8cfd7f90cb52d7100ebd22"
+              ]
+            },
+            "evening_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8daafec9f1f983dc17fc45"
+              ]
+            },
+            "handover_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8d4b406caa631c7c682eab"
+              ]
+            }
+          },
+          "completed_count": 4,
+          "expected_count": 4,
+          "completion_rate": 100,
+          "missing_forms": []
+        },
+        {
+          "region": "华南五区",
+          "city": "广州",
           "store": "广州天汇广场店",
           "statuses": {
             "morning_duty": {
@@ -7120,6 +7192,84 @@
               "report_count": 1,
               "report_ids": [
                 "6a8d5f3fc361f7798e724679"
+              ]
+            }
+          },
+          "completed_count": 4,
+          "expected_count": 4,
+          "completion_rate": 100,
+          "missing_forms": []
+        },
+        {
+          "region": "华南六区",
+          "city": "佛山",
+          "store": "佛山岭南天地店",
+          "statuses": {
+            "morning_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8cf1f1ee4a599c6d5c474e"
+              ]
+            },
+            "morning_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8d2dfbee4a599c6d5c66d3"
+              ]
+            },
+            "evening_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8da991b2359aa29411d0ba"
+              ]
+            },
+            "handover_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8d2e28ee4a599c6d5c66d4"
+              ]
+            }
+          },
+          "completed_count": 4,
+          "expected_count": 4,
+          "completion_rate": 100,
+          "missing_forms": []
+        },
+        {
+          "region": "华南六区",
+          "city": "广州",
+          "store": "广州永庆坊店·茶肆",
+          "statuses": {
+            "morning_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8d03aa09ac3ecb38b678e4"
+              ]
+            },
+            "morning_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8d03aa09ac3ecb38b678e5"
+              ]
+            },
+            "evening_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8dab1409ac3ecb38b6de20"
+              ]
+            },
+            "handover_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8dab1409ac3ecb38b6de21"
               ]
             }
           },
@@ -7208,45 +7358,6 @@
         },
         {
           "region": "华南六区",
-          "city": "佛山",
-          "store": "佛山岭南天地店",
-          "statuses": {
-            "morning_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8cf1f1ee4a599c6d5c474e"
-              ]
-            },
-            "morning_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8d2dfbee4a599c6d5c66d3"
-              ]
-            },
-            "evening_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8da991b2359aa29411d0ba"
-              ]
-            },
-            "handover_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8d2e28ee4a599c6d5c66d4"
-              ]
-            }
-          },
-          "completed_count": 4,
-          "expected_count": 4,
-          "completion_rate": 100,
-          "missing_forms": []
-        },
-        {
-          "region": "华南六区",
           "city": "广州",
           "store": "广州乐峰广场店",
           "statuses": {
@@ -7276,45 +7387,6 @@
               "report_count": 1,
               "report_ids": [
                 "6a8d28c36caa631c7c681e21"
-              ]
-            }
-          },
-          "completed_count": 4,
-          "expected_count": 4,
-          "completion_rate": 100,
-          "missing_forms": []
-        },
-        {
-          "region": "华南六区",
-          "city": "广州",
-          "store": "广州永庆坊店·茶肆",
-          "statuses": {
-            "morning_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8d03aa09ac3ecb38b678e4"
-              ]
-            },
-            "morning_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8d03aa09ac3ecb38b678e5"
-              ]
-            },
-            "evening_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8dab1409ac3ecb38b6de20"
-              ]
-            },
-            "handover_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8dab1409ac3ecb38b6de21"
               ]
             }
           },
@@ -7520,45 +7592,6 @@
         },
         {
           "region": "华南九区",
-          "city": "顺德",
-          "store": "顺德万象汇店",
-          "statuses": {
-            "morning_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8cff6cee4a599c6d5c51af"
-              ]
-            },
-            "morning_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8d031cee4a599c6d5c54c5"
-              ]
-            },
-            "evening_duty": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8da7c4ee4a599c6d5ca4ac"
-              ]
-            },
-            "handover_quality": {
-              "status": "completed",
-              "report_count": 1,
-              "report_ids": [
-                "6a8d2cecee4a599c6d5c660d"
-              ]
-            }
-          },
-          "completed_count": 4,
-          "expected_count": 4,
-          "completion_rate": 100,
-          "missing_forms": []
-        },
-        {
-          "region": "华南九区",
           "city": "珠海",
           "store": "珠海富华里店",
           "statuses": {
@@ -7588,6 +7621,45 @@
               "report_count": 1,
               "report_ids": [
                 "6a8d34bb6caa631c7c682396"
+              ]
+            }
+          },
+          "completed_count": 4,
+          "expected_count": 4,
+          "completion_rate": 100,
+          "missing_forms": []
+        },
+        {
+          "region": "华南九区",
+          "city": "顺德",
+          "store": "顺德万象汇店",
+          "statuses": {
+            "morning_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8cff6cee4a599c6d5c51af"
+              ]
+            },
+            "morning_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8d031cee4a599c6d5c54c5"
+              ]
+            },
+            "evening_duty": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8da7c4ee4a599c6d5ca4ac"
+              ]
+            },
+            "handover_quality": {
+              "status": "completed",
+              "report_count": 1,
+              "report_ids": [
+                "6a8d2cecee4a599c6d5c660d"
               ]
             }
           },
@@ -9269,6 +9341,42 @@
           "report_url": "https://xundian.alphabets.cn/v2/report/6a8cf84b6caa631c7c68057a",
           "report_id": "6a8cf84b6caa631c7c68057a"
         }
+      ],
+      "store_order": [
+        "深圳ONE AVENUE卓悦中心店",
+        "深圳金光华店",
+        "深圳万象食家店",
+        "深圳天安云谷店",
+        "深圳仁恒梦中心店",
+        "深圳布吉万象汇店",
+        "深圳梅林卓悦汇店",
+        "深圳kkone店",
+        "深圳平安金融中心店",
+        "深圳万象前海店",
+        "深圳欢乐港湾店",
+        "深圳宝安大仟里店",
+        "深圳科兴科学园店",
+        "深圳来福士广场店",
+        "深圳海上世界店",
+        "深圳万象天地店·茶歇",
+        "深圳湾万象城店",
+        "广州太古汇店",
+        "广州天环广场店",
+        "广州塔广场店",
+        "广州天汇广场店",
+        "佛山岭南天地店",
+        "广州永庆坊店·茶肆",
+        "东莞汇一城店",
+        "东莞记忆店·茶肆",
+        "广州乐峰广场店",
+        "厦门万象城店",
+        "厦门SM新生活广场店·集",
+        "深圳宝安壹方城店",
+        "深圳怀德万象汇店",
+        "深圳腾讯总部园区店",
+        "珠海富华里店",
+        "顺德万象汇店",
+        "珠海万象汇店"
       ]
     }
   ]
