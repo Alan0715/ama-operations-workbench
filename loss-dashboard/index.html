@@ -113,8 +113,8 @@ header.top{padding:16px 4vw 0;margin-bottom:16px}.top .wrap{display:flex;align-i
   <div class="module-scroll"><div class="table-wrap raw-detail-wrap"><table class="raw-detail-table"><colgroup><col class="region-col"><col class="store-col"><col class="type-col"><col class="code-col"><col class="item-col"><col class="qty-col"><col class="unit-col"><col class="reason-col"><col class="amount-col"></colgroup><thead><tr><th>区域</th><th>门店</th><th>单据类型</th><th>物料编码</th><th>物料名称</th><th class="num">报损数量</th><th>单位</th><th>报损原因</th><th class="num">参考金额</th></tr></thead><tbody id="rawDetailRows"></tbody></table></div></div>
   </section>
 </main>
-<script src="data/loss-data.js?v=20260902"></script>
-<script src="data/loss-history.js?v=20260902"></script>
+<script src="data/loss-data.js?v=20260902-org-20260904"></script>
+<script src="data/loss-history.js?v=20260902-org-20260904"></script>
 <script>
 const DATA=window.LOSS_DATA,HISTORY=window.LOSS_HISTORY?.entries||[],all=DATA.rows,orgStores=DATA.organizationStores||[],revenueRows=DATA.revenueRows||[],dayTotal=all.reduce((s,r)=>s+(r.amount||0),0),money=n=>new Intl.NumberFormat('zh-CN',{style:'currency',currency:'CNY'}).format(n),matrixMoney=n=>n?`¥${new Intl.NumberFormat('zh-CN',{maximumFractionDigits:2,minimumFractionDigits:2}).format(n)}`:'—',pct=n=>(n*100).toFixed(2)+'%',normalizeStore=value=>String(value??'').trim().toLocaleLowerCase('zh-CN'),regionOrder=new Map(),storeOrder=new Map();
 orgStores.forEach((row,index)=>{if(!regionOrder.has(row.region))regionOrder.set(row.region,regionOrder.size);storeOrder.set(normalizeStore(row.store),index)});regionOrder.set('未匹配区域',regionOrder.size);
