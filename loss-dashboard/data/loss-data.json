@@ -2,7 +2,7 @@
   "meta": {
     "title": "华南大区｜报损原因数据看板",
     "date": "2026-09-02",
-    "generatedAt": "2026-09-03 10:42",
+    "generatedAt": "2026-09-04 10:11",
     "sourceFile": "报损出库单_2026090310372876_183580.xlsx",
     "orgFile": "组织架构.xlsx",
     "revenueFile": "收银汇总表-2026-09-022026-09-02-1e06e7b1c6b6442b9d2e3dabf5ff81f1.xlsx",
@@ -34,44 +34,64 @@
       "supervisor": "陈琴"
     },
     {
-      "store": "深圳仁恒梦中心店",
+      "store": "深圳平安金融中心店",
       "region": "华南一区",
       "supervisor": "陈琴"
     },
     {
-      "store": "深圳布吉万象汇店",
-      "region": "华南二区",
-      "supervisor": "卓伟志"
-    },
-    {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志"
-    },
-    {
-      "store": "深圳KKone店",
-      "region": "华南二区",
-      "supervisor": "卓伟志"
-    },
-    {
-      "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志"
-    },
-    {
-      "store": "深圳万象前海店",
-      "region": "华南三区",
       "supervisor": "黄鹏"
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏"
     },
     {
-      "store": "深圳宝安大仟里店",
-      "region": "华南三区",
+      "store": "深圳仁恒梦中心店",
+      "region": "华南二区",
       "supervisor": "黄鹏"
+    },
+    {
+      "store": "深圳KKone店",
+      "region": "华南二区",
+      "supervisor": "黄鹏"
+    },
+    {
+      "store": "深圳布吉万象汇店",
+      "region": "华南二区",
+      "supervisor": "黄鹏"
+    },
+    {
+      "store": "深圳万象前海店",
+      "region": "华南三区",
+      "supervisor": "李小花"
+    },
+    {
+      "store": "深圳宝安壹方城店",
+      "region": "华南三区",
+      "supervisor": "李小花"
+    },
+    {
+      "store": "深圳怀德万象汇店",
+      "region": "华南三区",
+      "supervisor": "李小花"
+    },
+    {
+      "store": "深圳腾讯总部园区店",
+      "region": "华南三区",
+      "supervisor": "李小花"
+    },
+    {
+      "store": "厦门万象城店",
+      "region": "华南三区",
+      "supervisor": "李小花"
+    },
+    {
+      "store": "厦门SM新生活广场店·集",
+      "region": "华南三区",
+      "supervisor": "李小花"
     },
     {
       "store": "深圳科兴科学园店",
@@ -95,6 +115,11 @@
     },
     {
       "store": "深圳湾万象城店",
+      "region": "华南四区",
+      "supervisor": "李文芸"
+    },
+    {
+      "store": "深圳宝安大仟里店",
       "region": "华南四区",
       "supervisor": "李文芸"
     },
@@ -144,43 +169,18 @@
       "supervisor": "梁美梨"
     },
     {
-      "store": "厦门万象城店",
-      "region": "华南七区",
-      "supervisor": "李小花"
-    },
-    {
-      "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
-      "supervisor": "李小花"
-    },
-    {
-      "store": "深圳宝安壹方城店",
-      "region": "华南八区",
-      "supervisor": "李小花"
-    },
-    {
-      "store": "深圳怀德万象汇店",
-      "region": "华南八区",
-      "supervisor": "李小花"
-    },
-    {
-      "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
-      "supervisor": "李小花"
-    },
-    {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光"
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光"
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光"
     }
   ],
@@ -206,14 +206,9 @@
       "revenue": 23405.06
     },
     {
-      "store": "深圳仁恒梦中心店",
+      "store": "深圳平安金融中心店",
       "region": "华南一区",
-      "revenue": 13548.42
-    },
-    {
-      "store": "深圳布吉万象汇店",
-      "region": "华南二区",
-      "revenue": 14301.16
+      "revenue": 32694.85
     },
     {
       "store": "深圳梅林卓悦汇店",
@@ -221,14 +216,24 @@
       "revenue": 19192.65
     },
     {
+      "store": "深圳欢乐港湾店",
+      "region": "华南二区",
+      "revenue": 4248.42
+    },
+    {
+      "store": "深圳仁恒梦中心店",
+      "region": "华南二区",
+      "revenue": 13548.42
+    },
+    {
       "store": "深圳KKone店",
       "region": "华南二区",
       "revenue": 24529.8
     },
     {
-      "store": "深圳平安金融中心店",
+      "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "revenue": 32694.85
+      "revenue": 14301.16
     },
     {
       "store": "深圳万象前海店",
@@ -236,14 +241,29 @@
       "revenue": 15813.3
     },
     {
-      "store": "深圳欢乐港湾店",
+      "store": "深圳宝安壹方城店",
       "region": "华南三区",
-      "revenue": 4248.42
+      "revenue": 16706.3
     },
     {
-      "store": "深圳宝安大仟里店",
+      "store": "深圳怀德万象汇店",
       "region": "华南三区",
-      "revenue": 11689.28
+      "revenue": 11741.54
+    },
+    {
+      "store": "深圳腾讯总部园区店",
+      "region": "华南三区",
+      "revenue": 9099.96
+    },
+    {
+      "store": "厦门万象城店",
+      "region": "华南三区",
+      "revenue": 12729.36
+    },
+    {
+      "store": "厦门SM新生活广场店·集",
+      "region": "华南三区",
+      "revenue": 14770.48
     },
     {
       "store": "深圳科兴科学园店",
@@ -269,6 +289,11 @@
       "store": "深圳湾万象城店",
       "region": "华南四区",
       "revenue": 21959.64
+    },
+    {
+      "store": "深圳宝安大仟里店",
+      "region": "华南四区",
+      "revenue": 11689.28
     },
     {
       "store": "广州太古汇店",
@@ -316,43 +341,18 @@
       "revenue": 14259.7
     },
     {
-      "store": "厦门万象城店",
-      "region": "华南七区",
-      "revenue": 12729.36
-    },
-    {
-      "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
-      "revenue": 14770.48
-    },
-    {
-      "store": "深圳宝安壹方城店",
-      "region": "华南八区",
-      "revenue": 16706.3
-    },
-    {
-      "store": "深圳怀德万象汇店",
-      "region": "华南八区",
-      "revenue": 11741.54
-    },
-    {
-      "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
-      "revenue": 9099.96
-    },
-    {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "revenue": 19663.6
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "revenue": 12536.05
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "revenue": 11681.66
     }
   ],
@@ -375,7 +375,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -389,7 +389,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -404,7 +404,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -419,7 +419,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -434,7 +434,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -449,7 +449,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -464,7 +464,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -479,7 +479,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -494,7 +494,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -509,7 +509,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -524,7 +524,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -539,7 +539,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -554,7 +554,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -569,7 +569,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -584,7 +584,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -599,7 +599,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -614,7 +614,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -629,7 +629,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -644,7 +644,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -659,7 +659,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -674,7 +674,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -689,7 +689,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -704,7 +704,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -719,7 +719,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -734,7 +734,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -749,7 +749,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -764,7 +764,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -779,7 +779,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -794,7 +794,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -809,7 +809,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -824,7 +824,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -839,7 +839,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -854,7 +854,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -869,7 +869,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -884,7 +884,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -899,7 +899,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -914,7 +914,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -1770,7 +1770,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -1785,7 +1785,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -1800,7 +1800,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -1815,7 +1815,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -1830,7 +1830,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -1845,7 +1845,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -1860,7 +1860,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -1875,7 +1875,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -1890,7 +1890,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -1905,7 +1905,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -1920,7 +1920,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -1935,7 +1935,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -1950,7 +1950,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -1965,7 +1965,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -1980,7 +1980,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -1995,7 +1995,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2010,7 +2010,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2025,7 +2025,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2040,7 +2040,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2055,7 +2055,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2070,7 +2070,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2085,7 +2085,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2100,7 +2100,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2115,7 +2115,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2130,7 +2130,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2145,7 +2145,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2159,7 +2159,7 @@
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -2174,7 +2174,7 @@
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -2189,7 +2189,7 @@
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -2204,7 +2204,7 @@
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -2219,7 +2219,7 @@
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -2234,7 +2234,7 @@
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -2249,7 +2249,7 @@
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -2264,7 +2264,7 @@
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -2279,7 +2279,7 @@
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -2294,7 +2294,7 @@
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -2309,7 +2309,7 @@
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -2324,7 +2324,7 @@
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -2339,7 +2339,7 @@
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -2354,7 +2354,7 @@
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -2369,7 +2369,7 @@
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -2384,7 +2384,7 @@
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -2399,7 +2399,7 @@
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -2414,7 +2414,7 @@
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -2429,7 +2429,7 @@
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -2444,7 +2444,7 @@
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -2459,7 +2459,7 @@
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -2475,7 +2475,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2490,7 +2490,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2505,7 +2505,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2520,7 +2520,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2535,7 +2535,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2550,7 +2550,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2565,7 +2565,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2580,7 +2580,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2595,7 +2595,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2610,7 +2610,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2625,7 +2625,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2640,7 +2640,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2655,7 +2655,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2670,7 +2670,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2685,7 +2685,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2700,7 +2700,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2715,7 +2715,7 @@
     {
       "store": "深圳KKone店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2730,7 +2730,7 @@
     {
       "store": "深圳KKone店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2745,7 +2745,7 @@
     {
       "store": "深圳KKone店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2760,7 +2760,7 @@
     {
       "store": "深圳KKone店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2775,7 +2775,7 @@
     {
       "store": "深圳KKone店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2790,7 +2790,7 @@
     {
       "store": "深圳KKone店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2805,7 +2805,7 @@
     {
       "store": "深圳KKone店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2820,7 +2820,7 @@
     {
       "store": "深圳KKone店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2835,7 +2835,7 @@
     {
       "store": "深圳KKone店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2850,7 +2850,7 @@
     {
       "store": "深圳KKone店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2865,7 +2865,7 @@
     {
       "store": "深圳KKone店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2880,7 +2880,7 @@
     {
       "store": "深圳KKone店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2895,7 +2895,7 @@
     {
       "store": "深圳KKone店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2910,7 +2910,7 @@
     {
       "store": "深圳KKone店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2925,7 +2925,7 @@
     {
       "store": "深圳KKone店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -2940,7 +2940,7 @@
     {
       "store": "深圳KKone店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -5384,8 +5384,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -5399,8 +5399,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -5414,8 +5414,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -5429,8 +5429,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -5444,8 +5444,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -5459,8 +5459,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -5474,8 +5474,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -5489,8 +5489,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -5504,8 +5504,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -5519,8 +5519,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -5534,8 +5534,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -5549,8 +5549,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -5564,8 +5564,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -5579,8 +5579,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -5594,8 +5594,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -5609,8 +5609,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -5624,8 +5624,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -5639,8 +5639,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -5654,8 +5654,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -5669,8 +5669,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -5684,8 +5684,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -5699,8 +5699,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -5714,8 +5714,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -5729,8 +5729,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -5744,7 +5744,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -5759,7 +5759,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -5774,7 +5774,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -5789,7 +5789,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -5804,7 +5804,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -5819,7 +5819,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -5834,7 +5834,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -5849,7 +5849,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -5864,7 +5864,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -5879,7 +5879,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -5894,7 +5894,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -5909,7 +5909,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -5924,7 +5924,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -5939,7 +5939,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -5954,7 +5954,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -5969,7 +5969,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -5984,7 +5984,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -5999,7 +5999,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -6014,7 +6014,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -6029,7 +6029,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -6044,7 +6044,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -6059,7 +6059,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -6074,7 +6074,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -6089,7 +6089,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -6104,7 +6104,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -6119,7 +6119,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -6134,7 +6134,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -6149,7 +6149,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -6164,7 +6164,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -6179,7 +6179,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
@@ -7949,7 +7949,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -7964,7 +7964,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -7979,7 +7979,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -7994,7 +7994,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -8009,7 +8009,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -8024,7 +8024,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -8039,7 +8039,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -8054,7 +8054,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -8069,7 +8069,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -8084,7 +8084,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -8099,7 +8099,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -8114,7 +8114,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -8129,7 +8129,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -8144,7 +8144,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -8159,7 +8159,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -8174,7 +8174,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -8189,7 +8189,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -8204,7 +8204,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -8219,7 +8219,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -8234,7 +8234,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -8249,7 +8249,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -8264,7 +8264,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -8279,7 +8279,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -8294,7 +8294,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -8309,7 +8309,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -8324,7 +8324,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -8339,7 +8339,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -8354,7 +8354,7 @@
     },
     {
       "store": "深圳宝安壹方城店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -8640,7 +8640,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -8655,7 +8655,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -8670,7 +8670,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -8685,7 +8685,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -8700,7 +8700,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -8715,7 +8715,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -8730,7 +8730,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -8745,7 +8745,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -8760,7 +8760,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -8775,7 +8775,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -8790,7 +8790,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -8805,7 +8805,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -8820,7 +8820,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -8835,7 +8835,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -8850,7 +8850,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -8865,7 +8865,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -8880,7 +8880,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -8895,7 +8895,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -8910,7 +8910,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -8925,7 +8925,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -8940,7 +8940,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -8955,7 +8955,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -8970,7 +8970,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -8985,7 +8985,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -8999,7 +8999,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9014,7 +9014,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9029,7 +9029,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9044,7 +9044,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9059,7 +9059,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9074,7 +9074,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9089,7 +9089,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9104,7 +9104,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9119,7 +9119,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9134,7 +9134,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9149,7 +9149,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9164,7 +9164,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9179,7 +9179,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9194,7 +9194,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9209,7 +9209,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9224,7 +9224,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9239,7 +9239,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9254,7 +9254,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9269,7 +9269,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9284,7 +9284,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9299,7 +9299,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9314,7 +9314,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9329,7 +9329,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9344,7 +9344,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9359,7 +9359,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9374,7 +9374,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -9389,7 +9389,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -10274,8 +10274,8 @@
     },
     {
       "store": "深圳宝安大仟里店",
-      "region": "华南三区",
-      "supervisor": "黄鹏",
+      "region": "华南四区",
+      "supervisor": "李文芸",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -10289,8 +10289,8 @@
     },
     {
       "store": "深圳宝安大仟里店",
-      "region": "华南三区",
-      "supervisor": "黄鹏",
+      "region": "华南四区",
+      "supervisor": "李文芸",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -10304,8 +10304,8 @@
     },
     {
       "store": "深圳宝安大仟里店",
-      "region": "华南三区",
-      "supervisor": "黄鹏",
+      "region": "华南四区",
+      "supervisor": "李文芸",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -10319,8 +10319,8 @@
     },
     {
       "store": "深圳宝安大仟里店",
-      "region": "华南三区",
-      "supervisor": "黄鹏",
+      "region": "华南四区",
+      "supervisor": "李文芸",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -10334,8 +10334,8 @@
     },
     {
       "store": "深圳宝安大仟里店",
-      "region": "华南三区",
-      "supervisor": "黄鹏",
+      "region": "华南四区",
+      "supervisor": "李文芸",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -10349,8 +10349,8 @@
     },
     {
       "store": "深圳宝安大仟里店",
-      "region": "华南三区",
-      "supervisor": "黄鹏",
+      "region": "华南四区",
+      "supervisor": "李文芸",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -10364,8 +10364,8 @@
     },
     {
       "store": "深圳宝安大仟里店",
-      "region": "华南三区",
-      "supervisor": "黄鹏",
+      "region": "华南四区",
+      "supervisor": "李文芸",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -10379,8 +10379,8 @@
     },
     {
       "store": "深圳宝安大仟里店",
-      "region": "华南三区",
-      "supervisor": "黄鹏",
+      "region": "华南四区",
+      "supervisor": "李文芸",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -10394,8 +10394,8 @@
     },
     {
       "store": "深圳宝安大仟里店",
-      "region": "华南三区",
-      "supervisor": "黄鹏",
+      "region": "华南四区",
+      "supervisor": "李文芸",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -10409,8 +10409,8 @@
     },
     {
       "store": "深圳宝安大仟里店",
-      "region": "华南三区",
-      "supervisor": "黄鹏",
+      "region": "华南四区",
+      "supervisor": "李文芸",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -10424,8 +10424,8 @@
     },
     {
       "store": "深圳宝安大仟里店",
-      "region": "华南三区",
-      "supervisor": "黄鹏",
+      "region": "华南四区",
+      "supervisor": "李文芸",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -10439,8 +10439,8 @@
     },
     {
       "store": "深圳宝安大仟里店",
-      "region": "华南三区",
-      "supervisor": "黄鹏",
+      "region": "华南四区",
+      "supervisor": "李文芸",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -10454,8 +10454,8 @@
     },
     {
       "store": "深圳宝安大仟里店",
-      "region": "华南三区",
-      "supervisor": "黄鹏",
+      "region": "华南四区",
+      "supervisor": "李文芸",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -10469,8 +10469,8 @@
     },
     {
       "store": "深圳宝安大仟里店",
-      "region": "华南三区",
-      "supervisor": "黄鹏",
+      "region": "华南四区",
+      "supervisor": "李文芸",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11295,7 +11295,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11310,7 +11310,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11325,7 +11325,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11340,7 +11340,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11355,7 +11355,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11370,7 +11370,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11385,7 +11385,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11400,7 +11400,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11415,7 +11415,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11430,7 +11430,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11445,7 +11445,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11460,7 +11460,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11475,7 +11475,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11490,7 +11490,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11505,7 +11505,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11520,7 +11520,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11535,7 +11535,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11550,7 +11550,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11564,8 +11564,8 @@
     },
     {
       "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志",
+      "region": "华南一区",
+      "supervisor": "陈琴",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11579,8 +11579,8 @@
     },
     {
       "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志",
+      "region": "华南一区",
+      "supervisor": "陈琴",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11594,8 +11594,8 @@
     },
     {
       "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志",
+      "region": "华南一区",
+      "supervisor": "陈琴",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11609,8 +11609,8 @@
     },
     {
       "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志",
+      "region": "华南一区",
+      "supervisor": "陈琴",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11624,8 +11624,8 @@
     },
     {
       "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志",
+      "region": "华南一区",
+      "supervisor": "陈琴",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11639,8 +11639,8 @@
     },
     {
       "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志",
+      "region": "华南一区",
+      "supervisor": "陈琴",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11654,8 +11654,8 @@
     },
     {
       "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志",
+      "region": "华南一区",
+      "supervisor": "陈琴",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11669,8 +11669,8 @@
     },
     {
       "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志",
+      "region": "华南一区",
+      "supervisor": "陈琴",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11684,8 +11684,8 @@
     },
     {
       "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志",
+      "region": "华南一区",
+      "supervisor": "陈琴",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11699,8 +11699,8 @@
     },
     {
       "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志",
+      "region": "华南一区",
+      "supervisor": "陈琴",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11714,8 +11714,8 @@
     },
     {
       "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志",
+      "region": "华南一区",
+      "supervisor": "陈琴",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11729,8 +11729,8 @@
     },
     {
       "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志",
+      "region": "华南一区",
+      "supervisor": "陈琴",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11744,8 +11744,8 @@
     },
     {
       "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志",
+      "region": "华南一区",
+      "supervisor": "陈琴",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11759,8 +11759,8 @@
     },
     {
       "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志",
+      "region": "华南一区",
+      "supervisor": "陈琴",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11774,8 +11774,8 @@
     },
     {
       "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志",
+      "region": "华南一区",
+      "supervisor": "陈琴",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11789,8 +11789,8 @@
     },
     {
       "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志",
+      "region": "华南一区",
+      "supervisor": "陈琴",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11804,8 +11804,8 @@
     },
     {
       "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志",
+      "region": "华南一区",
+      "supervisor": "陈琴",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11819,8 +11819,8 @@
     },
     {
       "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志",
+      "region": "华南一区",
+      "supervisor": "陈琴",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11834,8 +11834,8 @@
     },
     {
       "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志",
+      "region": "华南一区",
+      "supervisor": "陈琴",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11849,8 +11849,8 @@
     },
     {
       "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志",
+      "region": "华南一区",
+      "supervisor": "陈琴",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11864,8 +11864,8 @@
     },
     {
       "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志",
+      "region": "华南一区",
+      "supervisor": "陈琴",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11879,8 +11879,8 @@
     },
     {
       "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志",
+      "region": "华南一区",
+      "supervisor": "陈琴",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11894,8 +11894,8 @@
     },
     {
       "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志",
+      "region": "华南一区",
+      "supervisor": "陈琴",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11909,8 +11909,8 @@
     },
     {
       "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志",
+      "region": "华南一区",
+      "supervisor": "陈琴",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11924,8 +11924,8 @@
     },
     {
       "store": "深圳平安金融中心店",
-      "region": "华南二区",
-      "supervisor": "卓伟志",
+      "region": "华南一区",
+      "supervisor": "陈琴",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -11939,7 +11939,7 @@
     },
     {
       "store": "厦门万象城店",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -11954,7 +11954,7 @@
     },
     {
       "store": "厦门万象城店",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -11969,7 +11969,7 @@
     },
     {
       "store": "厦门万象城店",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -11984,7 +11984,7 @@
     },
     {
       "store": "厦门万象城店",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -11999,8 +11999,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -12014,8 +12014,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -12029,8 +12029,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -12044,8 +12044,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -12059,8 +12059,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -12074,8 +12074,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -12089,8 +12089,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -12104,8 +12104,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -12119,8 +12119,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -12134,8 +12134,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -12149,8 +12149,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -12164,8 +12164,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -12179,8 +12179,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -12194,8 +12194,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -12209,8 +12209,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -12224,8 +12224,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -12674,7 +12674,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -12689,7 +12689,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -12704,7 +12704,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -12719,7 +12719,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -12734,7 +12734,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -12749,7 +12749,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -12764,7 +12764,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -12779,7 +12779,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -12794,7 +12794,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -12809,7 +12809,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -12824,7 +12824,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -12839,7 +12839,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -12854,7 +12854,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -12869,7 +12869,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -12884,7 +12884,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -12899,7 +12899,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -12914,7 +12914,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -12929,7 +12929,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -12944,7 +12944,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -12959,7 +12959,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -12974,7 +12974,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13095,7 +13095,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -13110,7 +13110,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -13125,7 +13125,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -13140,7 +13140,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -13155,7 +13155,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -13170,7 +13170,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -13185,7 +13185,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -13200,7 +13200,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -13214,7 +13214,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13229,7 +13229,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13244,7 +13244,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13259,7 +13259,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13274,7 +13274,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13289,7 +13289,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13304,7 +13304,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13319,7 +13319,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13334,7 +13334,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13349,7 +13349,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13364,7 +13364,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13379,7 +13379,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13394,7 +13394,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13409,7 +13409,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13424,7 +13424,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13439,7 +13439,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13454,7 +13454,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13469,7 +13469,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13484,7 +13484,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13499,7 +13499,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13514,7 +13514,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13529,7 +13529,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13544,7 +13544,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13559,7 +13559,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13574,7 +13574,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13589,7 +13589,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13604,7 +13604,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -13619,7 +13619,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14549,7 +14549,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14564,7 +14564,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14579,7 +14579,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14594,7 +14594,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14609,7 +14609,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14624,7 +14624,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14639,7 +14639,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14654,7 +14654,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14669,7 +14669,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14684,7 +14684,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14699,7 +14699,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14714,7 +14714,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14729,7 +14729,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14744,7 +14744,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14759,7 +14759,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14774,7 +14774,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14789,7 +14789,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14804,7 +14804,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14819,7 +14819,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14834,7 +14834,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14849,7 +14849,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14864,7 +14864,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14879,7 +14879,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14894,7 +14894,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14909,7 +14909,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14924,7 +14924,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14939,7 +14939,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14954,7 +14954,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14969,7 +14969,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14984,7 +14984,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -14999,7 +14999,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -15014,7 +15014,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -15029,7 +15029,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -15044,7 +15044,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -15059,7 +15059,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -15074,7 +15074,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -15089,7 +15089,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -15104,7 +15104,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -15119,7 +15119,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -15134,7 +15134,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -15149,7 +15149,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -15164,7 +15164,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -15179,7 +15179,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -15194,7 +15194,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -15209,7 +15209,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -15224,7 +15224,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -15239,7 +15239,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -15254,7 +15254,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -15269,7 +15269,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -15284,7 +15284,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -15299,7 +15299,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -15570,7 +15570,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -15585,7 +15585,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -15600,7 +15600,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -15615,7 +15615,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -15630,7 +15630,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -15644,7 +15644,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -15659,7 +15659,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -15674,7 +15674,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -15689,7 +15689,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -15704,7 +15704,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "审核中",
@@ -16034,8 +16034,8 @@
     },
     {
       "store": "深圳宝安大仟里店",
-      "region": "华南三区",
-      "supervisor": "黄鹏",
+      "region": "华南四区",
+      "supervisor": "李文芸",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -16049,8 +16049,8 @@
     },
     {
       "store": "深圳宝安大仟里店",
-      "region": "华南三区",
-      "supervisor": "黄鹏",
+      "region": "华南四区",
+      "supervisor": "李文芸",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -16064,8 +16064,8 @@
     },
     {
       "store": "深圳宝安大仟里店",
-      "region": "华南三区",
-      "supervisor": "黄鹏",
+      "region": "华南四区",
+      "supervisor": "李文芸",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -16079,8 +16079,8 @@
     },
     {
       "store": "深圳宝安大仟里店",
-      "region": "华南三区",
-      "supervisor": "黄鹏",
+      "region": "华南四区",
+      "supervisor": "李文芸",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -16094,8 +16094,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -16109,8 +16109,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -16124,8 +16124,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -16139,8 +16139,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -16154,8 +16154,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -16169,8 +16169,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "成品报损出库单",
@@ -16184,7 +16184,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -16199,7 +16199,7 @@
     },
     {
       "store": "深圳怀德万象汇店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -16259,7 +16259,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "已审核",
@@ -16274,7 +16274,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "已审核",
@@ -16289,7 +16289,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "已审核",
@@ -16304,7 +16304,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "已审核",
@@ -16319,7 +16319,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "已审核",
@@ -16334,7 +16334,7 @@
     },
     {
       "store": "珠海富华里店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "已审核",
@@ -16395,7 +16395,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -16410,7 +16410,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -16425,7 +16425,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -16440,7 +16440,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -16455,7 +16455,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -16499,7 +16499,7 @@
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -16514,7 +16514,7 @@
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -16529,7 +16529,7 @@
     },
     {
       "store": "顺德万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "审核中",
@@ -16574,7 +16574,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
@@ -16589,7 +16589,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
@@ -16604,7 +16604,7 @@
     },
     {
       "store": "深圳欢乐港湾店",
-      "region": "华南三区",
+      "region": "华南二区",
       "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
@@ -16829,8 +16829,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -17100,7 +17100,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -17115,7 +17115,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -17130,7 +17130,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -17145,7 +17145,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -17160,7 +17160,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -17175,7 +17175,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -17190,7 +17190,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -17205,7 +17205,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -17220,7 +17220,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -17235,7 +17235,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -17250,7 +17250,7 @@
     {
       "store": "深圳布吉万象汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -17264,7 +17264,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -17279,7 +17279,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -17294,7 +17294,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -17309,7 +17309,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -17324,7 +17324,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -17339,7 +17339,7 @@
     },
     {
       "store": "厦门SM新生活广场店·集",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -17459,8 +17459,8 @@
     },
     {
       "store": "深圳宝安大仟里店",
-      "region": "华南三区",
-      "supervisor": "黄鹏",
+      "region": "华南四区",
+      "supervisor": "李文芸",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "原料报损出库单",
@@ -17474,8 +17474,8 @@
     },
     {
       "store": "深圳宝安大仟里店",
-      "region": "华南三区",
-      "supervisor": "黄鹏",
+      "region": "华南四区",
+      "supervisor": "李文芸",
       "date": "2026-09-02",
       "status": "审核中",
       "docType": "原料报损出库单",
@@ -17490,7 +17490,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -17505,7 +17505,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -17520,7 +17520,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -17535,7 +17535,7 @@
     {
       "store": "深圳万象前海店",
       "region": "华南三区",
-      "supervisor": "黄鹏",
+      "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -17639,8 +17639,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -17654,8 +17654,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -17669,8 +17669,8 @@
     },
     {
       "store": "深圳仁恒梦中心店",
-      "region": "华南一区",
-      "supervisor": "陈琴",
+      "region": "华南二区",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -17684,7 +17684,7 @@
     },
     {
       "store": "厦门万象城店",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -17699,7 +17699,7 @@
     },
     {
       "store": "厦门万象城店",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -17714,7 +17714,7 @@
     },
     {
       "store": "厦门万象城店",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -17729,7 +17729,7 @@
     },
     {
       "store": "厦门万象城店",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -17744,7 +17744,7 @@
     },
     {
       "store": "厦门万象城店",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -17759,7 +17759,7 @@
     },
     {
       "store": "厦门万象城店",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -17774,7 +17774,7 @@
     },
     {
       "store": "厦门万象城店",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -17789,7 +17789,7 @@
     },
     {
       "store": "厦门万象城店",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -17804,7 +17804,7 @@
     },
     {
       "store": "厦门万象城店",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -17819,7 +17819,7 @@
     },
     {
       "store": "厦门万象城店",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -17834,7 +17834,7 @@
     },
     {
       "store": "厦门万象城店",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -17849,7 +17849,7 @@
     },
     {
       "store": "厦门万象城店",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -17864,7 +17864,7 @@
     },
     {
       "store": "厦门万象城店",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -17879,7 +17879,7 @@
     },
     {
       "store": "厦门万象城店",
-      "region": "华南七区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -17894,7 +17894,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -17909,7 +17909,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -17924,7 +17924,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -18029,7 +18029,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "已审核",
@@ -18044,7 +18044,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "已审核",
@@ -18059,7 +18059,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "已审核",
@@ -18074,7 +18074,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "已审核",
@@ -18089,7 +18089,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "已审核",
@@ -18104,7 +18104,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "已审核",
@@ -18119,7 +18119,7 @@
     },
     {
       "store": "珠海万象汇店",
-      "region": "华南九区",
+      "region": "华南七区",
       "supervisor": "李健光",
       "date": "2026-09-02",
       "status": "已审核",
@@ -18195,7 +18195,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -18210,7 +18210,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -18225,7 +18225,7 @@
     {
       "store": "深圳梅林卓悦汇店",
       "region": "华南二区",
-      "supervisor": "卓伟志",
+      "supervisor": "黄鹏",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -18239,7 +18239,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -18254,7 +18254,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -18269,7 +18269,7 @@
     },
     {
       "store": "深圳腾讯总部园区店",
-      "region": "华南八区",
+      "region": "华南三区",
       "supervisor": "李小花",
       "date": "2026-09-02",
       "status": "已审核",
@@ -18314,8 +18314,8 @@
     },
     {
       "store": "深圳宝安大仟里店",
-      "region": "华南三区",
-      "supervisor": "黄鹏",
+      "region": "华南四区",
+      "supervisor": "李文芸",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
@@ -18329,8 +18329,8 @@
     },
     {
       "store": "深圳宝安大仟里店",
-      "region": "华南三区",
-      "supervisor": "黄鹏",
+      "region": "华南四区",
+      "supervisor": "李文芸",
       "date": "2026-09-02",
       "status": "已审核",
       "docType": "原料报损出库单",
