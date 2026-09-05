@@ -51,22 +51,22 @@
     {
       "key": "morning_duty",
       "name": "【营运】值班检查表-早班",
-      "short": "早班值班"
+      "short": "早班 值班"
     },
     {
       "key": "morning_quality",
       "name": "【营运】金牌阿嬷品质自检表（早班）",
-      "short": "早班品质"
+      "short": "早班 金牌阿嬷"
     },
     {
       "key": "evening_duty",
       "name": "【营运】值班检查表-晚班",
-      "short": "晚班值班"
+      "short": "晚班 值班"
     },
     {
       "key": "handover_quality",
       "name": "【营运】金牌阿嬷品质自检表（交接班）",
-      "short": "交接班品质"
+      "short": "交接班 金牌阿嬷"
     }
   ],
   "stats": {
@@ -1119,22 +1119,22 @@
         {
           "key": "morning_duty",
           "name": "【营运】值班检查表-早班",
-          "short": "早班值班"
+          "short": "早班 值班"
         },
         {
           "key": "morning_quality",
           "name": "【营运】金牌阿嬷品质自检表（早班）",
-          "short": "早班品质"
+          "short": "早班 金牌阿嬷"
         },
         {
           "key": "evening_duty",
           "name": "【营运】值班检查表-晚班",
-          "short": "晚班值班"
+          "short": "晚班 值班"
         },
         {
           "key": "handover_quality",
           "name": "【营运】金牌阿嬷品质自检表（交接班）",
-          "short": "交接班品质"
+          "short": "交接班 金牌阿嬷"
         }
       ],
       "stats": {
@@ -2187,22 +2187,22 @@
         {
           "key": "morning_duty",
           "name": "【营运】值班检查表-早班",
-          "short": "早班值班"
+          "short": "早班 值班"
         },
         {
           "key": "morning_quality",
           "name": "【营运】金牌阿嬷品质自检表（早班）",
-          "short": "早班品质"
+          "short": "早班 金牌阿嬷"
         },
         {
           "key": "evening_duty",
           "name": "【营运】值班检查表-晚班",
-          "short": "晚班值班"
+          "short": "晚班 值班"
         },
         {
           "key": "handover_quality",
           "name": "【营运】金牌阿嬷品质自检表（交接班）",
-          "short": "交接班品质"
+          "short": "交接班 金牌阿嬷"
         }
       ],
       "stats": {
