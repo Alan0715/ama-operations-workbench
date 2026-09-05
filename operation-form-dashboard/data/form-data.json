@@ -56,7 +56,7 @@
     {
       "key": "morning_quality",
       "name": "【营运】金牌阿嬷品质自检表（早班）",
-      "short": "早班 金牌阿嬷"
+      "short": "早班 金牌"
     },
     {
       "key": "evening_duty",
@@ -66,7 +66,7 @@
     {
       "key": "handover_quality",
       "name": "【营运】金牌阿嬷品质自检表（交接班）",
-      "short": "交接班 金牌阿嬷"
+      "short": "交接班 金牌"
     }
   ],
   "stats": {
@@ -1124,7 +1124,7 @@
         {
           "key": "morning_quality",
           "name": "【营运】金牌阿嬷品质自检表（早班）",
-          "short": "早班 金牌阿嬷"
+          "short": "早班 金牌"
         },
         {
           "key": "evening_duty",
@@ -1134,7 +1134,7 @@
         {
           "key": "handover_quality",
           "name": "【营运】金牌阿嬷品质自检表（交接班）",
-          "short": "交接班 金牌阿嬷"
+          "short": "交接班 金牌"
         }
       ],
       "stats": {
@@ -2192,7 +2192,7 @@
         {
           "key": "morning_quality",
           "name": "【营运】金牌阿嬷品质自检表（早班）",
-          "short": "早班 金牌阿嬷"
+          "short": "早班 金牌"
         },
         {
           "key": "evening_duty",
@@ -2202,7 +2202,7 @@
         {
           "key": "handover_quality",
           "name": "【营运】金牌阿嬷品质自检表（交接班）",
-          "short": "交接班 金牌阿嬷"
+          "short": "交接班 金牌"
         }
       ],
       "stats": {
