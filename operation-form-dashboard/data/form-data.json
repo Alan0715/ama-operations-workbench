@@ -1,6 +1,6 @@
 {
-  "business_date": "2026-09-06",
-  "updated_at": "2026-09-07T12:16:00+08:00",
+  "business_date": "2026-09-07",
+  "updated_at": "2026-09-08T09:48:37+08:00",
   "data_status": "ready",
   "region_order": [
     "华南一区",
@@ -1065,8 +1065,8 @@
   "report_details": [],
   "history": [
     {
-      "business_date": "2026-09-06",
-      "updated_at": "2026-09-07T12:16:00+08:00",
+      "business_date": "2026-09-07",
+      "updated_at": "2026-09-08T09:48:37+08:00",
       "data_status": "ready",
       "region_order": [
         "华南一区",
@@ -2131,8 +2131,8 @@
       "report_details": []
     },
     {
-      "business_date": "2026-09-05",
-      "updated_at": "2026-09-06T12:03:47+08:00",
+      "business_date": "2026-09-06",
+      "updated_at": "2026-09-07T12:16:00+08:00",
       "data_status": "ready",
       "region_order": [
         "华南一区",
@@ -2203,11 +2203,11 @@
       ],
       "stats": {
         "stores": 34,
-        "complete_stores": 32,
-        "incomplete_stores": 2,
-        "completed_forms": 134,
+        "complete_stores": 34,
+        "incomplete_stores": 0,
+        "completed_forms": 136,
         "expected_forms": 136,
-        "completion_rate": 98.5
+        "completion_rate": 100
       },
       "region_summary": [
         {
@@ -2222,11 +2222,11 @@
         {
           "region": "华南二区",
           "stores": 5,
-          "complete_stores": 4,
-          "incomplete_stores": 1,
-          "completed_forms": 19,
+          "complete_stores": 5,
+          "incomplete_stores": 0,
+          "completed_forms": 20,
           "expected_forms": 20,
-          "completion_rate": 95
+          "completion_rate": 100
         },
         {
           "region": "华南三区",
@@ -2258,11 +2258,11 @@
         {
           "region": "华南六区",
           "stores": 5,
-          "complete_stores": 4,
-          "incomplete_stores": 1,
-          "completed_forms": 19,
+          "complete_stores": 5,
+          "incomplete_stores": 0,
+          "completed_forms": 20,
           "expected_forms": 20,
-          "completion_rate": 95
+          "completion_rate": 100
         },
         {
           "region": "华南七区",
@@ -2447,8 +2447,8 @@
               "report_count": 1
             },
             "morning_quality": {
-              "status": "missing",
-              "report_count": 0
+              "status": "completed",
+              "report_count": 1
             },
             "evening_duty": {
               "status": "completed",
@@ -2459,12 +2459,10 @@
               "report_count": 1
             }
           },
-          "completed_count": 3,
+          "completed_count": 4,
           "expected_count": 4,
-          "completion_rate": 75,
-          "missing_forms": [
-            "【营运】金牌阿嬷品质自检表（早班）"
-          ]
+          "completion_rate": 100,
+          "missing_forms": []
         },
         {
           "region": "华南二区",
@@ -3043,8 +3041,8 @@
               "report_count": 1
             },
             "morning_quality": {
-              "status": "missing",
-              "report_count": 0
+              "status": "completed",
+              "report_count": 1
             },
             "evening_duty": {
               "status": "completed",
@@ -3055,12 +3053,10 @@
               "report_count": 1
             }
           },
-          "completed_count": 3,
+          "completed_count": 4,
           "expected_count": 4,
-          "completion_rate": 75,
-          "missing_forms": [
-            "【营运】金牌阿嬷品质自检表（早班）"
-          ]
+          "completion_rate": 100,
+          "missing_forms": []
         },
         {
           "region": "华南六区",
