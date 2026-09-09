@@ -1,6 +1,6 @@
 {
-  "business_date": "2026-09-07",
-  "updated_at": "2026-09-08T09:48:37+08:00",
+  "business_date": "2026-09-08",
+  "updated_at": "2026-09-09T10:20:14+08:00",
   "data_status": "ready",
   "region_order": [
     "华南一区",
@@ -71,11 +71,11 @@
   ],
   "stats": {
     "stores": 34,
-    "complete_stores": 34,
-    "incomplete_stores": 0,
-    "completed_forms": 136,
+    "complete_stores": 33,
+    "incomplete_stores": 1,
+    "completed_forms": 135,
     "expected_forms": 136,
-    "completion_rate": 100
+    "completion_rate": 99.3
   },
   "region_summary": [
     {
@@ -108,11 +108,11 @@
     {
       "region": "华南四区",
       "stores": 6,
-      "complete_stores": 6,
-      "incomplete_stores": 0,
-      "completed_forms": 24,
+      "complete_stores": 5,
+      "incomplete_stores": 1,
+      "completed_forms": 23,
       "expected_forms": 24,
-      "completion_rate": 100
+      "completion_rate": 95.8
     },
     {
       "region": "华南五区",
@@ -540,7 +540,7 @@
         },
         "handover_quality": {
           "status": "completed",
-          "report_count": 1
+          "report_count": 2
         }
       },
       "completed_count": 4,
@@ -666,8 +666,8 @@
           "report_count": 1
         },
         "morning_quality": {
-          "status": "completed",
-          "report_count": 1
+          "status": "missing",
+          "report_count": 0
         },
         "evening_duty": {
           "status": "completed",
@@ -678,10 +678,12 @@
           "report_count": 1
         }
       },
-      "completed_count": 4,
+      "completed_count": 3,
       "expected_count": 4,
-      "completion_rate": 100,
-      "missing_forms": []
+      "completion_rate": 75,
+      "missing_forms": [
+        "【营运】金牌阿嬷品质自检表（早班）"
+      ]
     },
     {
       "region": "华南四区",
@@ -1065,8 +1067,8 @@
   "report_details": [],
   "history": [
     {
-      "business_date": "2026-09-07",
-      "updated_at": "2026-09-08T09:48:37+08:00",
+      "business_date": "2026-09-08",
+      "updated_at": "2026-09-09T10:20:14+08:00",
       "data_status": "ready",
       "region_order": [
         "华南一区",
@@ -1137,11 +1139,11 @@
       ],
       "stats": {
         "stores": 34,
-        "complete_stores": 34,
-        "incomplete_stores": 0,
-        "completed_forms": 136,
+        "complete_stores": 33,
+        "incomplete_stores": 1,
+        "completed_forms": 135,
         "expected_forms": 136,
-        "completion_rate": 100
+        "completion_rate": 99.3
       },
       "region_summary": [
         {
@@ -1174,11 +1176,11 @@
         {
           "region": "华南四区",
           "stores": 6,
-          "complete_stores": 6,
-          "incomplete_stores": 0,
-          "completed_forms": 24,
+          "complete_stores": 5,
+          "incomplete_stores": 1,
+          "completed_forms": 23,
           "expected_forms": 24,
-          "completion_rate": 100
+          "completion_rate": 95.8
         },
         {
           "region": "华南五区",
@@ -1606,7 +1608,7 @@
             },
             "handover_quality": {
               "status": "completed",
-              "report_count": 1
+              "report_count": 2
             }
           },
           "completed_count": 4,
@@ -1732,8 +1734,8 @@
               "report_count": 1
             },
             "morning_quality": {
-              "status": "completed",
-              "report_count": 1
+              "status": "missing",
+              "report_count": 0
             },
             "evening_duty": {
               "status": "completed",
@@ -1744,10 +1746,12 @@
               "report_count": 1
             }
           },
-          "completed_count": 4,
+          "completed_count": 3,
           "expected_count": 4,
-          "completion_rate": 100,
-          "missing_forms": []
+          "completion_rate": 75,
+          "missing_forms": [
+            "【营运】金牌阿嬷品质自检表（早班）"
+          ]
         },
         {
           "region": "华南四区",
@@ -2131,8 +2135,8 @@
       "report_details": []
     },
     {
-      "business_date": "2026-09-06",
-      "updated_at": "2026-09-07T12:16:00+08:00",
+      "business_date": "2026-09-07",
+      "updated_at": "2026-09-08T09:48:37+08:00",
       "data_status": "ready",
       "region_order": [
         "华南一区",
