@@ -18,7 +18,6 @@
     "深圳天安云谷店",
     "深圳平安金融中心店",
     "深圳梅林卓悦汇店",
-    "深圳欢乐港湾店",
     "深圳仁恒梦中心店",
     "深圳kkone店",
     "深圳布吉万象汇店",
@@ -70,11 +69,11 @@
     }
   ],
   "stats": {
-    "stores": 34,
-    "complete_stores": 34,
+    "stores": 33,
+    "complete_stores": 33,
     "incomplete_stores": 0,
-    "completed_forms": 136,
-    "expected_forms": 136,
+    "completed_forms": 132,
+    "expected_forms": 132,
     "completion_rate": 100
   },
   "region_summary": [
@@ -89,11 +88,11 @@
     },
     {
       "region": "华南二区",
-      "stores": 5,
-      "complete_stores": 5,
+      "stores": 4,
+      "complete_stores": 4,
       "incomplete_stores": 0,
-      "completed_forms": 20,
-      "expected_forms": 20,
+      "completed_forms": 16,
+      "expected_forms": 16,
       "completion_rate": 100
     },
     {
@@ -282,33 +281,6 @@
       "region": "华南二区",
       "city": "深圳",
       "store": "深圳梅林卓悦汇店",
-      "statuses": {
-        "morning_duty": {
-          "status": "completed",
-          "report_count": 1
-        },
-        "morning_quality": {
-          "status": "completed",
-          "report_count": 1
-        },
-        "evening_duty": {
-          "status": "completed",
-          "report_count": 1
-        },
-        "handover_quality": {
-          "status": "completed",
-          "report_count": 1
-        }
-      },
-      "completed_count": 4,
-      "expected_count": 4,
-      "completion_rate": 100,
-      "missing_forms": []
-    },
-    {
-      "region": "华南二区",
-      "city": "深圳",
-      "store": "深圳欢乐港湾店",
       "statuses": {
         "morning_duty": {
           "status": "completed",
@@ -1084,7 +1056,6 @@
         "深圳天安云谷店",
         "深圳平安金融中心店",
         "深圳梅林卓悦汇店",
-        "深圳欢乐港湾店",
         "深圳仁恒梦中心店",
         "深圳kkone店",
         "深圳布吉万象汇店",
@@ -1136,11 +1107,11 @@
         }
       ],
       "stats": {
-        "stores": 34,
-        "complete_stores": 34,
+        "stores": 33,
+        "complete_stores": 33,
         "incomplete_stores": 0,
-        "completed_forms": 136,
-        "expected_forms": 136,
+        "completed_forms": 132,
+        "expected_forms": 132,
         "completion_rate": 100
       },
       "region_summary": [
@@ -1155,11 +1126,11 @@
         },
         {
           "region": "华南二区",
-          "stores": 5,
-          "complete_stores": 5,
+          "stores": 4,
+          "complete_stores": 4,
           "incomplete_stores": 0,
-          "completed_forms": 20,
-          "expected_forms": 20,
+          "completed_forms": 16,
+          "expected_forms": 16,
           "completion_rate": 100
         },
         {
@@ -1348,33 +1319,6 @@
           "region": "华南二区",
           "city": "深圳",
           "store": "深圳梅林卓悦汇店",
-          "statuses": {
-            "morning_duty": {
-              "status": "completed",
-              "report_count": 1
-            },
-            "morning_quality": {
-              "status": "completed",
-              "report_count": 1
-            },
-            "evening_duty": {
-              "status": "completed",
-              "report_count": 1
-            },
-            "handover_quality": {
-              "status": "completed",
-              "report_count": 1
-            }
-          },
-          "completed_count": 4,
-          "expected_count": 4,
-          "completion_rate": 100,
-          "missing_forms": []
-        },
-        {
-          "region": "华南二区",
-          "city": "深圳",
-          "store": "深圳欢乐港湾店",
           "statuses": {
             "morning_duty": {
               "status": "completed",
@@ -2150,7 +2094,6 @@
         "深圳天安云谷店",
         "深圳平安金融中心店",
         "深圳梅林卓悦汇店",
-        "深圳欢乐港湾店",
         "深圳仁恒梦中心店",
         "深圳kkone店",
         "深圳布吉万象汇店",
@@ -2202,12 +2145,12 @@
         }
       ],
       "stats": {
-        "stores": 34,
-        "complete_stores": 33,
+        "stores": 33,
+        "complete_stores": 32,
         "incomplete_stores": 1,
-        "completed_forms": 135,
-        "expected_forms": 136,
-        "completion_rate": 99.3
+        "completed_forms": 131,
+        "expected_forms": 132,
+        "completion_rate": 99.2
       },
       "region_summary": [
         {
@@ -2221,11 +2164,11 @@
         },
         {
           "region": "华南二区",
-          "stores": 5,
-          "complete_stores": 5,
+          "stores": 4,
+          "complete_stores": 4,
           "incomplete_stores": 0,
-          "completed_forms": 20,
-          "expected_forms": 20,
+          "completed_forms": 16,
+          "expected_forms": 16,
           "completion_rate": 100
         },
         {
@@ -2416,33 +2359,6 @@
           "region": "华南二区",
           "city": "深圳",
           "store": "深圳梅林卓悦汇店",
-          "statuses": {
-            "morning_duty": {
-              "status": "completed",
-              "report_count": 1
-            },
-            "morning_quality": {
-              "status": "completed",
-              "report_count": 1
-            },
-            "evening_duty": {
-              "status": "completed",
-              "report_count": 1
-            },
-            "handover_quality": {
-              "status": "completed",
-              "report_count": 1
-            }
-          },
-          "completed_count": 4,
-          "expected_count": 4,
-          "completion_rate": 100,
-          "missing_forms": []
-        },
-        {
-          "region": "华南二区",
-          "city": "深圳",
-          "store": "深圳欢乐港湾店",
           "statuses": {
             "morning_duty": {
               "status": "completed",
