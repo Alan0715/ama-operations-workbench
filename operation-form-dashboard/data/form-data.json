@@ -1,6 +1,6 @@
 {
-  "business_date": "2026-09-11",
-  "updated_at": "2026-09-12T10:27:20+08:00",
+  "business_date": "2026-09-12",
+  "updated_at": "2026-09-13T12:32:32+08:00",
   "data_status": "ready",
   "region_order": [
     "华南一区",
@@ -70,21 +70,21 @@
   ],
   "stats": {
     "stores": 33,
-    "complete_stores": 33,
-    "incomplete_stores": 0,
-    "completed_forms": 132,
+    "complete_stores": 31,
+    "incomplete_stores": 2,
+    "completed_forms": 130,
     "expected_forms": 132,
-    "completion_rate": 100
+    "completion_rate": 98.5
   },
   "region_summary": [
     {
       "region": "华南一区",
       "stores": 5,
-      "complete_stores": 5,
-      "incomplete_stores": 0,
-      "completed_forms": 20,
+      "complete_stores": 4,
+      "incomplete_stores": 1,
+      "completed_forms": 19,
       "expected_forms": 20,
-      "completion_rate": 100
+      "completion_rate": 95
     },
     {
       "region": "华南二区",
@@ -134,11 +134,11 @@
     {
       "region": "华南七区",
       "stores": 3,
-      "complete_stores": 3,
-      "incomplete_stores": 0,
-      "completed_forms": 12,
+      "complete_stores": 2,
+      "incomplete_stores": 1,
+      "completed_forms": 11,
       "expected_forms": 12,
-      "completion_rate": 100
+      "completion_rate": 91.7
     }
   ],
   "stores": [
@@ -214,14 +214,16 @@
           "report_count": 1
         },
         "handover_quality": {
-          "status": "completed",
-          "report_count": 1
+          "status": "missing",
+          "report_count": 0
         }
       },
-      "completed_count": 4,
+      "completed_count": 3,
       "expected_count": 4,
-      "completion_rate": 100,
-      "missing_forms": []
+      "completion_rate": 75,
+      "missing_forms": [
+        "【营运】金牌阿嬷品质自检表（交接班）"
+      ]
     },
     {
       "region": "华南一区",
@@ -1012,8 +1014,8 @@
       "store": "珠海万象汇店",
       "statuses": {
         "morning_duty": {
-          "status": "completed",
-          "report_count": 1
+          "status": "missing",
+          "report_count": 0
         },
         "morning_quality": {
           "status": "completed",
@@ -1028,17 +1030,19 @@
           "report_count": 1
         }
       },
-      "completed_count": 4,
+      "completed_count": 3,
       "expected_count": 4,
-      "completion_rate": 100,
-      "missing_forms": []
+      "completion_rate": 75,
+      "missing_forms": [
+        "【营运】值班检查表-早班"
+      ]
     }
   ],
   "report_details": [],
   "history": [
     {
-      "business_date": "2026-09-11",
-      "updated_at": "2026-09-12T10:27:20+08:00",
+      "business_date": "2026-09-12",
+      "updated_at": "2026-09-13T12:32:32+08:00",
       "data_status": "ready",
       "region_order": [
         "华南一区",
@@ -1108,21 +1112,21 @@
       ],
       "stats": {
         "stores": 33,
-        "complete_stores": 33,
-        "incomplete_stores": 0,
-        "completed_forms": 132,
+        "complete_stores": 31,
+        "incomplete_stores": 2,
+        "completed_forms": 130,
         "expected_forms": 132,
-        "completion_rate": 100
+        "completion_rate": 98.5
       },
       "region_summary": [
         {
           "region": "华南一区",
           "stores": 5,
-          "complete_stores": 5,
-          "incomplete_stores": 0,
-          "completed_forms": 20,
+          "complete_stores": 4,
+          "incomplete_stores": 1,
+          "completed_forms": 19,
           "expected_forms": 20,
-          "completion_rate": 100
+          "completion_rate": 95
         },
         {
           "region": "华南二区",
@@ -1172,11 +1176,11 @@
         {
           "region": "华南七区",
           "stores": 3,
-          "complete_stores": 3,
-          "incomplete_stores": 0,
-          "completed_forms": 12,
+          "complete_stores": 2,
+          "incomplete_stores": 1,
+          "completed_forms": 11,
           "expected_forms": 12,
-          "completion_rate": 100
+          "completion_rate": 91.7
         }
       ],
       "stores": [
@@ -1252,14 +1256,16 @@
               "report_count": 1
             },
             "handover_quality": {
-              "status": "completed",
-              "report_count": 1
+              "status": "missing",
+              "report_count": 0
             }
           },
-          "completed_count": 4,
+          "completed_count": 3,
           "expected_count": 4,
-          "completion_rate": 100,
-          "missing_forms": []
+          "completion_rate": 75,
+          "missing_forms": [
+            "【营运】金牌阿嬷品质自检表（交接班）"
+          ]
         },
         {
           "region": "华南一区",
@@ -2050,8 +2056,8 @@
           "store": "珠海万象汇店",
           "statuses": {
             "morning_duty": {
-              "status": "completed",
-              "report_count": 1
+              "status": "missing",
+              "report_count": 0
             },
             "morning_quality": {
               "status": "completed",
@@ -2066,17 +2072,19 @@
               "report_count": 1
             }
           },
-          "completed_count": 4,
+          "completed_count": 3,
           "expected_count": 4,
-          "completion_rate": 100,
-          "missing_forms": []
+          "completion_rate": 75,
+          "missing_forms": [
+            "【营运】值班检查表-早班"
+          ]
         }
       ],
       "report_details": []
     },
     {
-      "business_date": "2026-09-10",
-      "updated_at": "2026-09-11T11:34:02+08:00",
+      "business_date": "2026-09-11",
+      "updated_at": "2026-09-12T10:27:20+08:00",
       "data_status": "ready",
       "region_order": [
         "华南一区",
