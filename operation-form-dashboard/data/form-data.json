@@ -1,6 +1,6 @@
 {
-  "business_date": "2026-09-18",
-  "updated_at": "2026-09-19T10:20:59+08:00",
+  "business_date": "2026-09-19",
+  "updated_at": "2026-09-20T10:30:20+08:00",
   "data_status": "ready",
   "region_order": [
     "华南一区",
@@ -512,7 +512,7 @@
         },
         "handover_quality": {
           "status": "completed",
-          "report_count": 2
+          "report_count": 1
         }
       },
       "completed_count": 4,
@@ -1037,8 +1037,8 @@
   "report_details": [],
   "history": [
     {
-      "business_date": "2026-09-18",
-      "updated_at": "2026-09-19T10:20:59+08:00",
+      "business_date": "2026-09-19",
+      "updated_at": "2026-09-20T10:30:20+08:00",
       "data_status": "ready",
       "region_order": [
         "华南一区",
@@ -1550,7 +1550,7 @@
             },
             "handover_quality": {
               "status": "completed",
-              "report_count": 2
+              "report_count": 1
             }
           },
           "completed_count": 4,
@@ -2075,8 +2075,8 @@
       "report_details": []
     },
     {
-      "business_date": "2026-09-17",
-      "updated_at": "2026-09-18T18:48:52+08:00",
+      "business_date": "2026-09-18",
+      "updated_at": "2026-09-19T10:20:59+08:00",
       "data_status": "ready",
       "region_order": [
         "华南一区",
@@ -2588,7 +2588,7 @@
             },
             "handover_quality": {
               "status": "completed",
-              "report_count": 1
+              "report_count": 2
             }
           },
           "completed_count": 4,
