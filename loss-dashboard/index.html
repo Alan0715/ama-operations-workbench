@@ -128,7 +128,7 @@ header.top{padding:16px 4vw 0;margin-bottom:16px}.top .wrap{display:flex;align-i
   </div>
   </section>
   <section class="module-shell amber-shell scroll-shell">
-  <div class="section-h">门店 × 报损原因金额矩阵</div>
+  <div class="section-h">门店报损原因与金额</div>
   <div class="filter-box"><div class="filters">
     <div><label>开始日期</label><select id="mStart"></select></div>
     <div><label>结束日期</label><select id="mEnd"></select></div>
@@ -140,7 +140,7 @@ header.top{padding:16px 4vw 0;margin-bottom:16px}.top .wrap{display:flex;align-i
   <div class="module-scroll" id="matrixBlocks"></div>
   </section>
   <details class="module-shell blue-shell pk-collapsible">
-  <summary class="section-h"><span>区域—门店报损原因汇总明细</span><small>点击展开查看</small></summary>
+  <summary class="section-h"><span>门店报损原因金额占比</span><small>点击展开查看</small></summary>
   <div class="pk-collapse-body scroll-shell">
   <div class="filter-box"><div class="filters">
     <div><label>开始日期</label><select id="dStart"></select></div>
@@ -154,7 +154,7 @@ header.top{padding:16px 4vw 0;margin-bottom:16px}.top .wrap{display:flex;align-i
   </div>
   </details>
   <section class="module-shell amber-shell scroll-shell">
-  <div class="section-h">报损明细</div>
+  <div class="section-h">门店报损总明细</div>
   <div class="filter-box"><div class="filters">
     <div><label>开始日期</label><select id="xStart"></select></div>
     <div><label>结束日期</label><select id="xEnd"></select></div>
@@ -270,5 +270,9 @@ tRegion.addEventListener('change',()=>{tStore.value='';renderTopMaterials()});tS
 const cStart=document.getElementById('cStart'),cEnd=document.getElementById('cEnd'),cRegion=document.getElementById('cRegion'),cStore=document.getElementById('cStore'),cReset=document.getElementById('cReset'),cCount=document.getElementById('cCount'),mealBlocks=document.getElementById('mealBlocks'),uStart=document.getElementById('uStart'),uEnd=document.getElementById('uEnd'),uRegion=document.getElementById('uRegion'),uStore=document.getElementById('uStore'),uReset=document.getElementById('uReset'),uCount=document.getElementById('uCount'),cupRateBlocks=document.getElementById('cupRateBlocks');
 const operationsDates=OPERATIONS_HISTORY.map(entry=>entry.date),latestOperationsDate=operationsDates[operationsDates.length-1]||DATA.meta.date;[cStart,cEnd,uStart,uEnd].forEach((el,index)=>{syncSelect(el,operationsDates,index%2?'结束日期':'开始日期');el.value=latestOperationsDate});syncSelect(cRegion,mealDataRows.map(r=>r.region),'全部区域',regionSort);syncSelect(uRegion,cupDataRows.map(r=>r.region),'全部区域',regionSort);renderMealSummary();renderCupRates();
 [cStart,cEnd].forEach(el=>el.addEventListener('change',()=>{cStore.value='';renderMealSummary()}));cRegion.addEventListener('change',()=>{cStore.value='';renderMealSummary()});cStore.addEventListener('change',renderMealSummary);cReset.addEventListener('click',()=>{cStart.value=latestOperationsDate;cEnd.value=latestOperationsDate;cRegion.value='';cStore.value='';renderMealSummary()});[uStart,uEnd].forEach(el=>el.addEventListener('change',()=>{uStore.value='';renderCupRates()}));uRegion.addEventListener('change',()=>{uStore.value='';renderCupRates()});uStore.addEventListener('change',renderCupRates);uReset.addEventListener('click',()=>{uStart.value=latestOperationsDate;uEnd.value=latestOperationsDate;uRegion.value='';uStore.value='';renderCupRates()});
+function moduleTitle(module){const title=module.matches('details')?module.querySelector(':scope > summary.section-h span'):module.querySelector(':scope > .section-h');return title?.textContent.trim()||''}
+function foldModule(title){const main=document.querySelector('main.wrap'),module=[...main.querySelectorAll(':scope > .module-shell')].find(item=>moduleTitle(item)===title);if(!module)return null;if(module.matches('details')){module.removeAttribute('open');return module}const details=document.createElement('details');details.className=[...module.classList].filter(name=>name!=='scroll-shell').concat('pk-collapsible').join(' ');const summary=document.createElement('summary');summary.className='section-h';summary.innerHTML=`<span>${title}</span><small>点击展开查看</small>`;const body=document.createElement('div');body.className='pk-collapse-body'+(module.classList.contains('scroll-shell')?' scroll-shell':'');[...module.children].forEach(child=>{if(!child.classList.contains('section-h'))body.appendChild(child)});details.append(summary,body);module.replaceWith(details);return details}
+function arrangeDashboardModules(){const main=document.querySelector('main.wrap');['门店报损原因与金额','门店报损总明细'].forEach(foldModule);const order=['报损原因金额结构','报损金额 TOP10 物料与未报损门店','门店出餐汇总统计','门店 10:00–11:00 出杯率','门店报损占比与营收','门店报损原因与金额','门店报损原因金额占比','门店报损总明细','区域 / 门店 PK 对比','单店日期 PK 对比','门店前一日退货明细','物料退货门店汇总明细'];const modules=[...main.querySelectorAll(':scope > .module-shell')];const byTitle=new Map(modules.map(module=>[moduleTitle(module),module]));order.forEach(title=>{const module=byTitle.get(title);if(module){module.removeAttribute('open');main.appendChild(module)}})}
+arrangeDashboardModules();
 </script>
 </body></html>
