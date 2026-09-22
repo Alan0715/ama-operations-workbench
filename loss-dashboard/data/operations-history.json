@@ -5189,6 +5189,375 @@
           "region": "华南七区"
         }
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "mealRows": [
+        {
+          "storeId": "236657",
+          "store": "广州天环广场店",
+          "manualCups": 61,
+          "scanCups": 1449,
+          "totalCups": 1510,
+          "scanProductionCups": 1449,
+          "scanProductionDuration": 17932.65,
+          "avgProductionDuration": 12.38,
+          "region": "华南五区"
+        },
+        {
+          "storeId": "538836",
+          "store": "珠海万象汇店",
+          "manualCups": 26,
+          "scanCups": 436,
+          "totalCups": 462,
+          "scanProductionCups": 436,
+          "scanProductionDuration": 3984.43,
+          "avgProductionDuration": 9.14,
+          "region": "华南七区"
+        },
+        {
+          "storeId": "209478",
+          "store": "深圳仁恒梦中心店",
+          "manualCups": 25,
+          "scanCups": 549,
+          "totalCups": 574,
+          "scanProductionCups": 549,
+          "scanProductionDuration": 7887.57,
+          "avgProductionDuration": 14.37,
+          "region": "华南二区"
+        },
+        {
+          "storeId": "247524",
+          "store": "东莞汇一城店",
+          "manualCups": 81,
+          "scanCups": 710,
+          "totalCups": 791,
+          "scanProductionCups": 710,
+          "scanProductionDuration": 6082.83,
+          "avgProductionDuration": 8.57,
+          "region": "华南六区"
+        },
+        {
+          "storeId": "325495",
+          "store": "广州乐峰广场店",
+          "manualCups": 77,
+          "scanCups": 685,
+          "totalCups": 762,
+          "scanProductionCups": 685,
+          "scanProductionDuration": 9315.54,
+          "avgProductionDuration": 13.6,
+          "region": "华南六区"
+        },
+        {
+          "storeId": "178062",
+          "store": "深圳海上世界店",
+          "manualCups": 28,
+          "scanCups": 411,
+          "totalCups": 439,
+          "scanProductionCups": 411,
+          "scanProductionDuration": 3933.93,
+          "avgProductionDuration": 9.57,
+          "region": "华南四区"
+        },
+        {
+          "storeId": "167438",
+          "store": "深圳万象食家店",
+          "manualCups": 105,
+          "scanCups": 548,
+          "totalCups": 653,
+          "scanProductionCups": 548,
+          "scanProductionDuration": 8887.17,
+          "avgProductionDuration": 16.22,
+          "region": "华南一区"
+        },
+        {
+          "storeId": "295039",
+          "store": "顺德万象汇店",
+          "manualCups": 63,
+          "scanCups": 394,
+          "totalCups": 507,
+          "scanProductionCups": 394,
+          "scanProductionDuration": 3324.68,
+          "avgProductionDuration": 8.44,
+          "region": "华南七区"
+        },
+        {
+          "storeId": "311394",
+          "store": "厦门万象城店",
+          "manualCups": 97,
+          "scanCups": 662,
+          "totalCups": 759,
+          "scanProductionCups": 662,
+          "scanProductionDuration": 8189.24,
+          "avgProductionDuration": 12.37,
+          "region": "华南三区"
+        },
+        {
+          "storeId": "194839",
+          "store": "深圳天安云谷店",
+          "manualCups": 19,
+          "scanCups": 858,
+          "totalCups": 877,
+          "scanProductionCups": 858,
+          "scanProductionDuration": 14260.39,
+          "avgProductionDuration": 16.62,
+          "region": "华南一区"
+        },
+        {
+          "storeId": "167433",
+          "store": "深圳梅林卓悦汇店",
+          "manualCups": 41,
+          "scanCups": 576,
+          "totalCups": 617,
+          "scanProductionCups": 576,
+          "scanProductionDuration": 6011.66,
+          "avgProductionDuration": 10.44,
+          "region": "华南二区"
+        },
+        {
+          "storeId": "247525",
+          "store": "广州永庆坊店·茶肆",
+          "manualCups": 86,
+          "scanCups": 482,
+          "totalCups": 568,
+          "scanProductionCups": 482,
+          "scanProductionDuration": 7003.53,
+          "avgProductionDuration": 14.53,
+          "region": "华南六区"
+        },
+        {
+          "storeId": "268240",
+          "store": "珠海富华里店",
+          "manualCups": 17,
+          "scanCups": 649,
+          "totalCups": 666,
+          "scanProductionCups": 649,
+          "scanProductionDuration": 8347.43,
+          "avgProductionDuration": 12.86,
+          "region": "华南七区"
+        },
+        {
+          "storeId": "198264",
+          "store": "佛山岭南天地店",
+          "manualCups": 45,
+          "scanCups": 994,
+          "totalCups": 1047,
+          "scanProductionCups": 994,
+          "scanProductionDuration": 17610.45,
+          "avgProductionDuration": 17.72,
+          "region": "华南六区"
+        },
+        {
+          "storeId": "325499",
+          "store": "深圳宝安大仟里店",
+          "manualCups": 197,
+          "scanCups": 279,
+          "totalCups": 476,
+          "scanProductionCups": 279,
+          "scanProductionDuration": 2631.92,
+          "avgProductionDuration": 9.43,
+          "region": "华南四区"
+        },
+        {
+          "storeId": "513486",
+          "store": "深圳怀德万象汇店",
+          "manualCups": 45,
+          "scanCups": 405,
+          "totalCups": 450,
+          "scanProductionCups": 405,
+          "scanProductionDuration": 4070.17,
+          "avgProductionDuration": 10.05,
+          "region": "华南三区"
+        },
+        {
+          "storeId": "167424",
+          "store": "深圳万象天地店·茶歇",
+          "manualCups": 130,
+          "scanCups": 789,
+          "totalCups": 919,
+          "scanProductionCups": 789,
+          "scanProductionDuration": 13143.83,
+          "avgProductionDuration": 16.66,
+          "region": "华南四区"
+        },
+        {
+          "storeId": "167441",
+          "store": "广州太古汇店",
+          "manualCups": 356,
+          "scanCups": 933,
+          "totalCups": 1289,
+          "scanProductionCups": 933,
+          "scanProductionDuration": 14427.02,
+          "avgProductionDuration": 15.46,
+          "region": "华南五区"
+        },
+        {
+          "storeId": "167436",
+          "store": "深圳科兴科学园店",
+          "manualCups": 58,
+          "scanCups": 859,
+          "totalCups": 917,
+          "scanProductionCups": 859,
+          "scanProductionDuration": 28439.05,
+          "avgProductionDuration": 33.11,
+          "region": "华南四区"
+        },
+        {
+          "storeId": "167432",
+          "store": "深圳万象前海店",
+          "manualCups": 73,
+          "scanCups": 521,
+          "totalCups": 606,
+          "scanProductionCups": 521,
+          "scanProductionDuration": 14820.99,
+          "avgProductionDuration": 28.45,
+          "region": "华南三区"
+        },
+        {
+          "storeId": "167428",
+          "store": "深圳平安金融中心店",
+          "manualCups": 87,
+          "scanCups": 1201,
+          "totalCups": 1288,
+          "scanProductionCups": 1201,
+          "scanProductionDuration": 12185.31,
+          "avgProductionDuration": 10.15,
+          "region": "华南一区"
+        },
+        {
+          "storeId": "585129",
+          "store": "厦门SM新生活广场店·集",
+          "manualCups": 156,
+          "scanCups": 1010,
+          "totalCups": 1166,
+          "scanProductionCups": 1010,
+          "scanProductionDuration": 9038.8,
+          "avgProductionDuration": 8.95,
+          "region": "华南三区"
+        },
+        {
+          "storeId": "325498",
+          "store": "深圳湾万象城店",
+          "manualCups": 144,
+          "scanCups": 454,
+          "totalCups": 598,
+          "scanProductionCups": 454,
+          "scanProductionDuration": 4034.95,
+          "avgProductionDuration": 8.89,
+          "region": "华南四区"
+        },
+        {
+          "storeId": "167427",
+          "store": "深圳金光华店",
+          "manualCups": 252,
+          "scanCups": 877,
+          "totalCups": 1129,
+          "scanProductionCups": 877,
+          "scanProductionDuration": 11583.2,
+          "avgProductionDuration": 13.21,
+          "region": "华南一区"
+        },
+        {
+          "storeId": "167425",
+          "store": "深圳ONE AVENUE卓悦中心店",
+          "manualCups": 115,
+          "scanCups": 811,
+          "totalCups": 930,
+          "scanProductionCups": 811,
+          "scanProductionDuration": 15454.16,
+          "avgProductionDuration": 19.06,
+          "region": "华南一区"
+        },
+        {
+          "storeId": "531042",
+          "store": "广州天汇广场店",
+          "manualCups": 43,
+          "scanCups": 930,
+          "totalCups": 973,
+          "scanProductionCups": 930,
+          "scanProductionDuration": 10181.59,
+          "avgProductionDuration": 10.95,
+          "region": "华南五区"
+        },
+        {
+          "storeId": "268241",
+          "store": "广州塔广场店",
+          "manualCups": 43,
+          "scanCups": 704,
+          "totalCups": 747,
+          "scanProductionCups": 704,
+          "scanProductionDuration": 33246.61,
+          "avgProductionDuration": 47.23,
+          "region": "华南五区"
+        },
+        {
+          "storeId": "325496",
+          "store": "东莞记忆店·茶肆",
+          "manualCups": 18,
+          "scanCups": 215,
+          "totalCups": 233,
+          "scanProductionCups": 215,
+          "scanProductionDuration": 1567.61,
+          "avgProductionDuration": 7.29,
+          "region": "华南六区"
+        },
+        {
+          "storeId": "167426",
+          "store": "深圳布吉万象汇店",
+          "manualCups": 50,
+          "scanCups": 434,
+          "totalCups": 484,
+          "scanProductionCups": 434,
+          "scanProductionDuration": 2907.46,
+          "avgProductionDuration": 6.7,
+          "region": "华南二区"
+        },
+        {
+          "storeId": "547605",
+          "store": "深圳腾讯总部园区店",
+          "manualCups": 54,
+          "scanCups": 320,
+          "totalCups": 604,
+          "scanProductionCups": 320,
+          "scanProductionDuration": 3199.69,
+          "avgProductionDuration": 10,
+          "region": "华南三区"
+        },
+        {
+          "storeId": "167430",
+          "store": "深圳KKone店",
+          "manualCups": 105,
+          "scanCups": 711,
+          "totalCups": 816,
+          "scanProductionCups": 711,
+          "scanProductionDuration": 9264.19,
+          "avgProductionDuration": 13.03,
+          "region": "华南二区"
+        },
+        {
+          "storeId": "167431",
+          "store": "深圳宝安壹方城店",
+          "manualCups": 77,
+          "scanCups": 655,
+          "totalCups": 736,
+          "scanProductionCups": 655,
+          "scanProductionDuration": 8534.49,
+          "avgProductionDuration": 13.03,
+          "region": "华南三区"
+        },
+        {
+          "storeId": "167440",
+          "store": "深圳来福士广场店",
+          "manualCups": 65,
+          "scanCups": 590,
+          "totalCups": 655,
+          "scanProductionCups": 590,
+          "scanProductionDuration": 8833.77,
+          "avgProductionDuration": 14.97,
+          "region": "华南四区"
+        }
+      ],
+      "cupRows": []
     }
   ]
 }
