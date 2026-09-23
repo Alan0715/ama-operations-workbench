@@ -2,7 +2,7 @@
   "meta": {
     "title": "华南大区｜报损原因数据看板",
     "date": "2026-09-22",
-    "generatedAt": "2026-09-23 09:38",
+    "generatedAt": "2026-09-23 11:13",
     "sourceFile": "报损出库单_2026092309313784_183580.xlsx",
     "orgFile": "组织架构.xlsx",
     "revenueFile": "收银汇总表-2026-09-222026-09-22-68f2f84094054884966c1d23577ba8b1.xlsx",
@@ -11,7 +11,12 @@
       "佛山万象天地店",
       "深圳欢乐港湾店"
     ],
-    "amountDefinition": "参考金额；空值按0元计入金额汇总与占比"
+    "assessmentExcludedDocTypes": [
+      "品鉴原料报损出库单",
+      "品鉴成品报损出库单"
+    ],
+    "amountDefinition": "参考金额；空值按0元计入金额汇总与占比",
+    "assessmentAmountDefinition": "门店报损占比与营收考核不含品鉴原料报损出库单、品鉴成品报损出库单；相关金额仅作记录"
   },
   "organizationStores": [
     {
