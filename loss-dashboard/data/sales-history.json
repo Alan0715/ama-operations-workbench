@@ -311,6 +311,15 @@
         },
         {
           "date": "2026-09-27",
+          "store": "佛山万象天地店·集",
+          "category": "雪糕",
+          "itemName": "春观音雪糕",
+          "quantity": 0,
+          "netRevenue": 0,
+          "region": "华南七区"
+        },
+        {
+          "date": "2026-09-27",
           "store": "厦门SM新生活广场店·集",
           "category": "雪糕",
           "itemName": "春观音雪糕",
@@ -1949,6 +1958,15 @@
         },
         {
           "date": "2026-09-27",
+          "store": "佛山万象天地店·集",
+          "category": "零售",
+          "itemName": "安格斯·牛脆脆（孜然味）",
+          "quantity": 0,
+          "netRevenue": 0,
+          "region": "华南七区"
+        },
+        {
+          "date": "2026-09-27",
           "store": "佛山岭南天地店",
           "category": "零售",
           "itemName": "安格斯·牛脆脆（孜然味）",
@@ -1981,6 +1999,24 @@
           "itemName": "安格斯·牛脆脆（孜然味）",
           "quantity": 1,
           "netRevenue": 59,
+          "region": "华南七区"
+        },
+        {
+          "date": "2026-09-27",
+          "store": "佛山万象天地店·集",
+          "category": "零售",
+          "itemName": "春观音（乌龙茶）",
+          "quantity": 0,
+          "netRevenue": 0,
+          "region": "华南七区"
+        },
+        {
+          "date": "2026-09-27",
+          "store": "佛山万象天地店·集",
+          "category": "零售",
+          "itemName": "有机抹茶",
+          "quantity": 0,
+          "netRevenue": 0,
           "region": "华南七区"
         },
         {
