@@ -8,17 +8,6 @@
   },
   "mealRows": [
     {
-      "storeId": "592385",
-      "store": "广州万象城店",
-      "manualCups": 3,
-      "scanCups": 1,
-      "totalCups": 4,
-      "scanProductionCups": 1,
-      "scanProductionDuration": 1.65,
-      "avgProductionDuration": 1.65,
-      "region": "未匹配区域"
-    },
-    {
       "storeId": "167440",
       "store": "深圳来福士广场店",
       "manualCups": 337,
