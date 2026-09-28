@@ -2,13 +2,15 @@
   "meta": {
     "title": "华南大区｜报损原因数据看板",
     "date": "2026-09-27",
-    "generatedAt": "2026-09-28 10:25",
+    "generatedAt": "2026-09-28 16:35",
     "sourceFile": "报损出库单_2026092810123572_183580.xlsx",
     "orgFile": "组织架构.xlsx",
     "revenueFile": "收银汇总表-2026-09-272026-09-27-d8b0512b0d7a4d46be7910aaea446569.xlsx",
     "excludedStores": [
       "广州万象城店·集",
+      "广州万象城店",
       "佛山万象天地店",
+      "佛山万象天地店·集",
       "深圳欢乐港湾店"
     ],
     "assessmentExcludedDocTypes": [
