@@ -10486,6 +10486,17 @@
           "region": "华南四区"
         },
         {
+          "storeId": "590449",
+          "store": "佛山万象天地店·集",
+          "manualCups": 11,
+          "scanCups": 196,
+          "totalCups": 207,
+          "scanProductionCups": 196,
+          "scanProductionDuration": 8612.21,
+          "avgProductionDuration": 43.9398469387755,
+          "region": "华南七区"
+        },
+        {
           "storeId": "167432",
           "store": "深圳万象前海店",
           "manualCups": 71,
