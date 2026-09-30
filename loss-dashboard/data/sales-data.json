@@ -1,7 +1,7 @@
 {
   "meta": {
-    "date": "2026-09-28",
-    "sourceFile": "商品销售汇总表-2026-09-282026-09-28-81b4af26e61c4e1dbc26ea687297606b.csv",
+    "date": "2026-09-29",
+    "sourceFile": "商品销售汇总表-2026-09-292026-09-29-4df8619b409b44f3813f678fb6628179.csv",
     "includedCategories": [
       "雪糕",
       "零售"
@@ -9,1123 +9,1105 @@
   },
   "rows": [
     {
-      "date": "2026-09-28",
-      "store": "佛山万象天地店·集",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 17,
-      "netRevenue": 316.93,
-      "region": "华南七区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "佛山岭南天地店",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 3,
-      "netRevenue": 63,
-      "region": "华南六区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "厦门SM新生活广场店·集",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 1,
-      "netRevenue": 21,
-      "region": "华南三区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "厦门万象城店",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 1,
-      "netRevenue": 0,
-      "region": "华南三区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州乐峰广场店",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 1,
-      "netRevenue": 20,
-      "region": "华南六区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州塔广场店",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 7,
-      "netRevenue": 142,
-      "region": "华南五区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州天汇广场店",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 3,
-      "netRevenue": 57.96,
-      "region": "华南五区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州天环广场店",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 6,
-      "netRevenue": 115,
-      "region": "华南五区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州太古汇店",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 2,
-      "netRevenue": 37,
-      "region": "华南五区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳ONE AVENUE卓悦中心店",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 3,
-      "netRevenue": 44,
-      "region": "华南一区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳万象前海店",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 1,
-      "netRevenue": 20,
-      "region": "华南三区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳万象天地店·茶歇",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 5,
-      "netRevenue": 105,
-      "region": "华南四区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳仁恒梦中心店",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 2,
-      "netRevenue": 42,
-      "region": "华南二区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳天安云谷店",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 4,
-      "netRevenue": 81,
-      "region": "华南一区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳宝安大仟里店",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 1,
-      "netRevenue": 21,
-      "region": "华南四区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳布吉万象汇店",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 4,
-      "netRevenue": 84,
-      "region": "华南二区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳平安金融中心店",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 1,
-      "netRevenue": 18.48,
-      "region": "华南一区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳怀德万象汇店",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 1,
-      "netRevenue": 21,
-      "region": "华南三区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳来福士广场店",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 1,
-      "netRevenue": 21,
-      "region": "华南四区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳梅林卓悦汇店",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 1,
-      "netRevenue": 14.7,
-      "region": "华南二区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳海上世界店",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 1,
-      "netRevenue": 21,
-      "region": "华南四区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳湾万象城店",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 3,
-      "netRevenue": 63,
-      "region": "华南四区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳科兴科学园店",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 1,
-      "netRevenue": 21,
-      "region": "华南四区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳腾讯总部园区店",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 2,
-      "netRevenue": 42,
-      "region": "华南三区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳金光华店",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 2,
-      "netRevenue": 37,
-      "region": "华南一区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "珠海万象汇店",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 3,
-      "netRevenue": 57.85000000000001,
-      "region": "华南七区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "珠海富华里店",
-      "category": "雪糕",
-      "itemName": "双拼雪糕",
-      "quantity": 5,
-      "netRevenue": 100,
-      "region": "华南七区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳布吉万象汇店",
-      "category": "雪糕",
-      "itemName": "嫩仙草雪糕",
-      "quantity": 1,
-      "netRevenue": 9,
-      "region": "华南二区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳平安金融中心店",
-      "category": "雪糕",
-      "itemName": "嫩仙草雪糕",
-      "quantity": 2,
-      "netRevenue": 38,
-      "region": "华南一区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳万象天地店·茶歇",
-      "category": "雪糕",
-      "itemName": "抹茶茉莉雪糕",
-      "quantity": 3,
-      "netRevenue": 60.480000000000004,
-      "region": "华南四区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳万象天地店·茶歇",
-      "category": "雪糕",
-      "itemName": "斯里兰卡雪糕",
-      "quantity": 5,
-      "netRevenue": 105,
-      "region": "华南四区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "东莞记忆店·茶肆",
-      "category": "雪糕",
-      "itemName": "春观音雪糕",
-      "quantity": 2,
-      "netRevenue": 40.1,
-      "region": "华南六区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "佛山万象天地店·集",
-      "category": "雪糕",
-      "itemName": "春观音雪糕",
-      "quantity": 12,
-      "netRevenue": 250,
-      "region": "华南七区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "厦门SM新生活广场店·集",
-      "category": "雪糕",
-      "itemName": "春观音雪糕",
-      "quantity": 6,
-      "netRevenue": 123.27,
-      "region": "华南三区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州永庆坊店·茶肆",
-      "category": "雪糕",
-      "itemName": "春观音雪糕",
-      "quantity": 2,
-      "netRevenue": 42,
-      "region": "华南六区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "佛山万象天地店·集",
-      "category": "雪糕",
-      "itemName": "枣奶雪糕",
-      "quantity": 10,
-      "netRevenue": 208.41,
-      "region": "华南七区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "厦门SM新生活广场店·集",
-      "category": "雪糕",
-      "itemName": "枣奶雪糕",
-      "quantity": 3,
-      "netRevenue": 63,
-      "region": "华南三区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳万象天地店·茶歇",
-      "category": "雪糕",
-      "itemName": "焙茶荞麦雪糕",
-      "quantity": 7,
-      "netRevenue": 147,
-      "region": "华南四区"
-    },
-    {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "东莞汇一城店",
       "category": "雪糕",
-      "itemName": "老椰清补凉雪糕",
-      "quantity": 2,
-      "netRevenue": 46,
-      "region": "华南六区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "佛山岭南天地店",
-      "category": "雪糕",
-      "itemName": "老椰清补凉雪糕",
-      "quantity": 2,
-      "netRevenue": 46,
-      "region": "华南六区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州乐峰广场店",
-      "category": "雪糕",
-      "itemName": "老椰清补凉雪糕",
-      "quantity": 1,
-      "netRevenue": 13,
-      "region": "华南六区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州塔广场店",
-      "category": "雪糕",
-      "itemName": "老椰清补凉雪糕",
-      "quantity": 4,
-      "netRevenue": 87,
-      "region": "华南五区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州天汇广场店",
-      "category": "雪糕",
-      "itemName": "老椰清补凉雪糕",
-      "quantity": 3,
-      "netRevenue": 69,
-      "region": "华南五区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州天环广场店",
-      "category": "雪糕",
-      "itemName": "老椰清补凉雪糕",
-      "quantity": 5,
-      "netRevenue": 109.55,
-      "region": "华南五区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳ONE AVENUE卓悦中心店",
-      "category": "雪糕",
-      "itemName": "老椰清补凉雪糕",
-      "quantity": 2,
-      "netRevenue": 46,
-      "region": "华南一区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳万象天地店·茶歇",
-      "category": "雪糕",
-      "itemName": "老椰清补凉雪糕",
-      "quantity": 5,
-      "netRevenue": 114,
-      "region": "华南四区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳万象食家店",
-      "category": "雪糕",
-      "itemName": "老椰清补凉雪糕",
-      "quantity": 2,
-      "netRevenue": 46,
-      "region": "华南一区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳天安云谷店",
-      "category": "雪糕",
-      "itemName": "老椰清补凉雪糕",
-      "quantity": 1,
-      "netRevenue": 23,
-      "region": "华南一区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳宝安壹方城店",
-      "category": "雪糕",
-      "itemName": "老椰清补凉雪糕",
-      "quantity": 2,
-      "netRevenue": 45.45,
-      "region": "华南三区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳宝安大仟里店",
-      "category": "雪糕",
-      "itemName": "老椰清补凉雪糕",
-      "quantity": 2,
-      "netRevenue": 45,
-      "region": "华南四区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳来福士广场店",
-      "category": "雪糕",
-      "itemName": "老椰清补凉雪糕",
-      "quantity": 2,
-      "netRevenue": 46,
-      "region": "华南四区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳海上世界店",
-      "category": "雪糕",
-      "itemName": "老椰清补凉雪糕",
-      "quantity": 1,
-      "netRevenue": 23,
-      "region": "华南四区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳湾万象城店",
-      "category": "雪糕",
-      "itemName": "老椰清补凉雪糕",
-      "quantity": 3,
-      "netRevenue": 68.53999999999999,
-      "region": "华南四区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳科兴科学园店",
-      "category": "雪糕",
-      "itemName": "老椰清补凉雪糕",
-      "quantity": 2,
-      "netRevenue": 36,
-      "region": "华南四区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳腾讯总部园区店",
-      "category": "雪糕",
-      "itemName": "老椰清补凉雪糕",
-      "quantity": 1,
-      "netRevenue": 18,
-      "region": "华南三区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳金光华店",
-      "category": "雪糕",
-      "itemName": "老椰清补凉雪糕",
-      "quantity": 1,
-      "netRevenue": 23,
-      "region": "华南一区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "珠海万象汇店",
-      "category": "雪糕",
-      "itemName": "老椰清补凉雪糕",
-      "quantity": 5,
-      "netRevenue": 115,
-      "region": "华南七区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "珠海富华里店",
-      "category": "雪糕",
-      "itemName": "老椰清补凉雪糕",
-      "quantity": 4,
-      "netRevenue": 92,
-      "region": "华南七区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州天环广场店",
-      "category": "雪糕",
-      "itemName": "芝麻花生鸳鸯",
-      "quantity": 8,
-      "netRevenue": 194,
-      "region": "华南五区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "佛山岭南天地店",
-      "category": "雪糕",
-      "itemName": "超厚芋泥·雪糕",
-      "quantity": 4,
-      "netRevenue": 76,
-      "region": "华南六区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州乐峰广场店",
-      "category": "雪糕",
-      "itemName": "超厚芋泥·雪糕",
-      "quantity": 3,
-      "netRevenue": 52.47,
-      "region": "华南六区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州塔广场店",
-      "category": "雪糕",
-      "itemName": "超厚芋泥·雪糕",
-      "quantity": 2,
-      "netRevenue": 38,
-      "region": "华南五区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州天汇广场店",
-      "category": "雪糕",
-      "itemName": "超厚芋泥·雪糕",
-      "quantity": 1,
-      "netRevenue": 19,
-      "region": "华南五区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州天环广场店",
-      "category": "雪糕",
-      "itemName": "超厚芋泥·雪糕",
-      "quantity": 9,
-      "netRevenue": 156.5,
-      "region": "华南五区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州太古汇店",
-      "category": "雪糕",
-      "itemName": "超厚芋泥·雪糕",
-      "quantity": 3,
-      "netRevenue": 57,
-      "region": "华南五区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州永庆坊店·茶肆",
-      "category": "雪糕",
-      "itemName": "超厚芋泥·雪糕",
-      "quantity": 2,
-      "netRevenue": 38,
-      "region": "华南六区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳ONE AVENUE卓悦中心店",
-      "category": "雪糕",
-      "itemName": "超厚芋泥·雪糕",
-      "quantity": 7,
-      "netRevenue": 114,
-      "region": "华南一区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳kkone店",
-      "category": "雪糕",
-      "itemName": "超厚芋泥·雪糕",
-      "quantity": 1,
-      "netRevenue": 19,
-      "region": "华南二区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳万象前海店",
-      "category": "雪糕",
-      "itemName": "超厚芋泥·雪糕",
-      "quantity": 2,
-      "netRevenue": 29.72,
-      "region": "华南三区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳仁恒梦中心店",
-      "category": "雪糕",
-      "itemName": "超厚芋泥·雪糕",
-      "quantity": 1,
-      "netRevenue": 19,
-      "region": "华南二区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳天安云谷店",
-      "category": "雪糕",
-      "itemName": "超厚芋泥·雪糕",
-      "quantity": 4,
-      "netRevenue": 74.17,
-      "region": "华南一区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳宝安壹方城店",
-      "category": "雪糕",
-      "itemName": "超厚芋泥·雪糕",
-      "quantity": 2,
-      "netRevenue": 37.55,
-      "region": "华南三区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳宝安大仟里店",
-      "category": "雪糕",
-      "itemName": "超厚芋泥·雪糕",
-      "quantity": 1,
-      "netRevenue": 19,
-      "region": "华南四区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳布吉万象汇店",
-      "category": "雪糕",
-      "itemName": "超厚芋泥·雪糕",
-      "quantity": 1,
-      "netRevenue": 19,
-      "region": "华南二区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳平安金融中心店",
-      "category": "雪糕",
-      "itemName": "超厚芋泥·雪糕",
-      "quantity": 3,
-      "netRevenue": 57,
-      "region": "华南一区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳怀德万象汇店",
-      "category": "雪糕",
-      "itemName": "超厚芋泥·雪糕",
-      "quantity": 2,
-      "netRevenue": 33,
-      "region": "华南三区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳来福士广场店",
-      "category": "雪糕",
-      "itemName": "超厚芋泥·雪糕",
-      "quantity": 1,
-      "netRevenue": 14,
-      "region": "华南四区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳湾万象城店",
-      "category": "雪糕",
-      "itemName": "超厚芋泥·雪糕",
-      "quantity": 3,
-      "netRevenue": 52,
-      "region": "华南四区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳金光华店",
-      "category": "雪糕",
-      "itemName": "超厚芋泥·雪糕",
-      "quantity": 4,
-      "netRevenue": 52,
-      "region": "华南一区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "珠海万象汇店",
-      "category": "雪糕",
-      "itemName": "超厚芋泥·雪糕",
-      "quantity": 1,
-      "netRevenue": 19,
-      "region": "华南七区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "珠海富华里店",
-      "category": "雪糕",
-      "itemName": "超厚芋泥·雪糕",
-      "quantity": 6,
-      "netRevenue": 114,
-      "region": "华南七区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "顺德万象汇店",
-      "category": "雪糕",
-      "itemName": "超厚芋泥·雪糕",
-      "quantity": 3,
-      "netRevenue": 57,
-      "region": "华南七区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "东莞汇一城店",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 7,
-      "netRevenue": 124,
-      "region": "华南六区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "东莞记忆店·茶肆",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 2,
-      "netRevenue": 26,
-      "region": "华南六区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "佛山万象天地店·集",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 23,
-      "netRevenue": 401.7,
-      "region": "华南七区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "佛山岭南天地店",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 7,
-      "netRevenue": 116,
-      "region": "华南六区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "厦门SM新生活广场店·集",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 3,
-      "netRevenue": 54,
-      "region": "华南三区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "厦门万象城店",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 1,
-      "netRevenue": 18,
-      "region": "华南三区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州乐峰广场店",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 2,
-      "netRevenue": 36,
-      "region": "华南六区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州塔广场店",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 4,
-      "netRevenue": 72,
-      "region": "华南五区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州天汇广场店",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 2,
-      "netRevenue": 33.62,
-      "region": "华南五区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州天环广场店",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 8,
-      "netRevenue": 144,
-      "region": "华南五区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州永庆坊店·茶肆",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 1,
-      "netRevenue": 18,
-      "region": "华南六区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳ONE AVENUE卓悦中心店",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 1,
-      "netRevenue": 16,
-      "region": "华南一区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳kkone店",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 2,
-      "netRevenue": 31,
-      "region": "华南二区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳万象前海店",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 1,
-      "netRevenue": 18,
-      "region": "华南三区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳仁恒梦中心店",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 3,
-      "netRevenue": 48.46,
-      "region": "华南二区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳天安云谷店",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 1,
-      "netRevenue": 18,
-      "region": "华南一区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳布吉万象汇店",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 2,
-      "netRevenue": 35.53,
-      "region": "华南二区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳平安金融中心店",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 6,
-      "netRevenue": 88,
-      "region": "华南一区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳怀德万象汇店",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 3,
-      "netRevenue": 54,
-      "region": "华南三区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳来福士广场店",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 1,
-      "netRevenue": 18,
-      "region": "华南四区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳湾万象城店",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 4,
-      "netRevenue": 71,
-      "region": "华南四区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳腾讯总部园区店",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 3,
-      "netRevenue": 54,
-      "region": "华南三区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳金光华店",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 3,
-      "netRevenue": 54,
-      "region": "华南一区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "珠海万象汇店",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 2,
-      "netRevenue": 36,
-      "region": "华南七区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "珠海富华里店",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 6,
-      "netRevenue": 104.4,
-      "region": "华南七区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "顺德万象汇店",
-      "category": "雪糕",
-      "itemName": "超浓·牛乳雪糕",
-      "quantity": 3,
-      "netRevenue": 53,
-      "region": "华南七区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州太古汇店",
-      "category": "雪糕",
-      "itemName": "超浓·花生雪糕",
-      "quantity": 6,
-      "netRevenue": 120.46000000000001,
-      "region": "华南五区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "东莞汇一城店",
-      "category": "雪糕",
-      "itemName": "酒酿米麻薯·雪糕",
-      "quantity": 2,
-      "netRevenue": 46,
-      "region": "华南六区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "东莞记忆店·茶肆",
-      "category": "雪糕",
-      "itemName": "酒酿米麻薯·雪糕",
-      "quantity": 1,
-      "netRevenue": 23,
-      "region": "华南六区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "佛山万象天地店·集",
-      "category": "雪糕",
-      "itemName": "酒酿米麻薯·雪糕",
-      "quantity": 8,
-      "netRevenue": 175.35000000000002,
-      "region": "华南七区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "佛山岭南天地店",
-      "category": "雪糕",
-      "itemName": "酒酿米麻薯·雪糕",
-      "quantity": 7,
-      "netRevenue": 156,
-      "region": "华南六区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "厦门SM新生活广场店·集",
-      "category": "雪糕",
-      "itemName": "酒酿米麻薯·雪糕",
-      "quantity": 5,
-      "netRevenue": 89,
-      "region": "华南三区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "厦门万象城店",
-      "category": "雪糕",
-      "itemName": "酒酿米麻薯·雪糕",
-      "quantity": 3,
-      "netRevenue": 64,
-      "region": "华南三区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州乐峰广场店",
-      "category": "雪糕",
-      "itemName": "酒酿米麻薯·雪糕",
-      "quantity": 2,
-      "netRevenue": 40.53,
-      "region": "华南六区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州塔广场店",
-      "category": "雪糕",
-      "itemName": "酒酿米麻薯·雪糕",
-      "quantity": 3,
-      "netRevenue": 69,
-      "region": "华南五区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州天汇广场店",
-      "category": "雪糕",
-      "itemName": "酒酿米麻薯·雪糕",
-      "quantity": 5,
-      "netRevenue": 114.53,
-      "region": "华南五区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州天环广场店",
-      "category": "雪糕",
-      "itemName": "酒酿米麻薯·雪糕",
-      "quantity": 12,
-      "netRevenue": 271,
-      "region": "华南五区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州太古汇店",
-      "category": "雪糕",
-      "itemName": "酒酿米麻薯·雪糕",
-      "quantity": 3,
-      "netRevenue": 64,
-      "region": "华南五区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州永庆坊店·茶肆",
-      "category": "雪糕",
-      "itemName": "酒酿米麻薯·雪糕",
+      "itemName": "双拼雪糕",
       "quantity": 2,
       "netRevenue": 41,
       "region": "华南六区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
+      "store": "佛山万象天地店·集",
+      "category": "雪糕",
+      "itemName": "双拼雪糕",
+      "quantity": 17,
+      "netRevenue": 338.98,
+      "region": "华南七区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "佛山岭南天地店",
+      "category": "雪糕",
+      "itemName": "双拼雪糕",
+      "quantity": 5,
+      "netRevenue": 105,
+      "region": "华南六区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "厦门SM新生活广场店·集",
+      "category": "雪糕",
+      "itemName": "双拼雪糕",
+      "quantity": 2,
+      "netRevenue": 42,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "厦门万象城店",
+      "category": "雪糕",
+      "itemName": "双拼雪糕",
+      "quantity": 1,
+      "netRevenue": 21,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州乐峰广场店",
+      "category": "雪糕",
+      "itemName": "双拼雪糕",
+      "quantity": 4,
+      "netRevenue": 62,
+      "region": "华南六区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州塔广场店",
+      "category": "雪糕",
+      "itemName": "双拼雪糕",
+      "quantity": 2,
+      "netRevenue": 37,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州天汇广场店",
+      "category": "雪糕",
+      "itemName": "双拼雪糕",
+      "quantity": 3,
+      "netRevenue": 63,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州天环广场店",
+      "category": "雪糕",
+      "itemName": "双拼雪糕",
+      "quantity": 6,
+      "netRevenue": 116.8,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州太古汇店",
+      "category": "雪糕",
+      "itemName": "双拼雪糕",
+      "quantity": 1,
+      "netRevenue": 21,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
       "store": "深圳ONE AVENUE卓悦中心店",
       "category": "雪糕",
-      "itemName": "酒酿米麻薯·雪糕",
-      "quantity": 9,
-      "netRevenue": 207,
+      "itemName": "双拼雪糕",
+      "quantity": 3,
+      "netRevenue": 53,
       "region": "华南一区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
+      "store": "深圳kkone店",
+      "category": "雪糕",
+      "itemName": "双拼雪糕",
+      "quantity": 4,
+      "netRevenue": 72.06,
+      "region": "华南二区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳万象前海店",
+      "category": "雪糕",
+      "itemName": "双拼雪糕",
+      "quantity": 1,
+      "netRevenue": 21,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳万象天地店·茶歇",
+      "category": "雪糕",
+      "itemName": "双拼雪糕",
+      "quantity": 7,
+      "netRevenue": 144.48000000000002,
+      "region": "华南四区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳万象食家店",
+      "category": "雪糕",
+      "itemName": "双拼雪糕",
+      "quantity": 3,
+      "netRevenue": 63,
+      "region": "华南一区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳仁恒梦中心店",
+      "category": "雪糕",
+      "itemName": "双拼雪糕",
+      "quantity": 1,
+      "netRevenue": 16,
+      "region": "华南二区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳宝安壹方城店",
+      "category": "雪糕",
+      "itemName": "双拼雪糕",
+      "quantity": 1,
+      "netRevenue": 21,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳宝安大仟里店",
+      "category": "雪糕",
+      "itemName": "双拼雪糕",
+      "quantity": 1,
+      "netRevenue": 21,
+      "region": "华南四区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳平安金融中心店",
+      "category": "雪糕",
+      "itemName": "双拼雪糕",
+      "quantity": 2,
+      "netRevenue": 41,
+      "region": "华南一区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳来福士广场店",
+      "category": "雪糕",
+      "itemName": "双拼雪糕",
+      "quantity": 2,
+      "netRevenue": 42,
+      "region": "华南四区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳梅林卓悦汇店",
+      "category": "雪糕",
+      "itemName": "双拼雪糕",
+      "quantity": 1,
+      "netRevenue": 21,
+      "region": "华南二区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳湾万象城店",
+      "category": "雪糕",
+      "itemName": "双拼雪糕",
+      "quantity": 3,
+      "netRevenue": 58,
+      "region": "华南四区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳腾讯总部园区店",
+      "category": "雪糕",
+      "itemName": "双拼雪糕",
+      "quantity": 1,
+      "netRevenue": 21,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳金光华店",
+      "category": "雪糕",
+      "itemName": "双拼雪糕",
+      "quantity": 3,
+      "netRevenue": 63,
+      "region": "华南一区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "珠海万象汇店",
+      "category": "雪糕",
+      "itemName": "双拼雪糕",
+      "quantity": 2,
+      "netRevenue": 37,
+      "region": "华南七区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "珠海富华里店",
+      "category": "雪糕",
+      "itemName": "双拼雪糕",
+      "quantity": 2,
+      "netRevenue": 37,
+      "region": "华南七区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳万象天地店·茶歇",
+      "category": "雪糕",
+      "itemName": "抹茶茉莉雪糕",
+      "quantity": 2,
+      "netRevenue": 42,
+      "region": "华南四区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳万象天地店·茶歇",
+      "category": "雪糕",
+      "itemName": "斯里兰卡雪糕",
+      "quantity": 4,
+      "netRevenue": 80.58,
+      "region": "华南四区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "东莞记忆店·茶肆",
+      "category": "雪糕",
+      "itemName": "春观音雪糕",
+      "quantity": 2,
+      "netRevenue": 42,
+      "region": "华南六区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "佛山万象天地店·集",
+      "category": "雪糕",
+      "itemName": "春观音雪糕",
+      "quantity": 12,
+      "netRevenue": 224.6,
+      "region": "华南七区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "厦门SM新生活广场店·集",
+      "category": "雪糕",
+      "itemName": "春观音雪糕",
+      "quantity": 4,
+      "netRevenue": 84,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州永庆坊店·茶肆",
+      "category": "雪糕",
+      "itemName": "春观音雪糕",
+      "quantity": 5,
+      "netRevenue": 105,
+      "region": "华南六区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "佛山万象天地店·集",
+      "category": "雪糕",
+      "itemName": "枣奶雪糕",
+      "quantity": 7,
+      "netRevenue": 144.5,
+      "region": "华南七区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "厦门SM新生活广场店·集",
+      "category": "雪糕",
+      "itemName": "枣奶雪糕",
+      "quantity": 1,
+      "netRevenue": 21,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳万象天地店·茶歇",
+      "category": "雪糕",
+      "itemName": "焙茶荞麦雪糕",
+      "quantity": 3,
+      "netRevenue": 63,
+      "region": "华南四区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "东莞汇一城店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 1,
+      "netRevenue": 23,
+      "region": "华南六区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "佛山岭南天地店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 3,
+      "netRevenue": 66.5,
+      "region": "华南六区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州乐峰广场店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 1,
+      "netRevenue": 20.7,
+      "region": "华南六区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州塔广场店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 4,
+      "netRevenue": 92,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州天汇广场店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 5,
+      "netRevenue": 115,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州天环广场店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 5,
+      "netRevenue": 109,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州太古汇店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 4,
+      "netRevenue": 89,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳ONE AVENUE卓悦中心店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 2,
+      "netRevenue": 43,
+      "region": "华南一区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳万象前海店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 2,
+      "netRevenue": 46,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳万象天地店·茶歇",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 6,
+      "netRevenue": 133,
+      "region": "华南四区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳万象食家店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 2,
+      "netRevenue": 41,
+      "region": "华南一区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳天安云谷店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 1,
+      "netRevenue": 23,
+      "region": "华南一区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳宝安壹方城店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 2,
+      "netRevenue": 46,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳宝安大仟里店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 4,
+      "netRevenue": 91,
+      "region": "华南四区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳布吉万象汇店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 5,
+      "netRevenue": 114.5,
+      "region": "华南二区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳平安金融中心店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 3,
+      "netRevenue": 69,
+      "region": "华南一区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳怀德万象汇店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 6,
+      "netRevenue": 138,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳来福士广场店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 1,
+      "netRevenue": 20.89,
+      "region": "华南四区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳梅林卓悦汇店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 1,
+      "netRevenue": 23,
+      "region": "华南二区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳海上世界店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 5,
+      "netRevenue": 115,
+      "region": "华南四区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳湾万象城店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 3,
+      "netRevenue": 64,
+      "region": "华南四区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳科兴科学园店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 1,
+      "netRevenue": 23,
+      "region": "华南四区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳腾讯总部园区店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 1,
+      "netRevenue": 23,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳金光华店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 1,
+      "netRevenue": 23,
+      "region": "华南一区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "珠海万象汇店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 2,
+      "netRevenue": 43.239999999999995,
+      "region": "华南七区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "珠海富华里店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 3,
+      "netRevenue": 66.24,
+      "region": "华南七区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "顺德万象汇店",
+      "category": "雪糕",
+      "itemName": "老椰清补凉雪糕",
+      "quantity": 1,
+      "netRevenue": 18,
+      "region": "华南七区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州天环广场店",
+      "category": "雪糕",
+      "itemName": "芝麻花生鸳鸯",
+      "quantity": 13,
+      "netRevenue": 317,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "佛山岭南天地店",
+      "category": "雪糕",
+      "itemName": "超厚芋泥·雪糕",
+      "quantity": 3,
+      "netRevenue": 46,
+      "region": "华南六区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州乐峰广场店",
+      "category": "雪糕",
+      "itemName": "超厚芋泥·雪糕",
+      "quantity": 2,
+      "netRevenue": 38,
+      "region": "华南六区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州塔广场店",
+      "category": "雪糕",
+      "itemName": "超厚芋泥·雪糕",
+      "quantity": 3,
+      "netRevenue": 57,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州天汇广场店",
+      "category": "雪糕",
+      "itemName": "超厚芋泥·雪糕",
+      "quantity": 2,
+      "netRevenue": 19,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州天环广场店",
+      "category": "雪糕",
+      "itemName": "超厚芋泥·雪糕",
+      "quantity": 9,
+      "netRevenue": 170,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州太古汇店",
+      "category": "雪糕",
+      "itemName": "超厚芋泥·雪糕",
+      "quantity": 6,
+      "netRevenue": 113.56,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州永庆坊店·茶肆",
+      "category": "雪糕",
+      "itemName": "超厚芋泥·雪糕",
+      "quantity": 1,
+      "netRevenue": 19,
+      "region": "华南六区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳kkone店",
+      "category": "雪糕",
+      "itemName": "超厚芋泥·雪糕",
+      "quantity": 3,
+      "netRevenue": 57,
+      "region": "华南二区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳万象前海店",
+      "category": "雪糕",
+      "itemName": "超厚芋泥·雪糕",
+      "quantity": 4,
+      "netRevenue": 71,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳万象食家店",
+      "category": "雪糕",
+      "itemName": "超厚芋泥·雪糕",
+      "quantity": 2,
+      "netRevenue": 38,
+      "region": "华南一区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳宝安壹方城店",
+      "category": "雪糕",
+      "itemName": "超厚芋泥·雪糕",
+      "quantity": 1,
+      "netRevenue": 19,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳宝安大仟里店",
+      "category": "雪糕",
+      "itemName": "超厚芋泥·雪糕",
+      "quantity": 1,
+      "netRevenue": 19,
+      "region": "华南四区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳布吉万象汇店",
+      "category": "雪糕",
+      "itemName": "超厚芋泥·雪糕",
+      "quantity": 1,
+      "netRevenue": 14,
+      "region": "华南二区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳平安金融中心店",
+      "category": "雪糕",
+      "itemName": "超厚芋泥·雪糕",
+      "quantity": 2,
+      "netRevenue": 28,
+      "region": "华南一区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳怀德万象汇店",
+      "category": "雪糕",
+      "itemName": "超厚芋泥·雪糕",
+      "quantity": 1,
+      "netRevenue": 17,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳湾万象城店",
+      "category": "雪糕",
+      "itemName": "超厚芋泥·雪糕",
+      "quantity": 3,
+      "netRevenue": 57,
+      "region": "华南四区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳金光华店",
+      "category": "雪糕",
+      "itemName": "超厚芋泥·雪糕",
+      "quantity": 3,
+      "netRevenue": 46,
+      "region": "华南一区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "珠海万象汇店",
+      "category": "雪糕",
+      "itemName": "超厚芋泥·雪糕",
+      "quantity": 1,
+      "netRevenue": 19,
+      "region": "华南七区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "珠海富华里店",
+      "category": "雪糕",
+      "itemName": "超厚芋泥·雪糕",
+      "quantity": 3,
+      "netRevenue": 57,
+      "region": "华南七区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "顺德万象汇店",
+      "category": "雪糕",
+      "itemName": "超厚芋泥·雪糕",
+      "quantity": 2,
+      "netRevenue": 38,
+      "region": "华南七区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "东莞汇一城店",
+      "category": "雪糕",
+      "itemName": "超浓·牛乳雪糕",
+      "quantity": 5,
+      "netRevenue": 89,
+      "region": "华南六区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "东莞记忆店·茶肆",
+      "category": "雪糕",
+      "itemName": "超浓·牛乳雪糕",
+      "quantity": 2,
+      "netRevenue": 36,
+      "region": "华南六区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "佛山万象天地店·集",
+      "category": "雪糕",
+      "itemName": "超浓·牛乳雪糕",
+      "quantity": 14,
+      "netRevenue": 247,
+      "region": "华南七区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "佛山岭南天地店",
+      "category": "雪糕",
+      "itemName": "超浓·牛乳雪糕",
+      "quantity": 4,
+      "netRevenue": 72,
+      "region": "华南六区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "厦门SM新生活广场店·集",
+      "category": "雪糕",
+      "itemName": "超浓·牛乳雪糕",
+      "quantity": 3,
+      "netRevenue": 46.84,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "厦门万象城店",
+      "category": "雪糕",
+      "itemName": "超浓·牛乳雪糕",
+      "quantity": 3,
+      "netRevenue": 49,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州乐峰广场店",
+      "category": "雪糕",
+      "itemName": "超浓·牛乳雪糕",
+      "quantity": 3,
+      "netRevenue": 48,
+      "region": "华南六区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州塔广场店",
+      "category": "雪糕",
+      "itemName": "超浓·牛乳雪糕",
+      "quantity": 1,
+      "netRevenue": 18,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州天汇广场店",
+      "category": "雪糕",
+      "itemName": "超浓·牛乳雪糕",
+      "quantity": 1,
+      "netRevenue": 18,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州天环广场店",
+      "category": "雪糕",
+      "itemName": "超浓·牛乳雪糕",
+      "quantity": 7,
+      "netRevenue": 125,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州太古汇店",
+      "category": "雪糕",
+      "itemName": "超浓·牛乳雪糕",
+      "quantity": 2,
+      "netRevenue": 36,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州永庆坊店·茶肆",
+      "category": "雪糕",
+      "itemName": "超浓·牛乳雪糕",
+      "quantity": 1,
+      "netRevenue": 18,
+      "region": "华南六区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳ONE AVENUE卓悦中心店",
+      "category": "雪糕",
+      "itemName": "超浓·牛乳雪糕",
+      "quantity": 1,
+      "netRevenue": 18,
+      "region": "华南一区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳万象前海店",
+      "category": "雪糕",
+      "itemName": "超浓·牛乳雪糕",
+      "quantity": 1,
+      "netRevenue": 18,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳万象食家店",
+      "category": "雪糕",
+      "itemName": "超浓·牛乳雪糕",
+      "quantity": 2,
+      "netRevenue": 26,
+      "region": "华南一区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳仁恒梦中心店",
+      "category": "雪糕",
+      "itemName": "超浓·牛乳雪糕",
+      "quantity": 2,
+      "netRevenue": 35.59,
+      "region": "华南二区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳宝安壹方城店",
+      "category": "雪糕",
+      "itemName": "超浓·牛乳雪糕",
+      "quantity": 1,
+      "netRevenue": 18,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳平安金融中心店",
+      "category": "雪糕",
+      "itemName": "超浓·牛乳雪糕",
+      "quantity": 2,
+      "netRevenue": 36,
+      "region": "华南一区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳怀德万象汇店",
+      "category": "雪糕",
+      "itemName": "超浓·牛乳雪糕",
+      "quantity": 2,
+      "netRevenue": 36,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳来福士广场店",
+      "category": "雪糕",
+      "itemName": "超浓·牛乳雪糕",
+      "quantity": 1,
+      "netRevenue": 18,
+      "region": "华南四区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳腾讯总部园区店",
+      "category": "雪糕",
+      "itemName": "超浓·牛乳雪糕",
+      "quantity": 2,
+      "netRevenue": 35,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳金光华店",
+      "category": "雪糕",
+      "itemName": "超浓·牛乳雪糕",
+      "quantity": 1,
+      "netRevenue": 13,
+      "region": "华南一区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "珠海万象汇店",
+      "category": "雪糕",
+      "itemName": "超浓·牛乳雪糕",
+      "quantity": 1,
+      "netRevenue": 17.81,
+      "region": "华南七区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "珠海富华里店",
+      "category": "雪糕",
+      "itemName": "超浓·牛乳雪糕",
+      "quantity": 1,
+      "netRevenue": 18,
+      "region": "华南七区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州太古汇店",
+      "category": "雪糕",
+      "itemName": "超浓·花生雪糕",
+      "quantity": 1,
+      "netRevenue": 21,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "东莞汇一城店",
+      "category": "雪糕",
+      "itemName": "酒酿米麻薯·雪糕",
+      "quantity": 5,
+      "netRevenue": 115,
+      "region": "华南六区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "佛山万象天地店·集",
+      "category": "雪糕",
+      "itemName": "酒酿米麻薯·雪糕",
+      "quantity": 11,
+      "netRevenue": 248,
+      "region": "华南七区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "佛山岭南天地店",
+      "category": "雪糕",
+      "itemName": "酒酿米麻薯·雪糕",
+      "quantity": 3,
+      "netRevenue": 61.5,
+      "region": "华南六区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "厦门SM新生活广场店·集",
+      "category": "雪糕",
+      "itemName": "酒酿米麻薯·雪糕",
+      "quantity": 6,
+      "netRevenue": 102.24,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "厦门万象城店",
+      "category": "雪糕",
+      "itemName": "酒酿米麻薯·雪糕",
+      "quantity": 5,
+      "netRevenue": 100,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州乐峰广场店",
+      "category": "雪糕",
+      "itemName": "酒酿米麻薯·雪糕",
+      "quantity": 4,
+      "netRevenue": 92,
+      "region": "华南六区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州塔广场店",
+      "category": "雪糕",
+      "itemName": "酒酿米麻薯·雪糕",
+      "quantity": 2,
+      "netRevenue": 46,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州天汇广场店",
+      "category": "雪糕",
+      "itemName": "酒酿米麻薯·雪糕",
+      "quantity": 6,
+      "netRevenue": 133,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州天环广场店",
+      "category": "雪糕",
+      "itemName": "酒酿米麻薯·雪糕",
+      "quantity": 15,
+      "netRevenue": 333,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州太古汇店",
+      "category": "雪糕",
+      "itemName": "酒酿米麻薯·雪糕",
+      "quantity": 7,
+      "netRevenue": 149.5,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州永庆坊店·茶肆",
+      "category": "雪糕",
+      "itemName": "酒酿米麻薯·雪糕",
+      "quantity": 2,
+      "netRevenue": 46,
+      "region": "华南六区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳ONE AVENUE卓悦中心店",
+      "category": "雪糕",
+      "itemName": "酒酿米麻薯·雪糕",
+      "quantity": 5,
+      "netRevenue": 115,
+      "region": "华南一区"
+    },
+    {
+      "date": "2026-09-29",
       "store": "深圳kkone店",
       "category": "雪糕",
       "itemName": "酒酿米麻薯·雪糕",
       "quantity": 5,
-      "netRevenue": 86.73,
+      "netRevenue": 87,
       "region": "华南二区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "深圳万象前海店",
       "category": "雪糕",
       "itemName": "酒酿米麻薯·雪糕",
-      "quantity": 3,
-      "netRevenue": 69,
+      "quantity": 1,
+      "netRevenue": 23,
       "region": "华南三区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "深圳万象天地店·茶歇",
       "category": "雪糕",
       "itemName": "酒酿米麻薯·雪糕",
@@ -1134,70 +1116,43 @@
       "region": "华南四区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "深圳万象食家店",
       "category": "雪糕",
       "itemName": "酒酿米麻薯·雪糕",
-      "quantity": 1,
-      "netRevenue": 23,
+      "quantity": 3,
+      "netRevenue": 69,
       "region": "华南一区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "深圳仁恒梦中心店",
       "category": "雪糕",
       "itemName": "酒酿米麻薯·雪糕",
-      "quantity": 1,
-      "netRevenue": 23,
-      "region": "华南二区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳天安云谷店",
-      "category": "雪糕",
-      "itemName": "酒酿米麻薯·雪糕",
-      "quantity": 2,
-      "netRevenue": 43.78,
-      "region": "华南一区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳宝安壹方城店",
-      "category": "雪糕",
-      "itemName": "酒酿米麻薯·雪糕",
-      "quantity": 5,
-      "netRevenue": 114,
-      "region": "华南三区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳宝安大仟里店",
-      "category": "雪糕",
-      "itemName": "酒酿米麻薯·雪糕",
       "quantity": 3,
-      "netRevenue": 67,
-      "region": "华南四区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳布吉万象汇店",
-      "category": "雪糕",
-      "itemName": "酒酿米麻薯·雪糕",
-      "quantity": 2,
       "netRevenue": 41,
       "region": "华南二区"
     },
     {
-      "date": "2026-09-28",
-      "store": "深圳平安金融中心店",
+      "date": "2026-09-29",
+      "store": "深圳宝安壹方城店",
       "category": "雪糕",
       "itemName": "酒酿米麻薯·雪糕",
       "quantity": 5,
-      "netRevenue": 111.55,
+      "netRevenue": 108.1,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳平安金融中心店",
+      "category": "雪糕",
+      "itemName": "酒酿米麻薯·雪糕",
+      "quantity": 4,
+      "netRevenue": 92,
       "region": "华南一区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "深圳怀德万象汇店",
       "category": "雪糕",
       "itemName": "酒酿米麻薯·雪糕",
@@ -1206,89 +1161,98 @@
       "region": "华南三区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "深圳来福士广场店",
       "category": "雪糕",
       "itemName": "酒酿米麻薯·雪糕",
-      "quantity": 2,
-      "netRevenue": 46,
+      "quantity": 1,
+      "netRevenue": 23,
       "region": "华南四区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "深圳梅林卓悦汇店",
       "category": "雪糕",
       "itemName": "酒酿米麻薯·雪糕",
       "quantity": 4,
-      "netRevenue": 75,
+      "netRevenue": 87,
       "region": "华南二区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "深圳海上世界店",
       "category": "雪糕",
       "itemName": "酒酿米麻薯·雪糕",
-      "quantity": 2,
-      "netRevenue": 45.08,
+      "quantity": 3,
+      "netRevenue": 69,
       "region": "华南四区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "深圳湾万象城店",
+      "category": "雪糕",
+      "itemName": "酒酿米麻薯·雪糕",
+      "quantity": 7,
+      "netRevenue": 161,
+      "region": "华南四区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳科兴科学园店",
+      "category": "雪糕",
+      "itemName": "酒酿米麻薯·雪糕",
+      "quantity": 3,
+      "netRevenue": 69,
+      "region": "华南四区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳腾讯总部园区店",
       "category": "雪糕",
       "itemName": "酒酿米麻薯·雪糕",
       "quantity": 5,
       "netRevenue": 115,
-      "region": "华南四区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳腾讯总部园区店",
-      "category": "雪糕",
-      "itemName": "酒酿米麻薯·雪糕",
-      "quantity": 4,
-      "netRevenue": 40.08,
       "region": "华南三区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "深圳金光华店",
       "category": "雪糕",
       "itemName": "酒酿米麻薯·雪糕",
       "quantity": 4,
-      "netRevenue": 87,
+      "netRevenue": 92,
       "region": "华南一区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "珠海万象汇店",
       "category": "雪糕",
       "itemName": "酒酿米麻薯·雪糕",
       "quantity": 2,
-      "netRevenue": 46,
+      "netRevenue": 44,
       "region": "华南七区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "珠海富华里店",
       "category": "雪糕",
       "itemName": "酒酿米麻薯·雪糕",
-      "quantity": 13,
-      "netRevenue": 293.37,
+      "quantity": 5,
+      "netRevenue": 113.35,
       "region": "华南七区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "顺德万象汇店",
       "category": "雪糕",
       "itemName": "酒酿米麻薯·雪糕",
-      "quantity": 7,
-      "netRevenue": 151,
+      "quantity": 2,
+      "netRevenue": 44,
       "region": "华南七区"
     },
     {
-      "date": "2026-09-28",
-      "store": "佛山岭南天地店",
+      "date": "2026-09-29",
+      "store": "东莞汇一城店",
       "category": "雪糕",
       "itemName": "黑糖珍珠·雪糕",
       "quantity": 2,
@@ -1296,7 +1260,25 @@
       "region": "华南六区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
+      "store": "佛山岭南天地店",
+      "category": "雪糕",
+      "itemName": "黑糖珍珠·雪糕",
+      "quantity": 1,
+      "netRevenue": 10,
+      "region": "华南六区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州乐峰广场店",
+      "category": "雪糕",
+      "itemName": "黑糖珍珠·雪糕",
+      "quantity": 2,
+      "netRevenue": 37,
+      "region": "华南六区"
+    },
+    {
+      "date": "2026-09-29",
       "store": "广州塔广场店",
       "category": "雪糕",
       "itemName": "黑糖珍珠·雪糕",
@@ -1305,97 +1287,70 @@
       "region": "华南五区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "广州天汇广场店",
       "category": "雪糕",
       "itemName": "黑糖珍珠·雪糕",
-      "quantity": 1,
-      "netRevenue": 19,
+      "quantity": 2,
+      "netRevenue": 38,
       "region": "华南五区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "广州天环广场店",
+      "category": "雪糕",
+      "itemName": "黑糖珍珠·雪糕",
+      "quantity": 5,
+      "netRevenue": 90,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州太古汇店",
+      "category": "雪糕",
+      "itemName": "黑糖珍珠·雪糕",
+      "quantity": 1,
+      "netRevenue": 0,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳ONE AVENUE卓悦中心店",
       "category": "雪糕",
       "itemName": "黑糖珍珠·雪糕",
       "quantity": 1,
       "netRevenue": 19,
-      "region": "华南五区"
+      "region": "华南一区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
+      "store": "深圳kkone店",
+      "category": "雪糕",
+      "itemName": "黑糖珍珠·雪糕",
+      "quantity": 3,
+      "netRevenue": 33,
+      "region": "华南二区"
+    },
+    {
+      "date": "2026-09-29",
       "store": "深圳万象前海店",
       "category": "雪糕",
       "itemName": "黑糖珍珠·雪糕",
       "quantity": 1,
-      "netRevenue": 14,
+      "netRevenue": 16.74,
       "region": "华南三区"
     },
     {
-      "date": "2026-09-28",
-      "store": "深圳万象食家店",
-      "category": "雪糕",
-      "itemName": "黑糖珍珠·雪糕",
-      "quantity": 2,
-      "netRevenue": 35.72,
-      "region": "华南一区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳仁恒梦中心店",
-      "category": "雪糕",
-      "itemName": "黑糖珍珠·雪糕",
-      "quantity": 1,
-      "netRevenue": 14,
-      "region": "华南二区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳布吉万象汇店",
-      "category": "雪糕",
-      "itemName": "黑糖珍珠·雪糕",
-      "quantity": 2,
-      "netRevenue": 38,
-      "region": "华南二区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳怀德万象汇店",
-      "category": "雪糕",
-      "itemName": "黑糖珍珠·雪糕",
-      "quantity": 1,
-      "netRevenue": 9,
-      "region": "华南三区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳湾万象城店",
-      "category": "雪糕",
-      "itemName": "黑糖珍珠·雪糕",
-      "quantity": 1,
-      "netRevenue": 19,
-      "region": "华南四区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳金光华店",
-      "category": "雪糕",
-      "itemName": "黑糖珍珠·雪糕",
-      "quantity": 1,
-      "netRevenue": 19,
-      "region": "华南一区"
-    },
-    {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "珠海万象汇店",
       "category": "雪糕",
       "itemName": "黑糖珍珠·雪糕",
-      "quantity": 3,
-      "netRevenue": 54.629999999999995,
+      "quantity": 1,
+      "netRevenue": 19,
       "region": "华南七区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "珠海富华里店",
       "category": "雪糕",
       "itemName": "黑糖珍珠·雪糕",
@@ -1404,7 +1359,7 @@
       "region": "华南七区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "顺德万象汇店",
       "category": "雪糕",
       "itemName": "黑糖珍珠·雪糕",
@@ -1413,224 +1368,233 @@
       "region": "华南七区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "东莞汇一城店",
       "category": "雪糕",
       "itemName": "龙眼栀子雪糕",
-      "quantity": 2,
-      "netRevenue": 0,
+      "quantity": 5,
+      "netRevenue": 103.5,
       "region": "华南六区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "东莞记忆店·茶肆",
       "category": "雪糕",
       "itemName": "龙眼栀子雪糕",
-      "quantity": 1,
-      "netRevenue": 27,
+      "quantity": 3,
+      "netRevenue": 72.9,
       "region": "华南六区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "佛山万象天地店·集",
       "category": "雪糕",
       "itemName": "龙眼栀子雪糕",
-      "quantity": 9,
-      "netRevenue": 237.85,
+      "quantity": 3,
+      "netRevenue": 81,
       "region": "华南七区"
     },
     {
-      "date": "2026-09-28",
-      "store": "佛山岭南天地店",
-      "category": "雪糕",
-      "itemName": "龙眼栀子雪糕",
-      "quantity": 1,
-      "netRevenue": 27,
-      "region": "华南六区"
-    },
-    {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "厦门SM新生活广场店·集",
       "category": "雪糕",
       "itemName": "龙眼栀子雪糕",
-      "quantity": 4,
-      "netRevenue": 107.72999999999999,
+      "quantity": 9,
+      "netRevenue": 157,
       "region": "华南三区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "厦门万象城店",
       "category": "雪糕",
       "itemName": "龙眼栀子雪糕",
       "quantity": 2,
-      "netRevenue": 27,
+      "netRevenue": 52,
       "region": "华南三区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "广州乐峰广场店",
       "category": "雪糕",
       "itemName": "龙眼栀子雪糕",
       "quantity": 1,
-      "netRevenue": 27,
+      "netRevenue": 24.3,
       "region": "华南六区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
+      "store": "广州塔广场店",
+      "category": "雪糕",
+      "itemName": "龙眼栀子雪糕",
+      "quantity": 1,
+      "netRevenue": 26,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
       "store": "广州天汇广场店",
       "category": "雪糕",
       "itemName": "龙眼栀子雪糕",
-      "quantity": 4,
-      "netRevenue": 81,
+      "quantity": 6,
+      "netRevenue": 132.59,
       "region": "华南五区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "广州太古汇店",
       "category": "雪糕",
       "itemName": "龙眼栀子雪糕",
-      "quantity": 3,
-      "netRevenue": 54,
+      "quantity": 1,
+      "netRevenue": 27,
       "region": "华南五区"
     },
     {
-      "date": "2026-09-28",
-      "store": "广州永庆坊店·茶肆",
+      "date": "2026-09-29",
+      "store": "深圳ONE AVENUE卓悦中心店",
       "category": "雪糕",
       "itemName": "龙眼栀子雪糕",
-      "quantity": 1,
-      "netRevenue": 27,
-      "region": "华南六区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳kkone店",
-      "category": "雪糕",
-      "itemName": "龙眼栀子雪糕",
-      "quantity": 2,
-      "netRevenue": 54,
-      "region": "华南二区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳万象天地店·茶歇",
-      "category": "雪糕",
-      "itemName": "龙眼栀子雪糕",
-      "quantity": 8,
-      "netRevenue": 135,
-      "region": "华南四区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳万象食家店",
-      "category": "雪糕",
-      "itemName": "龙眼栀子雪糕",
-      "quantity": 1,
-      "netRevenue": 27,
+      "quantity": 4,
+      "netRevenue": 99.9,
       "region": "华南一区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
+      "store": "深圳kkone店",
+      "category": "雪糕",
+      "itemName": "龙眼栀子雪糕",
+      "quantity": 1,
+      "netRevenue": 27,
+      "region": "华南二区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳万象前海店",
+      "category": "雪糕",
+      "itemName": "龙眼栀子雪糕",
+      "quantity": 2,
+      "netRevenue": 51.31,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳万象天地店·茶歇",
+      "category": "雪糕",
+      "itemName": "龙眼栀子雪糕",
+      "quantity": 3,
+      "netRevenue": 76,
+      "region": "华南四区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳万象食家店",
+      "category": "雪糕",
+      "itemName": "龙眼栀子雪糕",
+      "quantity": 3,
+      "netRevenue": 45.9,
+      "region": "华南一区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳仁恒梦中心店",
+      "category": "雪糕",
+      "itemName": "龙眼栀子雪糕",
+      "quantity": 3,
+      "netRevenue": 49.5,
+      "region": "华南二区"
+    },
+    {
+      "date": "2026-09-29",
       "store": "深圳宝安壹方城店",
       "category": "雪糕",
       "itemName": "龙眼栀子雪糕",
       "quantity": 3,
-      "netRevenue": 54,
+      "netRevenue": 80.68,
       "region": "华南三区"
     },
     {
-      "date": "2026-09-28",
-      "store": "深圳布吉万象汇店",
+      "date": "2026-09-29",
+      "store": "深圳宝安大仟里店",
       "category": "雪糕",
       "itemName": "龙眼栀子雪糕",
-      "quantity": 0,
-      "netRevenue": 0,
-      "region": "华南二区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳平安金融中心店",
-      "category": "雪糕",
-      "itemName": "龙眼栀子雪糕",
-      "quantity": 2,
-      "netRevenue": 54,
-      "region": "华南一区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳来福士广场店",
-      "category": "雪糕",
-      "itemName": "龙眼栀子雪糕",
-      "quantity": 4,
-      "netRevenue": 106.51,
+      "quantity": 1,
+      "netRevenue": 22.41,
       "region": "华南四区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
+      "store": "深圳布吉万象汇店",
+      "category": "雪糕",
+      "itemName": "龙眼栀子雪糕",
+      "quantity": 5,
+      "netRevenue": 94.76,
+      "region": "华南二区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳平安金融中心店",
+      "category": "雪糕",
+      "itemName": "龙眼栀子雪糕",
+      "quantity": 3,
+      "netRevenue": 81,
+      "region": "华南一区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳怀德万象汇店",
+      "category": "雪糕",
+      "itemName": "龙眼栀子雪糕",
+      "quantity": 2,
+      "netRevenue": 53.5,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
       "store": "深圳梅林卓悦汇店",
       "category": "雪糕",
       "itemName": "龙眼栀子雪糕",
       "quantity": 2,
-      "netRevenue": 54,
+      "netRevenue": 50,
       "region": "华南二区"
     },
     {
-      "date": "2026-09-28",
-      "store": "深圳海上世界店",
-      "category": "雪糕",
-      "itemName": "龙眼栀子雪糕",
-      "quantity": 1,
-      "netRevenue": 25.92,
-      "region": "华南四区"
-    },
-    {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "深圳湾万象城店",
       "category": "雪糕",
       "itemName": "龙眼栀子雪糕",
-      "quantity": 3,
-      "netRevenue": 81,
+      "quantity": 5,
+      "netRevenue": 135,
       "region": "华南四区"
     },
     {
-      "date": "2026-09-28",
-      "store": "深圳腾讯总部园区店",
-      "category": "雪糕",
-      "itemName": "龙眼栀子雪糕",
-      "quantity": 2,
-      "netRevenue": 52.92,
-      "region": "华南三区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳金光华店",
+      "date": "2026-09-29",
+      "store": "深圳科兴科学园店",
       "category": "雪糕",
       "itemName": "龙眼栀子雪糕",
       "quantity": 1,
-      "netRevenue": 27,
+      "netRevenue": 0,
+      "region": "华南四区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳金光华店",
+      "category": "雪糕",
+      "itemName": "龙眼栀子雪糕",
+      "quantity": 4,
+      "netRevenue": 108,
       "region": "华南一区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "珠海万象汇店",
       "category": "雪糕",
       "itemName": "龙眼栀子雪糕",
-      "quantity": 5,
-      "netRevenue": 130,
+      "quantity": 2,
+      "netRevenue": 54,
       "region": "华南七区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "珠海富华里店",
-      "category": "雪糕",
-      "itemName": "龙眼栀子雪糕",
-      "quantity": 8,
-      "netRevenue": 207.15,
-      "region": "华南七区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "顺德万象汇店",
       "category": "雪糕",
       "itemName": "龙眼栀子雪糕",
       "quantity": 3,
@@ -1638,43 +1602,61 @@
       "region": "华南七区"
     },
     {
-      "date": "2026-09-28",
-      "store": "佛山万象天地店·集",
-      "category": "零售",
-      "itemName": "姜汁灰枣腰果糕",
+      "date": "2026-09-29",
+      "store": "顺德万象汇店",
+      "category": "雪糕",
+      "itemName": "龙眼栀子雪糕",
       "quantity": 2,
-      "netRevenue": 58,
+      "netRevenue": 44,
       "region": "华南七区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
+      "store": "佛山万象天地店·集",
+      "category": "零售",
+      "itemName": "姜汁灰枣腰果糕",
+      "quantity": 5,
+      "netRevenue": 145,
+      "region": "华南七区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "佛山岭南天地店",
+      "category": "零售",
+      "itemName": "姜汁灰枣腰果糕",
+      "quantity": 1,
+      "netRevenue": 29,
+      "region": "华南六区"
+    },
+    {
+      "date": "2026-09-29",
       "store": "厦门SM新生活广场店·集",
       "category": "零售",
       "itemName": "姜汁灰枣腰果糕",
       "quantity": 2,
-      "netRevenue": 57.69,
+      "netRevenue": 58,
       "region": "华南三区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "广州乐峰广场店",
       "category": "零售",
       "itemName": "姜汁灰枣腰果糕",
-      "quantity": 1,
-      "netRevenue": 28.04,
+      "quantity": 2,
+      "netRevenue": 9.66,
       "region": "华南六区"
     },
     {
-      "date": "2026-09-28",
-      "store": "广州天环广场店",
+      "date": "2026-09-29",
+      "store": "深圳万象天地店·茶歇",
       "category": "零售",
       "itemName": "姜汁灰枣腰果糕",
-      "quantity": 3,
-      "netRevenue": 79.75,
-      "region": "华南五区"
+      "quantity": 2,
+      "netRevenue": 58,
+      "region": "华南四区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "珠海富华里店",
       "category": "零售",
       "itemName": "姜汁灰枣腰果糕",
@@ -1683,25 +1665,70 @@
       "region": "华南七区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "佛山万象天地店·集",
       "category": "零售",
       "itemName": "安格斯·牛脆脆（孜然味）",
-      "quantity": 4,
-      "netRevenue": 236,
+      "quantity": 3,
+      "netRevenue": 177,
       "region": "华南七区"
     },
     {
-      "date": "2026-09-28",
-      "store": "佛山万象天地店·集",
+      "date": "2026-09-29",
+      "store": "佛山岭南天地店",
       "category": "零售",
-      "itemName": "安格斯·牛脆脆（河池果酱烧烤味）",
-      "quantity": 0,
-      "netRevenue": 0,
+      "itemName": "安格斯·牛脆脆（孜然味）",
+      "quantity": 1,
+      "netRevenue": 44.25,
+      "region": "华南六区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "厦门SM新生活广场店·集",
+      "category": "零售",
+      "itemName": "安格斯·牛脆脆（孜然味）",
+      "quantity": 1,
+      "netRevenue": 59,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州天环广场店",
+      "category": "零售",
+      "itemName": "安格斯·牛脆脆（孜然味）",
+      "quantity": 2,
+      "netRevenue": 112.1,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳万象天地店·茶歇",
+      "category": "零售",
+      "itemName": "安格斯·牛脆脆（孜然味）",
+      "quantity": 1,
+      "netRevenue": 44.25,
+      "region": "华南四区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳平安金融中心店",
+      "category": "零售",
+      "itemName": "安格斯·牛脆脆（孜然味）",
+      "quantity": 3,
+      "netRevenue": 176,
+      "region": "华南一区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "珠海富华里店",
+      "category": "零售",
+      "itemName": "安格斯·牛脆脆（孜然味）",
+      "quantity": 1,
+      "netRevenue": 59,
       "region": "华南七区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "佛山万象天地店·集",
       "category": "零售",
       "itemName": "春观音（乌龙茶）",
@@ -1710,16 +1737,43 @@
       "region": "华南七区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
+      "store": "厦门SM新生活广场店·集",
+      "category": "零售",
+      "itemName": "春观音（乌龙茶）",
+      "quantity": 1,
+      "netRevenue": 69,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
       "store": "广州天环广场店",
       "category": "零售",
       "itemName": "春观音（乌龙茶）",
-      "quantity": 4,
-      "netRevenue": 276,
+      "quantity": 1,
+      "netRevenue": 69,
       "region": "华南五区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
+      "store": "佛山万象天地店·集",
+      "category": "零售",
+      "itemName": "有机抹茶",
+      "quantity": 1,
+      "netRevenue": 108,
+      "region": "华南七区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "厦门SM新生活广场店·集",
+      "category": "零售",
+      "itemName": "有机抹茶",
+      "quantity": 1,
+      "netRevenue": 108,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
       "store": "佛山万象天地店·集",
       "category": "零售",
       "itemName": "有机灰枣",
@@ -1728,52 +1782,70 @@
       "region": "华南七区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
+      "store": "厦门SM新生活广场店·集",
+      "category": "零售",
+      "itemName": "有机灰枣",
+      "quantity": 2,
+      "netRevenue": 50.75,
+      "region": "华南三区"
+    },
+    {
+      "date": "2026-09-29",
       "store": "广州天环广场店",
       "category": "零售",
       "itemName": "有机灰枣",
-      "quantity": 3,
-      "netRevenue": 79.75,
+      "quantity": 2,
+      "netRevenue": 58,
       "region": "华南五区"
     },
     {
-      "date": "2026-09-28",
-      "store": "佛山万象天地店·集",
+      "date": "2026-09-29",
+      "store": "广州乐峰广场店",
       "category": "零售",
       "itemName": "有机牛乳(冷藏)",
       "quantity": 2,
-      "netRevenue": 79.8,
-      "region": "华南七区"
+      "netRevenue": 71.82,
+      "region": "华南六区"
     },
     {
-      "date": "2026-09-28",
-      "store": "广州天环广场店",
-      "category": "零售",
-      "itemName": "有机牛乳(冷藏)",
-      "quantity": 3,
-      "netRevenue": 119.69999999999999,
-      "region": "华南五区"
-    },
-    {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "广州太古汇店",
       "category": "零售",
       "itemName": "有机牛乳(冷藏)",
-      "quantity": 2,
-      "netRevenue": 59.84,
+      "quantity": 1,
+      "netRevenue": 29.41,
       "region": "华南五区"
     },
     {
-      "date": "2026-09-28",
-      "store": "深圳万象食家店",
+      "date": "2026-09-29",
+      "store": "深圳kkone店",
       "category": "零售",
       "itemName": "有机牛乳(冷藏)",
       "quantity": 1,
-      "netRevenue": 39.28,
-      "region": "华南一区"
+      "netRevenue": 39.9,
+      "region": "华南二区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
+      "store": "深圳仁恒梦中心店",
+      "category": "零售",
+      "itemName": "有机牛乳(冷藏)",
+      "quantity": 1,
+      "netRevenue": 33.61,
+      "region": "华南二区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "东莞汇一城店",
+      "category": "零售",
+      "itemName": "有机米酒",
+      "quantity": 1,
+      "netRevenue": 41.51,
+      "region": "华南六区"
+    },
+    {
+      "date": "2026-09-29",
       "store": "佛山万象天地店·集",
       "category": "零售",
       "itemName": "有机米酒",
@@ -1782,52 +1854,25 @@
       "region": "华南七区"
     },
     {
-      "date": "2026-09-28",
-      "store": "厦门SM新生活广场店·集",
+      "date": "2026-09-29",
+      "store": "深圳kkone店",
+      "category": "零售",
+      "itemName": "有机米酒",
+      "quantity": 2,
+      "netRevenue": 113.2,
+      "region": "华南二区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳湾万象城店",
       "category": "零售",
       "itemName": "有机米酒",
       "quantity": 1,
       "netRevenue": 57,
-      "region": "华南三区"
+      "region": "华南四区"
     },
     {
-      "date": "2026-09-28",
-      "store": "广州天环广场店",
-      "category": "零售",
-      "itemName": "有机米酒",
-      "quantity": 5,
-      "netRevenue": 285,
-      "region": "华南五区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳万象前海店",
-      "category": "零售",
-      "itemName": "有机米酒",
-      "quantity": 1,
-      "netRevenue": 57,
-      "region": "华南三区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳怀德万象汇店",
-      "category": "零售",
-      "itemName": "有机米酒",
-      "quantity": 1,
-      "netRevenue": 45.6,
-      "region": "华南三区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "珠海富华里店",
-      "category": "零售",
-      "itemName": "有机米酒",
-      "quantity": 1,
-      "netRevenue": 57,
-      "region": "华南七区"
-    },
-    {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "佛山万象天地店·集",
       "category": "零售",
       "itemName": "有机葡萄干",
@@ -1836,52 +1881,25 @@
       "region": "华南七区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "佛山万象天地店·集",
-      "category": "零售",
-      "itemName": "有机酒酿",
-      "quantity": 4,
-      "netRevenue": 188,
-      "region": "华南七区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "佛山岭南天地店",
-      "category": "零售",
-      "itemName": "有机酒酿",
-      "quantity": 2,
-      "netRevenue": 81.25,
-      "region": "华南六区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州乐峰广场店",
-      "category": "零售",
-      "itemName": "有机酒酿",
-      "quantity": 1,
-      "netRevenue": 45.45,
-      "region": "华南六区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州天环广场店",
-      "category": "零售",
-      "itemName": "有机酒酿",
-      "quantity": 4,
-      "netRevenue": 183.3,
-      "region": "华南五区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳万象前海店",
       "category": "零售",
       "itemName": "有机酒酿",
       "quantity": 1,
       "netRevenue": 47,
-      "region": "华南三区"
+      "region": "华南七区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
+      "store": "广州天环广场店",
+      "category": "零售",
+      "itemName": "有机酒酿",
+      "quantity": 1,
+      "netRevenue": 47,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
       "store": "深圳天安云谷店",
       "category": "零售",
       "itemName": "有机酒酿",
@@ -1890,52 +1908,79 @@
       "region": "华南一区"
     },
     {
-      "date": "2026-09-28",
-      "store": "珠海富华里店",
+      "date": "2026-09-29",
+      "store": "深圳平安金融中心店",
       "category": "零售",
       "itemName": "有机酒酿",
-      "quantity": 4,
-      "netRevenue": 186.25,
-      "region": "华南七区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "佛山万象天地店·集",
-      "category": "零售",
-      "itemName": "芋头条（枫糖椰子味）",
-      "quantity": 0,
-      "netRevenue": 0,
-      "region": "华南七区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "深圳ONE AVENUE卓悦中心店",
-      "category": "零售",
-      "itemName": "芋头条（枫糖椰子味）",
       "quantity": 1,
-      "netRevenue": 11.43,
+      "netRevenue": 47,
       "region": "华南一区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
+      "store": "深圳来福士广场店",
+      "category": "零售",
+      "itemName": "有机酒酿",
+      "quantity": 1,
+      "netRevenue": 47,
+      "region": "华南四区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳湾万象城店",
+      "category": "零售",
+      "itemName": "有机酒酿",
+      "quantity": 1,
+      "netRevenue": 47,
+      "region": "华南四区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳科兴科学园店",
+      "category": "零售",
+      "itemName": "有机酒酿",
+      "quantity": 1,
+      "netRevenue": 47,
+      "region": "华南四区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "广州乐峰广场店",
+      "category": "零售",
+      "itemName": "芋头条（枫糖椰子味）",
+      "quantity": 2,
+      "netRevenue": 28.5,
+      "region": "华南六区"
+    },
+    {
+      "date": "2026-09-29",
       "store": "深圳kkone店",
       "category": "零售",
       "itemName": "芋头条（枫糖椰子味）",
-      "quantity": 1,
-      "netRevenue": 15,
+      "quantity": 3,
+      "netRevenue": 44.8,
       "region": "华南二区"
     },
     {
-      "date": "2026-09-28",
-      "store": "深圳梅林卓悦汇店",
+      "date": "2026-09-29",
+      "store": "深圳宝安大仟里店",
       "category": "零售",
       "itemName": "芋头条（枫糖椰子味）",
       "quantity": 1,
       "netRevenue": 15,
-      "region": "华南二区"
+      "region": "华南四区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
+      "store": "深圳平安金融中心店",
+      "category": "零售",
+      "itemName": "芋头条（枫糖椰子味）",
+      "quantity": 5,
+      "netRevenue": 75,
+      "region": "华南一区"
+    },
+    {
+      "date": "2026-09-29",
       "store": "深圳科兴科学园店",
       "category": "零售",
       "itemName": "芋头条（枫糖椰子味）",
@@ -1944,102 +1989,111 @@
       "region": "华南四区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "佛山万象天地店·集",
       "category": "零售",
-      "itemName": "阿嬷的拌饭酱·广西风味酸笋辣酱",
-      "quantity": 2,
-      "netRevenue": 58,
+      "itemName": "阿嬷家的鲜石榴",
+      "quantity": 0,
+      "netRevenue": 0,
       "region": "华南七区"
     },
     {
-      "date": "2026-09-28",
-      "store": "佛山岭南天地店",
+      "date": "2026-09-29",
+      "store": "厦门SM新生活广场店·集",
       "category": "零售",
-      "itemName": "阿嬷的拌饭酱·广西风味酸笋辣酱",
-      "quantity": 2,
-      "netRevenue": 49.31,
-      "region": "华南六区"
+      "itemName": "阿嬷家的鲜石榴",
+      "quantity": 1,
+      "netRevenue": 18,
+      "region": "华南三区"
     },
     {
-      "date": "2026-09-28",
-      "store": "广州天环广场店",
-      "category": "零售",
-      "itemName": "阿嬷的拌饭酱·广西风味酸笋辣酱",
-      "quantity": 9,
-      "netRevenue": 253.3,
-      "region": "华南五区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "广州永庆坊店·茶肆",
+      "date": "2026-09-29",
+      "store": "佛山万象天地店·集",
       "category": "零售",
       "itemName": "阿嬷的拌饭酱·广西风味酸笋辣酱",
       "quantity": 1,
       "netRevenue": 29,
-      "region": "华南六区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "珠海富华里店",
-      "category": "零售",
-      "itemName": "阿嬷的拌饭酱·广西风味酸笋辣酱",
-      "quantity": 3,
-      "netRevenue": 87,
       "region": "华南七区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
+      "store": "广州天环广场店",
+      "category": "零售",
+      "itemName": "阿嬷的拌饭酱·广西风味酸笋辣酱",
+      "quantity": 3,
+      "netRevenue": 86,
+      "region": "华南五区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳万象天地店·茶歇",
+      "category": "零售",
+      "itemName": "阿嬷的拌饭酱·广西风味酸笋辣酱",
+      "quantity": 1,
+      "netRevenue": 29,
+      "region": "华南四区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "深圳平安金融中心店",
+      "category": "零售",
+      "itemName": "阿嬷的拌饭酱·广西风味酸笋辣酱",
+      "quantity": 2,
+      "netRevenue": 58,
+      "region": "华南一区"
+    },
+    {
+      "date": "2026-09-29",
       "store": "佛山万象天地店·集",
+      "category": "零售",
+      "itemName": "阿嬷的拌饭酱·鸡皮果紫苏辣酱",
+      "quantity": 3,
+      "netRevenue": 105,
+      "region": "华南七区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "佛山岭南天地店",
       "category": "零售",
       "itemName": "阿嬷的拌饭酱·鸡皮果紫苏辣酱",
       "quantity": 1,
       "netRevenue": 35,
-      "region": "华南七区"
-    },
-    {
-      "date": "2026-09-28",
-      "store": "佛山岭南天地店",
-      "category": "零售",
-      "itemName": "阿嬷的拌饭酱·鸡皮果紫苏辣酱",
-      "quantity": 3,
-      "netRevenue": 101.52,
       "region": "华南六区"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "厦门SM新生活广场店·集",
       "category": "零售",
       "itemName": "阿嬷的拌饭酱·鸡皮果紫苏辣酱",
       "quantity": 1,
-      "netRevenue": 34.62,
+      "netRevenue": 35,
       "region": "华南三区"
     },
     {
-      "date": "2026-09-28",
-      "store": "广州天环广场店",
-      "category": "零售",
-      "itemName": "阿嬷的拌饭酱·鸡皮果紫苏辣酱",
-      "quantity": 11,
-      "netRevenue": 361.7,
-      "region": "华南五区"
-    },
-    {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "store": "深圳万象天地店·茶歇",
       "category": "零售",
       "itemName": "阿嬷的拌饭酱·鸡皮果紫苏辣酱",
-      "quantity": 1,
-      "netRevenue": 31.5,
+      "quantity": 2,
+      "netRevenue": 70,
       "region": "华南四区"
     },
     {
-      "date": "2026-09-28",
-      "store": "珠海富华里店",
+      "date": "2026-09-29",
+      "store": "深圳平安金融中心店",
       "category": "零售",
       "itemName": "阿嬷的拌饭酱·鸡皮果紫苏辣酱",
       "quantity": 1,
       "netRevenue": 35,
+      "region": "华南一区"
+    },
+    {
+      "date": "2026-09-29",
+      "store": "珠海富华里店",
+      "category": "零售",
+      "itemName": "阿嬷的拌饭酱·鸡皮果紫苏辣酱",
+      "quantity": 1,
+      "netRevenue": 29.75,
       "region": "华南七区"
     }
   ]
